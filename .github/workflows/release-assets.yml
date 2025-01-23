@@ -1,0 +1,61 @@
+name: Publish Dictionary Files
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Clone and prepare source dictionary
+        run: |
+          git clone https://github.com/DuyguA/german-morph-dictionaries.git temp_repo
+          cd temp_repo
+          unzip morf_dict.zip
+          mv DE_morph_dict.txt ../data/input/
+          cd ..
+          rm -rf temp_repo
+
+      - name: Generate filtered dictionaries
+        run: |
+          cd src
+          python filter_whitelist.py ../data/input/DE_morph_dict.txt ../data/output/whitelist_dict.txt ../data/whitelists/ADJ_whitelist.txt ../data/whitelists/NN_whitelist.txt
+          python filter_sensible.py ../data/input/DE_morph_dict.txt ../data/output/DE_morph_dict_filtered.txt
+
+      - name: Upload Original Dictionary
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./data/input/DE_morph_dict.txt
+          asset_name: DE_morph_dict.txt
+          asset_content_type: text/plain
+
+      - name: Upload Whitelist Filtered Dictionary
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./data/output/whitelist_dict.txt
+          asset_name: whitelist_dict.txt
+          asset_content_type: text/plain
+
+      - name: Upload Sensible Filtered Dictionary
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./data/output/DE_morph_dict_filtered.txt
+          asset_name: DE_morph_dict_filtered.txt
+          asset_content_type: text/plain
