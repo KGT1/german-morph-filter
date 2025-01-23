@@ -11,3 +11,6 @@ data/output/*
 .vscode/
 .idea/
 
+# Temporary files
+tmp/
+

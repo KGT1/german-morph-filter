@@ -1,0 +1,3 @@
+[submodule "external/german-morph-dictionaries"]
+	path = external/german-morph-dictionaries
+	url = https://github.com/DuyguA/german-morph-dictionaries.git

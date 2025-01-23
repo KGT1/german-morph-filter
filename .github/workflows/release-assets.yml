@@ -9,33 +9,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
       
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Create directory structure
+      - name: Prepare working directories
         run: |
-          mkdir -p $GITHUB_WORKSPACE/data/input
-          mkdir -p $GITHUB_WORKSPACE/data/output
-          mkdir -p $GITHUB_WORKSPACE/data/whitelists
+          mkdir -p tmp/input tmp/output
 
-      - name: Clone and prepare source dictionary
+      - name: Prepare source dictionary
         run: |
-          pwd
-          git clone https://github.com/DuyguA/german-morph-dictionaries.git temp_repo
-          cd temp_repo
-          unzip morf_dict.zip
-          mv DE_morph_dict.txt $GITHUB_WORKSPACE/data/input/
-          cd $GITHUB_WORKSPACE
-          rm -rf temp_repo
+          cd external/german-morph-dictionaries
+          unzip morf_dict.zip -d ../../tmp/input/
 
       - name: Generate filtered dictionaries
         run: |
-          cd $GITHUB_WORKSPACE/src
-          python filter_whitelist.py ../data/input/DE_morph_dict.txt ../data/output/whitelist_dict.txt ../data/whitelists/ADJ_whitelist.txt ../data/whitelists/NN_whitelist.txt
-          python filter_sensible.py ../data/input/DE_morph_dict.txt ../data/output/DE_morph_dict_filtered.txt
+          cd src
+          python filter_whitelist.py ../tmp/input/DE_morph_dict.txt ../tmp/output/whitelist_dict.txt ../data/whitelists/ADJ_whitelist.txt ../data/whitelists/NN_whitelist.txt
+          python filter_sensible.py ../tmp/input/DE_morph_dict.txt ../tmp/output/DE_morph_dict_filtered.txt
 
       - name: Upload Original Dictionary
         uses: actions/upload-release-asset@v1
@@ -43,7 +38,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ${{ github.workspace }}/data/input/DE_morph_dict.txt
+          asset_path: ./tmp/input/DE_morph_dict.txt
           asset_name: DE_morph_dict.txt
           asset_content_type: text/plain
 
@@ -53,7 +48,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ${{ github.workspace }}/data/output/whitelist_dict.txt
+          asset_path: ./tmp/output/whitelist_dict.txt
           asset_name: whitelist_dict.txt
           asset_content_type: text/plain
 
@@ -63,6 +58,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ${{ github.workspace }}/data/output/DE_morph_dict_filtered.txt
+          asset_path: ./tmp/output/DE_morph_dict_filtered.txt
           asset_name: DE_morph_dict_filtered.txt
           asset_content_type: text/plain
