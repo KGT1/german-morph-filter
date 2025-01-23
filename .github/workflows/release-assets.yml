@@ -15,6 +15,12 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Create directory structure
+        run: |
+          mkdir -p data/input
+          mkdir -p data/output
+          mkdir -p data/whitelists
+
       - name: Clone and prepare source dictionary
         run: |
           git clone https://github.com/DuyguA/german-morph-dictionaries.git temp_repo
