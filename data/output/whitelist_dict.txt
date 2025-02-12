@@ -1,0 +1,4174 @@
+gerade
+gerade ADJ,fem,nom,sing,pos
+
+schneller
+schnell ADJ,masc,nom,sing,pos,strong
+
+Ampel
+Ampel NN,fem,nom,sing
+
+Anker
+Anker NN,masc,nom,sing
+
+Apfel
+Apfel NN,masc,nom,sing
+
+Atlas
+Atlas NN,masc,nom,sing
+
+Auge
+Auge NN,neut,nom,sing
+
+Auto
+Auto NN,neut,nom,sing
+
+Bagger
+Bagger NN,masc,nom,sing
+
+Ball
+Ball NN,masc,nom,sing
+
+Ballon
+Ballon NN,masc,nom,sing
+
+Banane
+Banane NN,fem,nom,sing
+
+Baum
+Baum NN,masc,nom,sing
+
+Becher
+Becher NN,masc,nom,sing
+
+Bein
+Bein NN,neut,nom,sing
+
+Besen
+Besen NN,masc,nom,sing
+
+Bett
+Bett NN,neut,nom,sing
+
+Birne
+Birne NN,fem,nom,sing
+
+Blatt
+Blatt NN,neut,nom,sing
+
+Blitz
+Blitz NN,masc,nom,sing
+
+Blume
+Blume NN,fem,nom,sing
+
+Bonbon
+Bonbon NN,neut,nom,sing
+Bonbon NN,masc,nom,sing
+
+Brett
+Brett NN,neut,nom,sing
+
+Brezel
+Brezel NN,neut,nom,sing
+
+Brief
+Brief NN,masc,nom,sing
+
+Brille
+Brille NN,fem,nom,sing
+
+Brot
+Brot NN,neut,nom,sing
+
+Brücke
+Brücke NN,fem,nom,sing
+
+Buch
+Buch NN,neut,nom,sing
+
+Burg
+Burg NN,fem,nom,sing
+
+Burger
+Burger NN,masc,nom,sing
+
+Butter
+Butter NN,fem,nom,sing
+
+Bürste
+Bürste NN,fem,nom,sing
+
+Creme
+Creme NN,fem,nom,sing
+
+Decke
+Decke NN,fem,nom,sing
+
+Donner
+Donner NN,masc,nom,sing
+
+Dose
+Dose NN,fem,nom,sing
+
+Drache
+Drache NN,masc,nom,sing
+
+Dusche
+Dusche NN,fem,nom,sing
+
+Dünger
+Dünger NN,masc,nom,sing
+
+Eimer
+Eimer NN,fem,nom,sing
+Eimer NN,masc,nom,sing
+
+Erde
+Erde NN,fem,nom,sing
+
+Farbe
+Farbe NN,fem,nom,sing
+
+Finger
+Finger NN,masc,nom,sing
+
+Fisch
+Fisch NN,masc,nom,sing
+
+Flöte
+Flöte NN,fem,nom,sing
+
+Fächer
+Fächer NN,masc,nom,sing
+
+Föhn
+Föhn NN,masc,nom,sing
+
+Gabel
+Gabel NN,fem,nom,sing
+
+Garage
+Garage NN,fem,nom,sing
+
+Garten
+Garten NN,masc,nom,sing
+
+Geld
+Geld NN,neut,nom,sing
+
+Gewürz
+Gewürz NN,neut,nom,sing
+
+Glas
+Glas NN,neut,nom,sing
+
+Globus
+Globus NN,masc,nom,sing
+
+Glocke
+Glocke NN,fem,nom,sing
+
+Gürtel
+Gürtel NN,masc,nom,sing
+
+Hacke
+Hacke NN,neut,nom,sing
+Hacke NN,fem,nom,sing
+
+Hafen
+Hafen NN,masc,nom,sing
+
+Hagel
+Hagel NN,masc,nom,sing
+
+Hammer
+Hammer NN,masc,nom,sing
+
+Hand
+Hand NN,fem,nom,sing
+
+Harke
+Harke NN,fem,nom,sing
+
+Hase
+Hase NN,masc,nom,sing
+
+Haus
+Haus NN,neut,nom,sing
+
+Helm
+Helm NN,masc,nom,sing
+
+Hemd
+Hemd NN,neut,nom,sing
+
+Herd
+Herd NN,masc,nom,sing
+
+Hocker
+Hocker NN,masc,nom,sing
+
+Honig
+Honig NN,masc,nom,sing
+
+Hose
+Hose NN,fem,nom,sing
+
+Hund
+Hund NN,masc,nom,sing
+
+Igel
+Igel NN,masc,nom,sing
+
+Insel
+Insel NN,fem,nom,sing
+
+Jacke
+Jacke NN,fem,nom,sing
+
+Kabel
+Kabel NN,neut,nom,sing
+
+Kamera
+Kamera NN,fem,nom,sing
+
+Kamm
+Kamm NN,masc,nom,sing
+
+Kanne
+Kanne NN,fem,nom,sing
+
+Karte
+Karte NN,fem,nom,sing
+
+Kasse
+Kasse NN,fem,nom,sing
+
+Katze
+Katze NN,fem,nom,sing
+
+Keks
+Keks NN,neut,nom,sing
+Keks NN,masc,nom,sing
+
+Keller
+Keller NN,masc,nom,sing
+
+Kerze
+Kerze NN,fem,nom,sing
+
+Kette
+Kette NN,fem,nom,sing
+
+Kissen
+Kissen NN,neut,nom,sing
+
+Kiste
+Kiste NN,fem,nom,sing
+
+Kleber
+Kleber NN,masc,nom,sing
+
+Kleid
+Kleid NN,neut,nom,sing
+Kleid NN,masc,nom,sing
+
+Knie
+Knie NN,neut,nom,sing
+
+Knopf
+Knopf NN,masc,nom,sing
+
+Koffer
+Koffer NN,masc,nom,sing
+
+Korb
+Korb NN,masc,nom,sing
+
+Kostüm
+Kostüm NN,neut,nom,sing
+
+Kreide
+Kreide NN,fem,nom,sing
+
+Krone
+Krone NN,fem,nom,sing
+
+Kuchen
+Kuchen NN,masc,nom,sing
+
+Käse
+Käse NN,masc,nom,sing
+
+Küche
+Küche NN,fem,nom,sing
+
+Lampe
+Lampe NN,fem,nom,sing
+
+Lappen
+Lappen NN,masc,nom,sing
+
+Laptop
+Laptop NN,neut,nom,sing
+Laptop NN,masc,nom,sing
+
+Leine
+Leine NN,fem,nom,sing
+
+Leiter
+Leiter NN,fem,nom,sing
+Leiter NN,masc,nom,sing
+
+Licht
+Licht NN,neut,nom,sing
+
+Lift
+Lift NN,neut,nom,sing
+Lift NN,masc,nom,sing
+
+Lineal
+Lineal NN,neut,nom,sing
+
+Locher
+Locher NN,masc,nom,sing
+
+Lupe
+Lupe NN,fem,nom,sing
+
+Löffel
+Löffel NN,masc,nom,sing
+
+Löwe
+Löwe NN,masc,nom,sing
+
+Maske
+Maske NN,fem,nom,sing
+
+Maus
+Maus NN,fem,nom,sing
+
+Messer
+Messer NN,neut,nom,sing
+Messer NN,masc,nom,sing
+
+Milch
+Milch NN,fem,nom,sing
+
+Mond
+Mond NN,masc,nom,sing
+
+Muffin
+Muffin NN,fem,nom,sing
+Muffin NN,masc,nom,sing
+
+Mund
+Mund NN,masc,nom,sing
+
+Murmel
+Murmel NN,fem,nom,sing
+Murmel NN,neut,nom,sing
+
+Museum
+Museum NN,neut,nom,sing
+
+Mühle
+Mühle NN,fem,nom,sing
+
+Münze
+Münze NN,fem,nom,sing
+
+Müsli
+Müsli NN,neut,nom,sing
+
+Mütze
+Mütze NN,fem,nom,sing
+
+Nagel
+Nagel NN,masc,nom,sing
+
+Nase
+Nase NN,fem,nom,sing
+
+Nest
+Nest NN,neut,nom,sing
+
+Nudel
+Nudel NN,fem,nom,sing
+
+Orange
+Orange NN,fem,nom,sing
+Orange NN,neut,nom,sing
+
+Ordner
+Ordner NN,masc,nom,sing
+
+Paket
+Paket NN,neut,nom,sing
+
+Palme
+Palme NN,fem,nom,sing
+
+Panda
+Panda NN,masc,nom,sing
+
+Papier
+Papier NN,neut,nom,sing
+
+Parfüm
+Parfüm NN,neut,nom,sing
+
+Pass
+Pass NN,masc,nom,sing
+
+Pfanne
+Pfanne NN,fem,nom,sing
+
+Pferd
+Pferd NN,neut,nom,sing
+
+Pilot
+Pilot NN,masc,nom,sing
+
+Pinsel
+Pinsel NN,masc,nom,sing
+
+Pizza
+Pizza NN,fem,nom,sing
+
+Planet
+Planet NN,masc,nom,sing
+
+Puder
+Puder NN,masc,nom,sing
+
+Puppe
+Puppe NN,fem,nom,sing
+
+Puzzle
+Puzzle NN,neut,nom,sing
+
+Radio
+Radio NN,neut,nom,sing
+
+Rakete
+Rakete NN,fem,nom,sing
+
+Regal
+Regal NN,neut,nom,sing
+
+Regen
+Regen NN,masc,nom,sing
+Regen NN,neut,nom,sing
+
+Ring
+Ring NN,masc,nom,sing
+
+Ritter
+Ritter NN,masc,nom,sing
+
+Roller
+Roller NN,masc,nom,sing
+
+Rose
+Rose NN,fem,nom,sing
+
+Saft
+Saft NN,masc,nom,sing
+
+Salat
+Salat NN,masc,nom,sing
+
+Salz
+Salz NN,neut,nom,sing
+
+Samen
+Samen NN,masc,nom,sing
+
+Sand
+Sand NN,masc,nom,sing
+
+Schal
+Schal NN,masc,nom,sing
+
+Schein
+Schein NN,masc,nom,sing
+
+Schere
+Schere NN,fem,nom,sing
+
+Schiff
+Schiff NN,neut,nom,sing
+
+Schild
+Schild NN,masc,nom,sing
+Schild NN,neut,nom,sing
+
+Schnee
+Schnee NN,masc,nom,sing
+
+Schuh
+Schuh NN,masc,nom,sing
+
+Seife
+Seife NN,fem,nom,sing
+
+Seil
+Seil NN,neut,nom,sing
+
+Sessel
+Sessel NN,masc,nom,sing
+
+Sieb
+Sieb NN,neut,nom,sing
+
+Socke
+Socke NN,fem,nom,sing
+
+Sofa
+Sofa NN,neut,nom,sing
+
+Sonne
+Sonne NN,fem,nom,sing
+
+Spaten
+Spaten NN,masc,nom,sing
+
+Spinne
+Spinne NN,fem,nom,sing
+
+Stein
+Stein NN,masc,nom,sing
+
+Stern
+Stern NN,masc,nom,sing
+
+Stift
+Stift NN,masc,nom,sing
+Stift NN,neut,nom,sing
+Stift NN,fem,nom,sing
+
+Straße
+Straße NN,fem,nom,sing
+
+Stuhl
+Stuhl NN,masc,nom,sing
+
+Suppe
+Suppe NN,fem,nom,sing
+
+Säge
+Säge NN,fem,nom,sing
+
+Tacker
+Tacker NN,masc,nom,sing
+
+Tafel
+Tafel NN,fem,nom,sing
+
+Tanne
+Tanne NN,fem,nom,sing
+
+Tasche
+Tasche NN,fem,nom,sing
+
+Tasse
+Tasse NN,fem,nom,sing
+
+Teddy
+Teddy NN,masc,nom,sing
+
+Teller
+Teller NN,masc,nom,sing
+
+Ticket
+Ticket NN,neut,nom,sing
+
+Tiger
+Tiger NN,masc,nom,sing,strong
+Tiger NN,masc,nom,sing
+
+Tisch
+Tisch NN,masc,nom,sing
+
+Tomate
+Tomate NN,fem,nom,sing
+
+Topf
+Topf NN,masc,nom,sing
+
+Torte
+Torte NN,fem,nom,sing
+
+Treppe
+Treppe NN,fem,nom,sing
+
+Trikot
+Trikot NN,masc,nom,sing
+Trikot NN,neut,nom,sing
+
+Tuch
+Tuch NN,neut,nom,sing
+
+Turm
+Turm NN,masc,nom,sing
+
+Vase
+Vase NN,fem,nom,sing
+
+Vogel
+Vogel NN,masc,nom,sing
+
+Waage
+Waage NN,fem,nom,sing
+
+Waffel
+Waffel NN,fem,nom,sing
+
+Wagen
+Wagen NN,neut,nom,sing
+Wagen NN,masc,nom,sing
+
+Waggon
+Waggon NN,masc,nom,sing
+Waggon NN,neut,nom,sing
+
+Wasser
+Wasser NN,neut,nom,sing
+
+Wecker
+Wecker NN,masc,nom,sing
+
+Wetter
+Wetter NN,neut,nom,sing
+Wetter NN,masc,nom,sing
+
+Wiese
+Wiese NN,fem,nom,sing
+
+Wind
+Wind NN,masc,nom,sing
+
+Wolke
+Wolke NN,fem,nom,sing
+
+Wurm
+Wurm NN,masc,nom,sing
+
+Wurst
+Wurst NN,fem,nom,sing
+
+Würfel
+Würfel NN,masc,nom,sing
+
+Zahn
+Zahn NN,masc,nom,sing
+
+Zange
+Zange NN,fem,nom,sing
+
+Zaun
+Zaun NN,masc,nom,sing
+
+Zebra
+Zebra NN,neut,nom,sing
+
+Zelt
+Zelt NN,neut,nom,sing
+Zelt NN,masc,nom,sing
+
+Zimmer
+Zimmer NN,neut,nom,sing
+
+Zucker
+Zucker NN,masc,nom,sing
+
+Zweig
+Zweig NN,masc,nom,sing
+
+aktive
+aktiv ADJ,fem,nom,sing,pos
+
+aktiver
+aktiv ADJ,masc,nom,sing,pos,strong
+
+aktivere
+aktiv ADJ,fem,nom,sing,comp
+
+aktiverer
+aktiv ADJ,masc,nom,sing,comp,strong
+
+aktiveres
+aktiv ADJ,neut,nom,sing,comp,strong
+
+aktives
+aktiv ADJ,neut,nom,sing,pos,strong
+
+aktivste
+aktiv ADJ,fem,nom,sing,sup
+
+aktivster
+aktiv ADJ,masc,nom,sing,sup,strong
+
+aktivstes
+aktiv ADJ,neut,nom,sing,sup,strong
+
+bekannte
+bekannt ADJ,fem,nom,sing,pos
+
+bekannter
+bekannt ADJ,masc,nom,sing,pos,strong
+
+bekanntere
+bekannt ADJ,fem,nom,sing,comp
+
+bekannterer
+bekannt ADJ,masc,nom,sing,comp,strong
+
+bekannteres
+bekannt ADJ,neut,nom,sing,comp,strong
+
+bekanntes
+bekannt ADJ,neut,nom,sing,pos,strong
+
+bekannteste
+bekannt ADJ,fem,nom,sing,sup
+
+bekanntester
+bekannt ADJ,masc,nom,sing,sup,strong
+
+bekanntestes
+bekannt ADJ,neut,nom,sing,sup,strong
+
+beliebte
+beliebt ADJ,fem,nom,sing,pos
+
+beliebter
+beliebt ADJ,masc,nom,sing,pos,strong
+
+beliebtere
+beliebt ADJ,fem,nom,sing,comp
+
+beliebterer
+beliebt ADJ,masc,nom,sing,comp,strong
+
+beliebteres
+beliebt ADJ,neut,nom,sing,comp,strong
+
+beliebtes
+beliebt ADJ,neut,nom,sing,pos,strong
+
+beliebteste
+beliebt ADJ,fem,nom,sing,sup
+
+beliebtester
+beliebt ADJ,masc,nom,sing,sup,strong
+
+beliebtestes
+beliebt ADJ,neut,nom,sing,sup,strong
+
+bereite
+bereit ADJ,fem,nom,sing,pos
+
+bereiter
+bereit ADJ,masc,nom,sing,pos,strong
+
+bereites
+bereit ADJ,neut,nom,sing,pos,strong
+
+berühmte
+berühmt ADJ,fem,nom,sing,pos
+
+berühmter
+berühmt ADJ,masc,nom,sing,pos,strong
+
+berühmtere
+berühmt ADJ,fem,nom,sing,comp
+
+berühmterer
+berühmt ADJ,masc,nom,sing,comp,strong
+
+berühmteres
+berühmt ADJ,neut,nom,sing,comp,strong
+
+berühmtes
+berühmt ADJ,neut,nom,sing,pos,strong
+
+berühmteste
+berühmt ADJ,fem,nom,sing,sup
+
+berühmtester
+berühmt ADJ,masc,nom,sing,sup,strong
+
+berühmtestes
+berühmt ADJ,neut,nom,sing,sup,strong
+
+billige
+billig ADJ,fem,nom,sing,pos
+
+billiger
+billig ADJ,masc,nom,sing,pos,strong
+
+billigere
+billig ADJ,fem,nom,sing,comp
+
+billigerer
+billig ADJ,masc,nom,sing,comp,strong
+
+billigeres
+billig ADJ,neut,nom,sing,comp,strong
+
+billiges
+billig ADJ,neut,nom,sing,pos,strong
+
+billigste
+billig ADJ,fem,nom,sing,sup
+
+billigster
+billig ADJ,masc,nom,sing,sup,strong
+
+billigstes
+billig ADJ,neut,nom,sing,sup,strong
+
+bittere
+bitter ADJ,fem,nom,sing,pos
+
+bitterer
+bitter ADJ,masc,nom,sing,pos,strong
+
+bitterere
+bitter ADJ,fem,nom,sing,comp
+
+bittererer
+bitter ADJ,masc,nom,sing,comp,strong
+
+bittereres
+bitter ADJ,neut,nom,sing,comp,strong
+
+bitteres
+bitter ADJ,neut,nom,sing,pos,strong
+
+bitterste
+bitter ADJ,fem,nom,sing,sup
+
+bitterster
+bitter ADJ,masc,nom,sing,sup,strong
+
+bitterstes
+bitter ADJ,neut,nom,sing,sup,strong
+
+braune
+braun ADJ,fem,nom,sing,pos
+
+brauner
+braun ADJ,masc,nom,sing,pos,strong
+
+braunere
+braun ADJ,fem,nom,sing,comp
+
+braunerer
+braun ADJ,masc,nom,sing,comp,strong
+
+brauneres
+braun ADJ,neut,nom,sing,comp,strong
+
+braunes
+braun ADJ,neut,nom,sing,pos,strong
+
+braunste
+braun ADJ,fem,nom,sing,sup
+
+braunster
+braun ADJ,masc,nom,sing,sup,strong
+
+braunstes
+braun ADJ,neut,nom,sing,sup,strong
+
+breite
+breit ADJ,fem,nom,sing,pos
+
+breiter
+breit ADJ,masc,nom,sing,pos,strong
+
+breitere
+breit ADJ,fem,nom,sing,comp
+
+breiterer
+breit ADJ,masc,nom,sing,comp,strong
+
+breiteres
+breit ADJ,neut,nom,sing,comp,strong
+
+breites
+breit ADJ,neut,nom,sing,pos,strong
+
+breiteste
+breit ADJ,fem,nom,sing,sup
+
+breitester
+breit ADJ,masc,nom,sing,sup,strong
+
+breitestes
+breit ADJ,neut,nom,sing,sup,strong
+
+dankbare
+dankbar ADJ,fem,nom,sing,pos
+
+dankbarer
+dankbar ADJ,masc,nom,sing,pos,strong
+
+dankbarere
+dankbar ADJ,fem,nom,sing,comp
+
+dankbarerer
+dankbar ADJ,masc,nom,sing,comp,strong
+
+dankbareres
+dankbar ADJ,neut,nom,sing,comp,strong
+
+dankbares
+dankbar ADJ,neut,nom,sing,pos,strong
+
+dankbarste
+dankbar ADJ,fem,nom,sing,sup
+
+dankbarster
+dankbar ADJ,masc,nom,sing,sup,strong
+
+dankbarstes
+dankbar ADJ,neut,nom,sing,sup,strong
+
+deutliche
+deutlich ADJ,fem,nom,sing,pos
+
+deutlicher
+deutlich ADJ,masc,nom,sing,pos,strong
+
+deutlichere
+deutlich ADJ,fem,nom,sing,comp
+
+deutlicherer
+deutlich ADJ,masc,nom,sing,comp,strong
+
+deutlicheres
+deutlich ADJ,neut,nom,sing,comp,strong
+
+deutliches
+deutlich ADJ,neut,nom,sing,pos,strong
+
+deutlichste
+deutlich ADJ,fem,nom,sing,sup
+
+deutlichster
+deutlich ADJ,masc,nom,sing,sup,strong
+
+deutlichstes
+deutlich ADJ,neut,nom,sing,sup,strong
+
+direkte
+direkt ADJ,fem,nom,sing,pos
+
+direkter
+direkt ADJ,masc,nom,sing,pos,strong
+
+direktere
+direkt ADJ,fem,nom,sing,comp
+
+direkterer
+direkt ADJ,masc,nom,sing,comp,strong
+
+direkteres
+direkt ADJ,neut,nom,sing,comp,strong
+
+direktes
+direkt ADJ,neut,nom,sing,pos,strong
+
+direkteste
+direkt ADJ,fem,nom,sing,sup
+
+direktester
+direkt ADJ,masc,nom,sing,sup,strong
+
+direktestes
+direkt ADJ,neut,nom,sing,sup,strong
+
+doppelte
+doppelt ADJ,fem,nom,sing,pos
+
+doppelter
+doppelt ADJ,masc,nom,sing,pos,strong
+
+doppeltes
+doppelt ADJ,neut,nom,sing,pos,strong
+
+dunkelste
+dunkel ADJ,fem,nom,sing,sup
+
+dunkelster
+dunkel ADJ,masc,nom,sing,sup,strong
+
+dunkelstes
+dunkel ADJ,neut,nom,sing,sup,strong
+
+dunkle
+dunkel ADJ,fem,nom,sing,pos
+
+dunkler
+dunkel ADJ,masc,nom,sing,pos,strong
+
+dunklere
+dunkel ADJ,fem,nom,sing,comp
+
+dunklerer
+dunkel ADJ,masc,nom,sing,comp,strong
+
+dunkleres
+dunkel ADJ,neut,nom,sing,comp,strong
+
+dunkles
+dunkel ADJ,neut,nom,sing,pos,strong
+
+durstige
+durstig ADJ,fem,nom,sing,pos
+
+durstiger
+durstig ADJ,masc,nom,sing,pos,strong
+
+durstigere
+durstig ADJ,fem,nom,sing,comp
+
+durstigerer
+durstig ADJ,masc,nom,sing,comp,strong
+
+durstigeres
+durstig ADJ,neut,nom,sing,comp,strong
+
+durstiges
+durstig ADJ,neut,nom,sing,pos,strong
+
+durstigste
+durstig ADJ,fem,nom,sing,sup
+
+durstigster
+durstig ADJ,masc,nom,sing,sup,strong
+
+durstigstes
+durstig ADJ,neut,nom,sing,sup,strong
+
+düstere
+düster ADJ,fem,nom,sing,pos
+
+düsterer
+düster ADJ,masc,nom,sing,pos,strong
+
+düsterere
+düster ADJ,fem,nom,sing,comp
+
+düstererer
+düster ADJ,masc,nom,sing,comp,strong
+
+düstereres
+düster ADJ,neut,nom,sing,comp,strong
+
+düsteres
+düster ADJ,neut,nom,sing,pos,strong
+
+düsterste
+düster ADJ,fem,nom,sing,sup
+
+düsterster
+düster ADJ,masc,nom,sing,sup,strong
+
+düsterstes
+düster ADJ,neut,nom,sing,sup,strong
+
+eckige
+eckig ADJ,fem,nom,sing,pos
+
+eckiger
+eckig ADJ,masc,nom,sing,pos,strong
+
+eckigere
+eckig ADJ,fem,nom,sing,comp
+
+eckigerer
+eckig ADJ,masc,nom,sing,comp,strong
+
+eckigeres
+eckig ADJ,neut,nom,sing,comp,strong
+
+eckiges
+eckig ADJ,neut,nom,sing,pos,strong
+
+eckigste
+eckig ADJ,fem,nom,sing,sup
+
+eckigster
+eckig ADJ,masc,nom,sing,sup,strong
+
+eckigstes
+eckig ADJ,neut,nom,sing,sup,strong
+
+eigene
+eigen ADJ,fem,nom,sing,pos
+
+eigener
+eigen ADJ,masc,nom,sing,pos,strong
+
+eigenere
+eigen ADJ,fem,nom,sing,comp
+
+eigenerer
+eigen ADJ,masc,nom,sing,comp,strong
+
+eigeneres
+eigen ADJ,neut,nom,sing,comp,strong
+
+eigenes
+eigen ADJ,neut,nom,sing,pos,strong
+
+eigenste
+eigen ADJ,fem,nom,sing,sup
+
+eigenster
+eigen ADJ,masc,nom,sing,sup,strong
+
+eigenstes
+eigen ADJ,neut,nom,sing,sup,strong
+
+eilige
+eilig ADJ,fem,nom,sing,pos
+
+eiliger
+eilig ADJ,masc,nom,sing,pos,strong
+
+eiligere
+eilig ADJ,fem,nom,sing,comp
+
+eiligerer
+eilig ADJ,masc,nom,sing,comp,strong
+
+eiligeres
+eilig ADJ,neut,nom,sing,comp,strong
+
+eiliges
+eilig ADJ,neut,nom,sing,pos,strong
+
+eiligste
+eilig ADJ,fem,nom,sing,sup
+
+eiligster
+eilig ADJ,masc,nom,sing,sup,strong
+
+eiligstes
+eilig ADJ,neut,nom,sing,sup,strong
+
+einfache
+einfach ADJ,fem,nom,sing,pos
+
+einfacher
+einfach ADJ,masc,nom,sing,pos,strong
+
+einfachere
+einfach ADJ,fem,nom,sing,comp
+
+einfacherer
+einfach ADJ,masc,nom,sing,comp,strong
+
+einfacheres
+einfach ADJ,neut,nom,sing,comp,strong
+
+einfaches
+einfach ADJ,neut,nom,sing,pos,strong
+
+einfachste
+einfach ADJ,fem,nom,sing,sup
+
+einfachster
+einfach ADJ,masc,nom,sing,sup,strong
+
+einfachstes
+einfach ADJ,neut,nom,sing,sup,strong
+
+einzelne
+einzeln ADJ,fem,nom,sing,pos
+
+einzelner
+einzeln ADJ,masc,nom,sing,pos,strong
+
+einzelnes
+einzeln ADJ,neut,nom,sing,pos,strong
+
+ernste
+ernst ADJ,fem,nom,sing,pos
+
+ernster
+ernst ADJ,masc,nom,sing,pos,strong
+
+ernstere
+ernst ADJ,fem,nom,sing,comp
+
+ernsterer
+ernst ADJ,masc,nom,sing,comp,strong
+
+ernsteres
+ernst ADJ,neut,nom,sing,comp,strong
+
+ernstes
+ernst ADJ,neut,nom,sing,pos,strong
+
+ernsteste
+ernst ADJ,fem,nom,sing,sup
+
+ernstester
+ernst ADJ,masc,nom,sing,sup,strong
+
+ernstestes
+ernst ADJ,neut,nom,sing,sup,strong
+
+falsche
+falsch ADJ,fem,nom,sing,pos
+
+falscher
+falsch ADJ,masc,nom,sing,pos,strong
+
+falsches
+falsch ADJ,neut,nom,sing,pos,strong
+
+farbige
+farbig ADJ,fem,nom,sing,pos
+
+farbiger
+farbig ADJ,masc,nom,sing,pos,strong
+
+farbigere
+farbig ADJ,fem,nom,sing,comp
+
+farbigerer
+farbig ADJ,masc,nom,sing,comp,strong
+
+farbigeres
+farbig ADJ,neut,nom,sing,comp,strong
+
+farbiges
+farbig ADJ,neut,nom,sing,pos,strong
+
+farbigste
+farbig ADJ,fem,nom,sing,sup
+
+farbigster
+farbig ADJ,masc,nom,sing,sup,strong
+
+farbigstes
+farbig ADJ,neut,nom,sing,sup,strong
+
+fertige
+fertig ADJ,fem,nom,sing,pos
+
+fertiger
+fertig ADJ,masc,nom,sing,pos,strong
+
+fertigere
+fertig ADJ,fem,nom,sing,comp
+
+fertigerer
+fertig ADJ,masc,nom,sing,comp,strong
+
+fertigeres
+fertig ADJ,neut,nom,sing,comp,strong
+
+fertiges
+fertig ADJ,neut,nom,sing,pos,strong
+
+fertigste
+fertig ADJ,fem,nom,sing,sup
+
+fertigster
+fertig ADJ,masc,nom,sing,sup,strong
+
+fertigstes
+fertig ADJ,neut,nom,sing,sup,strong
+
+feuchte
+feucht ADJ,fem,nom,sing,pos
+
+feuchter
+feucht ADJ,masc,nom,sing,pos,strong
+
+feuchtere
+feucht ADJ,fem,nom,sing,comp
+
+feuchterer
+feucht ADJ,masc,nom,sing,comp,strong
+
+feuchteres
+feucht ADJ,neut,nom,sing,comp,strong
+
+feuchtes
+feucht ADJ,neut,nom,sing,pos,strong
+
+feuchteste
+feucht ADJ,fem,nom,sing,sup
+
+feuchtester
+feucht ADJ,masc,nom,sing,sup,strong
+
+feuchtestes
+feucht ADJ,neut,nom,sing,sup,strong
+
+flache
+flach ADJ,fem,nom,sing,pos
+
+flacher
+flach ADJ,masc,nom,sing,pos,strong
+
+flachere
+flach ADJ,fem,nom,sing,comp
+
+flacherer
+flach ADJ,masc,nom,sing,comp,strong
+
+flacheres
+flach ADJ,neut,nom,sing,comp,strong
+
+flaches
+flach ADJ,neut,nom,sing,pos,strong
+
+flachste
+flach ADJ,fem,nom,sing,sup
+
+flachster
+flach ADJ,masc,nom,sing,sup,strong
+
+flachstes
+flach ADJ,neut,nom,sing,sup,strong
+
+fleißige
+fleißig ADJ,fem,nom,sing,pos
+
+fleißiger
+fleißig ADJ,masc,nom,sing,pos,strong
+
+fleißigere
+fleißig ADJ,fem,nom,sing,comp
+
+fleißigerer
+fleißig ADJ,masc,nom,sing,comp,strong
+
+fleißigeres
+fleißig ADJ,neut,nom,sing,comp,strong
+
+fleißiges
+fleißig ADJ,neut,nom,sing,pos,strong
+
+fleißigste
+fleißig ADJ,fem,nom,sing,sup
+
+fleißigster
+fleißig ADJ,masc,nom,sing,sup,strong
+
+fleißigstes
+fleißig ADJ,neut,nom,sing,sup,strong
+
+flüssige
+flüssig ADJ,fem,nom,sing,pos
+
+flüssiger
+flüssig ADJ,masc,nom,sing,pos,strong
+
+flüssigere
+flüssig ADJ,fem,nom,sing,comp
+
+flüssigerer
+flüssig ADJ,masc,nom,sing,comp,strong
+
+flüssigeres
+flüssig ADJ,neut,nom,sing,comp,strong
+
+flüssiges
+flüssig ADJ,neut,nom,sing,pos,strong
+
+flüssigste
+flüssig ADJ,fem,nom,sing,sup
+
+flüssigster
+flüssig ADJ,masc,nom,sing,sup,strong
+
+flüssigstes
+flüssig ADJ,neut,nom,sing,sup,strong
+
+formale
+formal ADJ,fem,nom,sing,pos
+
+formaler
+formal ADJ,masc,nom,sing,pos,strong
+
+formalere
+formal ADJ,fem,nom,sing,comp
+
+formalerer
+formal ADJ,masc,nom,sing,comp,strong
+
+formaleres
+formal ADJ,neut,nom,sing,comp,strong
+
+formales
+formal ADJ,neut,nom,sing,pos,strong
+
+formalste
+formal ADJ,fem,nom,sing,sup
+
+formalster
+formal ADJ,masc,nom,sing,sup,strong
+
+formalstes
+formal ADJ,neut,nom,sing,sup,strong
+
+freche
+frech ADJ,fem,nom,sing,pos
+
+frecher
+frech ADJ,masc,nom,sing,pos,strong
+
+frechere
+frech ADJ,fem,nom,sing,comp
+
+frecherer
+frech ADJ,masc,nom,sing,comp,strong
+
+frecheres
+frech ADJ,neut,nom,sing,comp,strong
+
+freches
+frech ADJ,neut,nom,sing,pos,strong
+
+frechste
+frech ADJ,fem,nom,sing,sup
+
+frechster
+frech ADJ,masc,nom,sing,sup,strong
+
+frechstes
+frech ADJ,neut,nom,sing,sup,strong
+
+fremde
+fremd ADJ,fem,nom,sing,pos
+
+fremder
+fremd ADJ,masc,nom,sing,pos,strong
+
+fremdes
+fremd ADJ,neut,nom,sing,pos,strong
+
+fremdeste
+fremd ADJ,fem,nom,sing,sup
+
+friedliche
+friedlich ADJ,fem,nom,sing,pos
+
+friedlicher
+friedlich ADJ,masc,nom,sing,pos,strong
+
+friedlichere
+friedlich ADJ,fem,nom,sing,comp
+
+friedlicherer
+friedlich ADJ,masc,nom,sing,comp,strong
+
+friedlicheres
+friedlich ADJ,neut,nom,sing,comp,strong
+
+friedliches
+friedlich ADJ,neut,nom,sing,pos,strong
+
+friedlichste
+friedlich ADJ,fem,nom,sing,sup
+
+friedlichster
+friedlich ADJ,masc,nom,sing,sup,strong
+
+friedlichstes
+friedlich ADJ,neut,nom,sing,sup,strong
+
+frische
+frisch ADJ,fem,nom,sing,pos
+
+frischer
+frisch ADJ,masc,nom,sing,pos,strong
+
+frischere
+frisch ADJ,fem,nom,sing,comp
+
+frischerer
+frisch ADJ,masc,nom,sing,comp,strong
+
+frischeres
+frisch ADJ,neut,nom,sing,comp,strong
+
+frisches
+frisch ADJ,neut,nom,sing,pos,strong
+
+frischeste
+frisch ADJ,fem,nom,sing,sup
+
+frischester
+frisch ADJ,masc,nom,sing,sup,strong
+
+frischestes
+frisch ADJ,neut,nom,sing,sup,strong
+
+frischste
+frisch ADJ,fem,nom,sing,sup
+
+frischster
+frisch ADJ,masc,nom,sing,sup,strong
+
+frischstes
+frisch ADJ,neut,nom,sing,sup,strong
+
+fröhliche
+fröhlich ADJ,fem,nom,sing,pos
+
+fröhlicher
+fröhlich ADJ,masc,nom,sing,pos,strong
+
+fröhlichere
+fröhlich ADJ,fem,nom,sing,comp
+
+fröhlicherer
+fröhlich ADJ,masc,nom,sing,comp,strong
+
+fröhlicheres
+fröhlich ADJ,neut,nom,sing,comp,strong
+
+fröhliches
+fröhlich ADJ,neut,nom,sing,pos,strong
+
+fröhlichste
+fröhlich ADJ,fem,nom,sing,sup
+
+fröhlichster
+fröhlich ADJ,masc,nom,sing,sup,strong
+
+fröhlichstes
+fröhlich ADJ,neut,nom,sing,sup,strong
+
+gemütliche
+gemütlich ADJ,fem,nom,sing,pos
+
+gemütlicher
+gemütlich ADJ,masc,nom,sing,pos,strong
+
+gemütlichere
+gemütlich ADJ,fem,nom,sing,comp
+
+gemütlicherer
+gemütlich ADJ,masc,nom,sing,comp,strong
+
+gemütlicheres
+gemütlich ADJ,neut,nom,sing,comp,strong
+
+gemütliches
+gemütlich ADJ,neut,nom,sing,pos,strong
+
+gemütlichste
+gemütlich ADJ,fem,nom,sing,sup
+
+gemütlichster
+gemütlich ADJ,masc,nom,sing,sup,strong
+
+gemütlichstes
+gemütlich ADJ,neut,nom,sing,sup,strong
+
+gerader
+gerade ADJ,masc,nom,sing,pos,strong
+
+geradere
+gerade ADJ,fem,nom,sing,comp
+
+geraderer
+gerade ADJ,masc,nom,sing,comp,strong
+
+geraderes
+gerade ADJ,neut,nom,sing,comp,strong
+
+gerades
+gerade ADJ,neut,nom,sing,pos,strong
+
+geradeste
+gerade ADJ,fem,nom,sing,sup
+
+geradester
+gerade ADJ,masc,nom,sing,sup,strong
+
+geradestes
+gerade ADJ,neut,nom,sing,sup,strong
+
+gesunde
+gesund ADJ,fem,nom,sing,pos
+
+gesunder
+gesund ADJ,masc,nom,sing,pos,strong
+
+gesundere
+gesund ADJ,fem,nom,sing,comp
+
+gesunderer
+gesund ADJ,masc,nom,sing,comp,strong
+
+gesunderes
+gesund ADJ,neut,nom,sing,comp,strong
+
+gesundes
+gesund ADJ,neut,nom,sing,pos,strong
+
+gesundeste
+gesund ADJ,fem,nom,sing,sup
+
+gesundester
+gesund ADJ,masc,nom,sing,sup,strong
+
+gesundestes
+gesund ADJ,neut,nom,sing,sup,strong
+
+gesündere
+gesund ADJ,fem,nom,sing,comp
+
+gesünderer
+gesund ADJ,masc,nom,sing,comp,strong
+
+gesünderes
+gesund ADJ,neut,nom,sing,comp,strong
+
+gesündeste
+gesund ADJ,fem,nom,sing,sup
+
+gesündester
+gesund ADJ,masc,nom,sing,sup,strong
+
+gesündestes
+gesund ADJ,neut,nom,sing,sup,strong
+
+glatte
+glatt ADJ,fem,nom,sing,pos
+
+glatter
+glatt ADJ,masc,nom,sing,pos,strong
+
+glattere
+glatt ADJ,fem,nom,sing,comp
+
+glatterer
+glatt ADJ,masc,nom,sing,comp,strong
+
+glatteres
+glatt ADJ,neut,nom,sing,comp,strong
+
+glattes
+glatt ADJ,neut,nom,sing,pos,strong
+
+glatteste
+glatt ADJ,fem,nom,sing,sup
+
+glattester
+glatt ADJ,masc,nom,sing,sup,strong
+
+glattestes
+glatt ADJ,neut,nom,sing,sup,strong
+
+glückliche
+glücklich ADJ,fem,nom,sing,pos
+
+glücklicher
+glücklich ADJ,masc,nom,sing,pos,strong
+
+glücklichere
+glücklich ADJ,fem,nom,sing,comp
+
+glücklicherer
+glücklich ADJ,masc,nom,sing,comp,strong
+
+glücklicheres
+glücklich ADJ,neut,nom,sing,comp,strong
+
+glückliches
+glücklich ADJ,neut,nom,sing,pos,strong
+
+glücklichste
+glücklich ADJ,fem,nom,sing,sup
+
+glücklichster
+glücklich ADJ,masc,nom,sing,sup,strong
+
+glücklichstes
+glücklich ADJ,neut,nom,sing,sup,strong
+
+heftige
+heftig ADJ,fem,nom,sing,pos
+
+heftiger
+heftig ADJ,masc,nom,sing,pos,strong
+
+heftigere
+heftig ADJ,fem,nom,sing,comp
+
+heftigerer
+heftig ADJ,masc,nom,sing,comp,strong
+
+heftigeres
+heftig ADJ,neut,nom,sing,comp,strong
+
+heftiges
+heftig ADJ,neut,nom,sing,pos,strong
+
+heftigste
+heftig ADJ,fem,nom,sing,sup
+
+heftigster
+heftig ADJ,masc,nom,sing,sup,strong
+
+heftigstes
+heftig ADJ,neut,nom,sing,sup,strong
+
+heilige
+heilig ADJ,fem,nom,sing,pos
+
+heiliger
+heilig ADJ,masc,nom,sing,pos,strong
+
+heiligere
+heilig ADJ,fem,nom,sing,comp
+
+heiligerer
+heilig ADJ,masc,nom,sing,comp,strong
+
+heiligeres
+heilig ADJ,neut,nom,sing,comp,strong
+
+heiliges
+heilig ADJ,neut,nom,sing,pos,strong
+
+heiligste
+heilig ADJ,fem,nom,sing,sup
+
+heiligster
+heilig ADJ,masc,nom,sing,sup,strong
+
+heiligstes
+heilig ADJ,neut,nom,sing,sup,strong
+
+heimliche
+heimlich ADJ,fem,nom,sing,pos
+
+heimlicher
+heimlich ADJ,masc,nom,sing,pos,strong
+
+heimlichere
+heimlich ADJ,fem,nom,sing,comp
+
+heimlicherer
+heimlich ADJ,masc,nom,sing,comp,strong
+
+heimlicheres
+heimlich ADJ,neut,nom,sing,comp,strong
+
+heimliches
+heimlich ADJ,neut,nom,sing,pos,strong
+
+heimlichste
+heimlich ADJ,fem,nom,sing,sup
+
+heimlichster
+heimlich ADJ,masc,nom,sing,sup,strong
+
+heimlichstes
+heimlich ADJ,neut,nom,sing,sup,strong
+
+hungrige
+hungrig ADJ,fem,nom,sing,pos
+
+hungriger
+hungrig ADJ,masc,nom,sing,pos,strong
+
+hungrigere
+hungrig ADJ,fem,nom,sing,comp
+
+hungrigerer
+hungrig ADJ,masc,nom,sing,comp,strong
+
+hungrigeres
+hungrig ADJ,neut,nom,sing,comp,strong
+
+hungriges
+hungrig ADJ,neut,nom,sing,pos,strong
+
+hungrigste
+hungrig ADJ,fem,nom,sing,sup
+
+hungrigster
+hungrig ADJ,masc,nom,sing,sup,strong
+
+hungrigstes
+hungrig ADJ,neut,nom,sing,sup,strong
+
+hässliche
+hässlich ADJ,fem,nom,sing,pos
+
+hässlicher
+hässlich ADJ,masc,nom,sing,pos,strong
+
+hässlichere
+hässlich ADJ,fem,nom,sing,comp
+
+hässlicherer
+hässlich ADJ,masc,nom,sing,comp,strong
+
+hässlicheres
+hässlich ADJ,neut,nom,sing,comp,strong
+
+hässliches
+hässlich ADJ,neut,nom,sing,pos,strong
+
+hässlichste
+hässlich ADJ,fem,nom,sing,sup
+
+hässlichster
+hässlich ADJ,masc,nom,sing,sup,strong
+
+hässlichstes
+hässlich ADJ,neut,nom,sing,sup,strong
+
+höfliche
+höflich ADJ,fem,nom,sing,pos
+
+höflicher
+höflich ADJ,masc,nom,sing,pos,strong
+
+höflichere
+höflich ADJ,fem,nom,sing,comp
+
+höflicherer
+höflich ADJ,masc,nom,sing,comp,strong
+
+höflicheres
+höflich ADJ,neut,nom,sing,comp,strong
+
+höfliches
+höflich ADJ,neut,nom,sing,pos,strong
+
+höflichste
+höflich ADJ,fem,nom,sing,sup
+
+höflichster
+höflich ADJ,masc,nom,sing,sup,strong
+
+höflichstes
+höflich ADJ,neut,nom,sing,sup,strong
+
+hölzerne
+hölzern ADJ,fem,nom,sing,pos
+
+hölzerner
+hölzern ADJ,masc,nom,sing,pos,strong
+
+hölzernes
+hölzern ADJ,neut,nom,sing,pos,strong
+
+ideale
+ideal ADJ,fem,nom,sing,pos
+
+idealer
+ideal ADJ,masc,nom,sing,pos,strong
+
+idealere
+ideal ADJ,fem,nom,sing,comp
+
+idealerer
+ideal ADJ,masc,nom,sing,comp,strong
+
+idealeres
+ideal ADJ,neut,nom,sing,comp,strong
+
+ideales
+ideal ADJ,neut,nom,sing,pos,strong
+
+idealste
+ideal ADJ,fem,nom,sing,sup
+
+idealster
+ideal ADJ,masc,nom,sing,sup,strong
+
+idealstes
+ideal ADJ,neut,nom,sing,sup,strong
+
+kaputte
+kaputt ADJ,fem,nom,sing,pos
+
+kaputter
+kaputt ADJ,masc,nom,sing,pos,strong
+
+kaputtere
+kaputt ADJ,fem,nom,sing,comp
+
+kaputterer
+kaputt ADJ,masc,nom,sing,comp,strong
+
+kaputteres
+kaputt ADJ,neut,nom,sing,comp,strong
+
+kaputtes
+kaputt ADJ,neut,nom,sing,pos,strong
+
+kaputteste
+kaputt ADJ,fem,nom,sing,sup
+
+kaputtester
+kaputt ADJ,masc,nom,sing,sup,strong
+
+kaputtestes
+kaputt ADJ,neut,nom,sing,sup,strong
+
+klassische
+klassisch ADJ,fem,nom,sing,pos
+
+klassischer
+klassisch ADJ,masc,nom,sing,pos,strong
+
+klassischere
+klassisch ADJ,fem,nom,sing,comp
+
+klassischerer
+klassisch ADJ,masc,nom,sing,comp,strong
+
+klassischeres
+klassisch ADJ,neut,nom,sing,comp,strong
+
+klassisches
+klassisch ADJ,neut,nom,sing,pos,strong
+
+klassischste
+klassisch ADJ,fem,nom,sing,sup
+
+klassischster
+klassisch ADJ,masc,nom,sing,sup,strong
+
+klassischstes
+klassisch ADJ,neut,nom,sing,sup,strong
+
+kleine
+klein ADJ,fem,nom,sing,pos
+
+kleiner
+klein ADJ,masc,nom,sing,pos,strong
+
+kleinere
+klein ADJ,fem,nom,sing,comp
+
+kleinerer
+klein ADJ,masc,nom,sing,comp,strong
+
+kleineres
+klein ADJ,neut,nom,sing,comp,strong
+
+kleines
+klein ADJ,neut,nom,sing,pos,strong
+
+kleinste
+klein ADJ,fem,nom,sing,sup
+
+kleinster
+klein ADJ,masc,nom,sing,sup,strong
+
+kleinstes
+klein ADJ,neut,nom,sing,sup,strong
+
+knappe
+knapp ADJ,fem,nom,sing,pos
+
+knapper
+knapp ADJ,masc,nom,sing,pos,strong
+
+knappere
+knapp ADJ,fem,nom,sing,comp
+
+knapperer
+knapp ADJ,masc,nom,sing,comp,strong
+
+knapperes
+knapp ADJ,neut,nom,sing,comp,strong
+
+knappes
+knapp ADJ,neut,nom,sing,pos,strong
+
+knappste
+knapp ADJ,fem,nom,sing,sup
+
+knappster
+knapp ADJ,masc,nom,sing,sup,strong
+
+knappstes
+knapp ADJ,neut,nom,sing,sup,strong
+
+komische
+komisch ADJ,fem,nom,sing,pos
+
+komischer
+komisch ADJ,masc,nom,sing,pos,strong
+
+komischere
+komisch ADJ,fem,nom,sing,comp
+
+komischerer
+komisch ADJ,masc,nom,sing,comp,strong
+
+komischeres
+komisch ADJ,neut,nom,sing,comp,strong
+
+komisches
+komisch ADJ,neut,nom,sing,pos,strong
+
+komischste
+komisch ADJ,fem,nom,sing,sup
+
+komischster
+komisch ADJ,masc,nom,sing,sup,strong
+
+komischstes
+komisch ADJ,neut,nom,sing,sup,strong
+
+kranke
+krank ADJ,fem,nom,sing,pos
+
+kranker
+krank ADJ,masc,nom,sing,pos,strong
+
+krankes
+krank ADJ,neut,nom,sing,pos,strong
+
+krumme
+krumm ADJ,fem,nom,sing,pos
+
+krummer
+krumm ADJ,masc,nom,sing,pos,strong
+
+krummere
+krumm ADJ,fem,nom,sing,comp
+
+krummerer
+krumm ADJ,masc,nom,sing,comp,strong
+
+krummeres
+krumm ADJ,neut,nom,sing,comp,strong
+
+krummes
+krumm ADJ,neut,nom,sing,pos,strong
+
+krummste
+krumm ADJ,fem,nom,sing,sup
+
+krummster
+krumm ADJ,masc,nom,sing,sup,strong
+
+krummstes
+krumm ADJ,neut,nom,sing,sup,strong
+
+kräftige
+kräftig ADJ,fem,nom,sing,pos
+
+kräftiger
+kräftig ADJ,masc,nom,sing,pos,strong
+
+kräftigere
+kräftig ADJ,fem,nom,sing,comp
+
+kräftigerer
+kräftig ADJ,masc,nom,sing,comp,strong
+
+kräftigeres
+kräftig ADJ,neut,nom,sing,comp,strong
+
+kräftiges
+kräftig ADJ,neut,nom,sing,pos,strong
+
+kräftigste
+kräftig ADJ,fem,nom,sing,sup
+
+kräftigster
+kräftig ADJ,masc,nom,sing,sup,strong
+
+kräftigstes
+kräftig ADJ,neut,nom,sing,sup,strong
+
+kränkere
+krank ADJ,fem,nom,sing,comp
+
+kränkerer
+krank ADJ,masc,nom,sing,comp,strong
+
+kränkeres
+krank ADJ,neut,nom,sing,comp,strong
+
+kränkste
+krank ADJ,fem,nom,sing,sup
+
+kränkster
+krank ADJ,masc,nom,sing,sup,strong
+
+kränkstes
+krank ADJ,neut,nom,sing,sup,strong
+
+künstliche
+künstlich ADJ,fem,nom,sing,pos
+
+künstlicher
+künstlich ADJ,masc,nom,sing,pos,strong
+
+künstlichere
+künstlich ADJ,fem,nom,sing,comp
+
+künstlicherer
+künstlich ADJ,masc,nom,sing,comp,strong
+
+künstlicheres
+künstlich ADJ,neut,nom,sing,comp,strong
+
+künstliches
+künstlich ADJ,neut,nom,sing,pos,strong
+
+künstlichste
+künstlich ADJ,fem,nom,sing,sup
+
+künstlichster
+künstlich ADJ,masc,nom,sing,sup,strong
+
+künstlichstes
+künstlich ADJ,neut,nom,sing,sup,strong
+
+langsame
+langsam ADJ,fem,nom,sing,pos
+
+langsamer
+langsam ADJ,masc,nom,sing,pos,strong
+
+langsamere
+langsam ADJ,fem,nom,sing,comp
+
+langsamerer
+langsam ADJ,masc,nom,sing,comp,strong
+
+langsameres
+langsam ADJ,neut,nom,sing,comp,strong
+
+langsames
+langsam ADJ,neut,nom,sing,pos,strong
+
+langsamste
+langsam ADJ,fem,nom,sing,sup
+
+langsamster
+langsam ADJ,masc,nom,sing,sup,strong
+
+langsamstes
+langsam ADJ,neut,nom,sing,sup,strong
+
+ledige
+ledig ADJ,fem,nom,sing,pos
+
+lediger
+ledig ADJ,masc,nom,sing,pos,strong
+
+lediges
+ledig ADJ,neut,nom,sing,pos,strong
+
+leichte
+leicht ADJ,fem,nom,sing,pos
+
+leichter
+leicht ADJ,masc,nom,sing,pos,strong
+
+leichtere
+leicht ADJ,fem,nom,sing,comp
+
+leichterer
+leicht ADJ,masc,nom,sing,comp,strong
+
+leichteres
+leicht ADJ,neut,nom,sing,comp,strong
+
+leichtes
+leicht ADJ,neut,nom,sing,pos,strong
+
+leichteste
+leicht ADJ,fem,nom,sing,sup
+
+leichtester
+leicht ADJ,masc,nom,sing,sup,strong
+
+leichtestes
+leicht ADJ,neut,nom,sing,sup,strong
+
+leise
+leise ADJ,fem,nom,sing,pos
+
+leiser
+leise ADJ,masc,nom,sing,pos,strong
+
+leisere
+leise ADJ,fem,nom,sing,comp
+
+leiserer
+leise ADJ,masc,nom,sing,comp,strong
+
+leiseres
+leise ADJ,neut,nom,sing,comp,strong
+
+leises
+leise ADJ,neut,nom,sing,pos,strong
+
+leiseste
+leise ADJ,fem,nom,sing,sup
+
+leisester
+leise ADJ,masc,nom,sing,sup,strong
+
+leisestes
+leise ADJ,neut,nom,sing,sup,strong
+
+lockere
+locker ADJ,fem,nom,sing,pos
+
+lockerer
+locker ADJ,masc,nom,sing,pos,strong
+
+lockerere
+locker ADJ,fem,nom,sing,comp
+
+lockererer
+locker ADJ,masc,nom,sing,comp,strong
+
+lockereres
+locker ADJ,neut,nom,sing,comp,strong
+
+lockeres
+locker ADJ,neut,nom,sing,pos,strong
+
+lockerste
+locker ADJ,fem,nom,sing,sup
+
+lockerster
+locker ADJ,masc,nom,sing,sup,strong
+
+lockerstes
+locker ADJ,neut,nom,sing,sup,strong
+
+lustige
+lustig ADJ,fem,nom,sing,pos
+
+lustiger
+lustig ADJ,masc,nom,sing,pos,strong
+
+lustigere
+lustig ADJ,fem,nom,sing,comp
+
+lustigerer
+lustig ADJ,masc,nom,sing,comp,strong
+
+lustigeres
+lustig ADJ,neut,nom,sing,comp,strong
+
+lustiges
+lustig ADJ,neut,nom,sing,pos,strong
+
+lustigste
+lustig ADJ,fem,nom,sing,sup
+
+lustigster
+lustig ADJ,masc,nom,sing,sup,strong
+
+lustigstes
+lustig ADJ,neut,nom,sing,sup,strong
+
+magische
+magisch ADJ,fem,nom,sing,pos
+
+magischer
+magisch ADJ,masc,nom,sing,pos,strong
+
+magischere
+magisch ADJ,fem,nom,sing,comp
+
+magischerer
+magisch ADJ,masc,nom,sing,comp,strong
+
+magischeres
+magisch ADJ,neut,nom,sing,comp,strong
+
+magisches
+magisch ADJ,neut,nom,sing,pos,strong
+
+magischste
+magisch ADJ,fem,nom,sing,sup
+
+magischster
+magisch ADJ,masc,nom,sing,sup,strong
+
+magischstes
+magisch ADJ,neut,nom,sing,sup,strong
+
+mehrfache
+mehrfach ADJ,fem,nom,sing,pos
+
+mehrfacher
+mehrfach ADJ,masc,nom,sing,pos,strong
+
+mehrfaches
+mehrfach ADJ,neut,nom,sing,pos,strong
+
+minimale
+minimal ADJ,fem,nom,sing,pos
+
+minimaler
+minimal ADJ,masc,nom,sing,pos,strong
+
+minimales
+minimal ADJ,neut,nom,sing,pos,strong
+
+moderne
+modern ADJ,fem,nom,sing,pos
+
+moderner
+modern ADJ,masc,nom,sing,pos,strong
+
+modernere
+modern ADJ,fem,nom,sing,comp
+
+modernerer
+modern ADJ,masc,nom,sing,comp,strong
+
+moderneres
+modern ADJ,neut,nom,sing,comp,strong
+
+modernes
+modern ADJ,neut,nom,sing,pos,strong
+
+modernste
+modern ADJ,fem,nom,sing,sup
+
+modernster
+modern ADJ,masc,nom,sing,sup,strong
+
+modernstes
+modern ADJ,neut,nom,sing,sup,strong
+
+muntere
+munter ADJ,fem,nom,sing,pos
+
+munterer
+munter ADJ,masc,nom,sing,pos,strong
+
+munterere
+munter ADJ,fem,nom,sing,comp
+
+muntererer
+munter ADJ,masc,nom,sing,comp,strong
+
+muntereres
+munter ADJ,neut,nom,sing,comp,strong
+
+munteres
+munter ADJ,neut,nom,sing,pos,strong
+
+munterste
+munter ADJ,fem,nom,sing,sup
+
+munterster
+munter ADJ,masc,nom,sing,sup,strong
+
+munterstes
+munter ADJ,neut,nom,sing,sup,strong
+
+mutige
+mutig ADJ,fem,nom,sing,pos
+
+mutiger
+mutig ADJ,masc,nom,sing,pos,strong
+
+mutigere
+mutig ADJ,fem,nom,sing,comp
+
+mutigerer
+mutig ADJ,masc,nom,sing,comp,strong
+
+mutigeres
+mutig ADJ,neut,nom,sing,comp,strong
+
+mutiges
+mutig ADJ,neut,nom,sing,pos,strong
+
+mutigste
+mutig ADJ,fem,nom,sing,sup
+
+mutigster
+mutig ADJ,masc,nom,sing,sup,strong
+
+mutigstes
+mutig ADJ,neut,nom,sing,sup,strong
+
+mächtige
+mächtig ADJ,fem,nom,sing,pos
+
+mächtiger
+mächtig ADJ,masc,nom,sing,pos,strong
+
+mächtigere
+mächtig ADJ,fem,nom,sing,comp
+
+mächtigerer
+mächtig ADJ,masc,nom,sing,comp,strong
+
+mächtigeres
+mächtig ADJ,neut,nom,sing,comp,strong
+
+mächtiges
+mächtig ADJ,neut,nom,sing,pos,strong
+
+mächtigste
+mächtig ADJ,fem,nom,sing,sup
+
+mächtigster
+mächtig ADJ,masc,nom,sing,sup,strong
+
+mächtigstes
+mächtig ADJ,neut,nom,sing,sup,strong
+
+mögliche
+möglich ADJ,fem,nom,sing,pos
+
+möglicher
+möglich ADJ,masc,nom,sing,pos,strong
+
+möglichere
+möglich ADJ,fem,nom,sing,comp
+
+möglicherer
+möglich ADJ,masc,nom,sing,comp,strong
+
+möglicheres
+möglich ADJ,neut,nom,sing,comp,strong
+
+mögliches
+möglich ADJ,neut,nom,sing,pos,strong
+
+möglichste
+möglich ADJ,fem,nom,sing,sup
+
+möglichster
+möglich ADJ,masc,nom,sing,sup,strong
+
+möglichstes
+möglich ADJ,neut,nom,sing,sup,strong
+
+natürliche
+natürlich ADJ,fem,nom,sing,pos
+
+natürlicher
+natürlich ADJ,masc,nom,sing,pos,strong
+
+natürlichere
+natürlich ADJ,fem,nom,sing,comp
+
+natürlicherer
+natürlich ADJ,masc,nom,sing,comp,strong
+
+natürlicheres
+natürlich ADJ,neut,nom,sing,comp,strong
+
+natürliches
+natürlich ADJ,neut,nom,sing,pos,strong
+
+natürlichste
+natürlich ADJ,fem,nom,sing,sup
+
+natürlichster
+natürlich ADJ,masc,nom,sing,sup,strong
+
+natürlichstes
+natürlich ADJ,neut,nom,sing,sup,strong
+
+negative
+negativ ADJ,fem,nom,sing,pos
+
+negativer
+negativ ADJ,masc,nom,sing,pos,strong
+
+negativere
+negativ ADJ,fem,nom,sing,comp
+
+negativerer
+negativ ADJ,masc,nom,sing,comp,strong
+
+negativeres
+negativ ADJ,neut,nom,sing,comp,strong
+
+negatives
+negativ ADJ,neut,nom,sing,pos,strong
+
+negativste
+negativ ADJ,fem,nom,sing,sup
+
+negativster
+negativ ADJ,masc,nom,sing,sup,strong
+
+negativstes
+negativ ADJ,neut,nom,sing,sup,strong
+
+nervöse
+nervös ADJ,fem,nom,sing,pos
+
+nervöser
+nervös ADJ,masc,nom,sing,pos,strong
+
+nervösere
+nervös ADJ,fem,nom,sing,comp
+
+nervöserer
+nervös ADJ,masc,nom,sing,comp,strong
+
+nervöseres
+nervös ADJ,neut,nom,sing,comp,strong
+
+nervöses
+nervös ADJ,neut,nom,sing,pos,strong
+
+nervöseste
+nervös ADJ,fem,nom,sing,sup
+
+nervösester
+nervös ADJ,masc,nom,sing,sup,strong
+
+nervösestes
+nervös ADJ,neut,nom,sing,sup,strong
+
+neutrale
+neutral ADJ,fem,nom,sing,pos
+
+neutraler
+neutral ADJ,masc,nom,sing,pos,strong
+
+neutralere
+neutral ADJ,fem,nom,sing,comp
+
+neutralerer
+neutral ADJ,masc,nom,sing,comp,strong
+
+neutraleres
+neutral ADJ,neut,nom,sing,comp,strong
+
+neutrales
+neutral ADJ,neut,nom,sing,pos,strong
+
+neutralste
+neutral ADJ,fem,nom,sing,sup
+
+neutralster
+neutral ADJ,masc,nom,sing,sup,strong
+
+neutralstes
+neutral ADJ,neut,nom,sing,sup,strong
+
+normale
+normal ADJ,fem,nom,sing,pos
+
+normaler
+normal ADJ,masc,nom,sing,pos,strong
+
+normalere
+normal ADJ,fem,nom,sing,comp
+
+normalerer
+normal ADJ,masc,nom,sing,comp,strong
+
+normaleres
+normal ADJ,neut,nom,sing,comp,strong
+
+normales
+normal ADJ,neut,nom,sing,pos,strong
+
+normalste
+normal ADJ,fem,nom,sing,sup
+
+normalster
+normal ADJ,masc,nom,sing,sup,strong
+
+normalstes
+normal ADJ,neut,nom,sing,sup,strong
+
+nützliche
+nützlich ADJ,fem,nom,sing,pos
+
+nützlicher
+nützlich ADJ,masc,nom,sing,pos,strong
+
+nützlichere
+nützlich ADJ,fem,nom,sing,comp
+
+nützlicherer
+nützlich ADJ,masc,nom,sing,comp,strong
+
+nützlicheres
+nützlich ADJ,neut,nom,sing,comp,strong
+
+nützliches
+nützlich ADJ,neut,nom,sing,pos,strong
+
+nützlichste
+nützlich ADJ,fem,nom,sing,sup
+
+nützlichster
+nützlich ADJ,masc,nom,sing,sup,strong
+
+nützlichstes
+nützlich ADJ,neut,nom,sing,sup,strong
+
+offene
+offen ADJ,fem,nom,sing,pos
+
+offener
+offen ADJ,masc,nom,sing,pos,strong
+
+offenere
+offen ADJ,fem,nom,sing,comp
+
+offenerer
+offen ADJ,masc,nom,sing,comp,strong
+
+offeneres
+offen ADJ,neut,nom,sing,comp,strong
+
+offenes
+offen ADJ,neut,nom,sing,pos,strong
+
+offenste
+offen ADJ,fem,nom,sing,sup
+
+offenster
+offen ADJ,masc,nom,sing,sup,strong
+
+offenstes
+offen ADJ,neut,nom,sing,sup,strong
+
+offizielle
+offiziell ADJ,fem,nom,sing,pos
+
+offizieller
+offiziell ADJ,masc,nom,sing,pos,strong
+
+offiziellere
+offiziell ADJ,fem,nom,sing,comp
+
+offiziellerer
+offiziell ADJ,masc,nom,sing,comp,strong
+
+offizielleres
+offiziell ADJ,neut,nom,sing,comp,strong
+
+offizielles
+offiziell ADJ,neut,nom,sing,pos,strong
+
+offiziellste
+offiziell ADJ,fem,nom,sing,sup
+
+offiziellster
+offiziell ADJ,masc,nom,sing,sup,strong
+
+offiziellstes
+offiziell ADJ,neut,nom,sing,sup,strong
+
+optimale
+optimal ADJ,fem,nom,sing,pos
+
+optimaler
+optimal ADJ,masc,nom,sing,pos,strong
+
+optimales
+optimal ADJ,neut,nom,sing,pos,strong
+
+orange
+orange ADJ,fem,nom,sing,pos
+
+oranger
+orange ADJ,masc,nom,sing,pos,strong
+
+oranges
+orange ADJ,neut,nom,sing,pos,strong
+
+parallele
+parallel ADJ,fem,nom,sing,pos
+
+paralleler
+parallel ADJ,masc,nom,sing,pos,strong
+
+paralleles
+parallel ADJ,neut,nom,sing,pos,strong
+
+passive
+passiv ADJ,fem,nom,sing,pos
+
+passiver
+passiv ADJ,masc,nom,sing,pos,strong
+
+passivere
+passiv ADJ,fem,nom,sing,comp
+
+passiverer
+passiv ADJ,masc,nom,sing,comp,strong
+
+passiveres
+passiv ADJ,neut,nom,sing,comp,strong
+
+passives
+passiv ADJ,neut,nom,sing,pos,strong
+
+passivste
+passiv ADJ,fem,nom,sing,sup
+
+passivster
+passiv ADJ,masc,nom,sing,sup,strong
+
+passivstes
+passiv ADJ,neut,nom,sing,sup,strong
+
+perfekte
+perfekt ADJ,fem,nom,sing,pos
+
+perfekter
+perfekt ADJ,masc,nom,sing,pos,strong
+
+perfektes
+perfekt ADJ,neut,nom,sing,pos,strong
+
+positive
+positiv ADJ,fem,nom,sing,pos
+
+positiver
+positiv ADJ,masc,nom,sing,pos,strong
+
+positivere
+positiv ADJ,fem,nom,sing,comp
+
+positiverer
+positiv ADJ,masc,nom,sing,comp,strong
+
+positiveres
+positiv ADJ,neut,nom,sing,comp,strong
+
+positives
+positiv ADJ,neut,nom,sing,pos,strong
+
+positivste
+positiv ADJ,fem,nom,sing,sup
+
+positivster
+positiv ADJ,masc,nom,sing,sup,strong
+
+positivstes
+positiv ADJ,neut,nom,sing,sup,strong
+
+praktische
+praktisch ADJ,fem,nom,sing,pos
+
+praktischer
+praktisch ADJ,masc,nom,sing,pos,strong
+
+praktischere
+praktisch ADJ,fem,nom,sing,comp
+
+praktischerer
+praktisch ADJ,masc,nom,sing,comp,strong
+
+praktischeres
+praktisch ADJ,neut,nom,sing,comp,strong
+
+praktisches
+praktisch ADJ,neut,nom,sing,pos,strong
+
+praktischste
+praktisch ADJ,fem,nom,sing,sup
+
+praktischster
+praktisch ADJ,masc,nom,sing,sup,strong
+
+praktischstes
+praktisch ADJ,neut,nom,sing,sup,strong
+
+private
+privat ADJ,fem,nom,sing,pos
+
+privater
+privat ADJ,masc,nom,sing,pos,strong
+
+privatere
+privat ADJ,fem,nom,sing,comp
+
+privaterer
+privat ADJ,masc,nom,sing,comp,strong
+
+privateres
+privat ADJ,neut,nom,sing,comp,strong
+
+privates
+privat ADJ,neut,nom,sing,pos,strong
+
+privateste
+privat ADJ,fem,nom,sing,sup
+
+privatester
+privat ADJ,masc,nom,sing,sup,strong
+
+privatestes
+privat ADJ,neut,nom,sing,sup,strong
+
+pünktliche
+pünktlich ADJ,fem,nom,sing,pos
+
+pünktlicher
+pünktlich ADJ,masc,nom,sing,pos,strong
+
+pünktlichere
+pünktlich ADJ,fem,nom,sing,comp
+
+pünktlicherer
+pünktlich ADJ,masc,nom,sing,comp,strong
+
+pünktlicheres
+pünktlich ADJ,neut,nom,sing,comp,strong
+
+pünktliches
+pünktlich ADJ,neut,nom,sing,pos,strong
+
+pünktlichste
+pünktlich ADJ,fem,nom,sing,sup
+
+pünktlichster
+pünktlich ADJ,masc,nom,sing,sup,strong
+
+pünktlichstes
+pünktlich ADJ,neut,nom,sing,sup,strong
+
+reiche
+reich ADJ,fem,nom,sing,pos
+
+reicher
+reich ADJ,masc,nom,sing,pos,strong
+
+reichere
+reich ADJ,fem,nom,sing,comp
+
+reicherer
+reich ADJ,masc,nom,sing,comp,strong
+
+reicheres
+reich ADJ,neut,nom,sing,comp,strong
+
+reiches
+reich ADJ,neut,nom,sing,pos,strong
+
+reichste
+reich ADJ,fem,nom,sing,sup
+
+reichster
+reich ADJ,masc,nom,sing,sup,strong
+
+reichstes
+reich ADJ,neut,nom,sing,sup,strong
+
+relative
+relativ ADJ,fem,nom,sing,pos
+
+relativer
+relativ ADJ,masc,nom,sing,pos,strong
+
+relativere
+relativ ADJ,fem,nom,sing,comp
+
+relativerer
+relativ ADJ,masc,nom,sing,comp,strong
+
+relativeres
+relativ ADJ,neut,nom,sing,comp,strong
+
+relatives
+relativ ADJ,neut,nom,sing,pos,strong
+
+relativste
+relativ ADJ,fem,nom,sing,sup
+
+relativster
+relativ ADJ,masc,nom,sing,sup,strong
+
+relativstes
+relativ ADJ,neut,nom,sing,sup,strong
+
+ruhige
+ruhig ADJ,fem,nom,sing,pos
+
+ruhiger
+ruhig ADJ,masc,nom,sing,pos,strong
+
+ruhigere
+ruhig ADJ,fem,nom,sing,comp
+
+ruhigerer
+ruhig ADJ,masc,nom,sing,comp,strong
+
+ruhigeres
+ruhig ADJ,neut,nom,sing,comp,strong
+
+ruhiges
+ruhig ADJ,neut,nom,sing,pos,strong
+
+ruhigste
+ruhig ADJ,fem,nom,sing,sup
+
+ruhigster
+ruhig ADJ,masc,nom,sing,sup,strong
+
+ruhigstes
+ruhig ADJ,neut,nom,sing,sup,strong
+
+sachliche
+sachlich ADJ,fem,nom,sing,pos
+
+sachlicher
+sachlich ADJ,masc,nom,sing,pos,strong
+
+sachlichere
+sachlich ADJ,fem,nom,sing,comp
+
+sachlicherer
+sachlich ADJ,masc,nom,sing,comp,strong
+
+sachlicheres
+sachlich ADJ,neut,nom,sing,comp,strong
+
+sachliches
+sachlich ADJ,neut,nom,sing,pos,strong
+
+sachlichste
+sachlich ADJ,fem,nom,sing,sup
+
+sachlichster
+sachlich ADJ,masc,nom,sing,sup,strong
+
+sachlichstes
+sachlich ADJ,neut,nom,sing,sup,strong
+
+salzige
+salzig ADJ,fem,nom,sing,pos
+
+salziger
+salzig ADJ,masc,nom,sing,pos,strong
+
+salzigere
+salzig ADJ,fem,nom,sing,comp
+
+salzigerer
+salzig ADJ,masc,nom,sing,comp,strong
+
+salzigeres
+salzig ADJ,neut,nom,sing,comp,strong
+
+salziges
+salzig ADJ,neut,nom,sing,pos,strong
+
+salzigste
+salzig ADJ,fem,nom,sing,sup
+
+salzigster
+salzig ADJ,masc,nom,sing,sup,strong
+
+salzigstes
+salzig ADJ,neut,nom,sing,sup,strong
+
+sanfte
+sanft ADJ,fem,nom,sing,pos
+
+sanfter
+sanft ADJ,masc,nom,sing,pos,strong
+
+sanftere
+sanft ADJ,fem,nom,sing,comp
+
+sanfterer
+sanft ADJ,masc,nom,sing,comp,strong
+
+sanfteres
+sanft ADJ,neut,nom,sing,comp,strong
+
+sanftes
+sanft ADJ,neut,nom,sing,pos,strong
+
+sanfteste
+sanft ADJ,fem,nom,sing,sup
+
+sanftester
+sanft ADJ,masc,nom,sing,sup,strong
+
+sanftestes
+sanft ADJ,neut,nom,sing,sup,strong
+
+saubere
+sauber ADJ,fem,nom,sing,pos
+
+sauberer
+sauber ADJ,masc,nom,sing,pos,strong
+
+sauberere
+sauber ADJ,fem,nom,sing,comp
+
+saubererer
+sauber ADJ,masc,nom,sing,comp,strong
+
+saubereres
+sauber ADJ,neut,nom,sing,comp,strong
+
+sauberes
+sauber ADJ,neut,nom,sing,pos,strong
+
+sauberste
+sauber ADJ,fem,nom,sing,sup
+
+sauberster
+sauber ADJ,masc,nom,sing,sup,strong
+
+sauberstes
+sauber ADJ,neut,nom,sing,sup,strong
+
+sauere
+sauer ADJ,fem,nom,sing,pos
+
+sauerer
+sauer ADJ,masc,nom,sing,pos,strong
+
+sauerste
+sauer ADJ,fem,nom,sing,sup
+
+sauerster
+sauer ADJ,masc,nom,sing,sup,strong
+
+sauerstes
+sauer ADJ,neut,nom,sing,sup,strong
+
+saure
+sauer ADJ,fem,nom,sing,pos
+
+saurer
+sauer ADJ,masc,nom,sing,pos,strong
+
+saurere
+sauer ADJ,fem,nom,sing,comp
+
+saurerer
+sauer ADJ,masc,nom,sing,comp,strong
+
+saureres
+sauer ADJ,neut,nom,sing,comp,strong
+
+saures
+sauer ADJ,neut,nom,sing,pos,strong
+
+scharfe
+scharf ADJ,fem,nom,sing,pos
+
+scharfer
+scharf ADJ,masc,nom,sing,pos,strong
+
+scharfes
+scharf ADJ,neut,nom,sing,pos,strong
+
+schicke
+schick ADJ,fem,nom,sing,pos
+
+schicker
+schick ADJ,masc,nom,sing,pos,strong
+
+schickere
+schick ADJ,fem,nom,sing,comp
+
+schickerer
+schick ADJ,masc,nom,sing,comp,strong
+
+schickeres
+schick ADJ,neut,nom,sing,comp,strong
+
+schickes
+schick ADJ,neut,nom,sing,pos,strong
+
+schickste
+schick ADJ,fem,nom,sing,sup
+
+schickster
+schick ADJ,masc,nom,sing,sup,strong
+
+schickstes
+schick ADJ,neut,nom,sing,sup,strong
+
+schlanke
+schlank ADJ,fem,nom,sing,pos
+
+schlanker
+schlank ADJ,masc,nom,sing,pos,strong
+
+schlankere
+schlank ADJ,fem,nom,sing,comp
+
+schlankerer
+schlank ADJ,masc,nom,sing,comp,strong
+
+schlankeres
+schlank ADJ,neut,nom,sing,comp,strong
+
+schlankes
+schlank ADJ,neut,nom,sing,pos,strong
+
+schlankste
+schlank ADJ,fem,nom,sing,sup
+
+schlankster
+schlank ADJ,masc,nom,sing,sup,strong
+
+schlankstes
+schlank ADJ,neut,nom,sing,sup,strong
+
+schlechte
+schlecht ADJ,fem,nom,sing,pos
+
+schlechter
+schlecht ADJ,masc,nom,sing,pos,strong
+
+schlechtere
+schlecht ADJ,fem,nom,sing,comp
+
+schlechterer
+schlecht ADJ,masc,nom,sing,comp,strong
+
+schlechteres
+schlecht ADJ,neut,nom,sing,comp,strong
+
+schlechtes
+schlecht ADJ,neut,nom,sing,pos,strong
+
+schlechteste
+schlecht ADJ,fem,nom,sing,sup
+
+schlechtester
+schlecht ADJ,masc,nom,sing,sup,strong
+
+schlechtestes
+schlecht ADJ,neut,nom,sing,sup,strong
+
+schmale
+schmal ADJ,fem,nom,sing,pos
+
+schmaler
+schmal ADJ,masc,nom,sing,pos,strong
+
+schmalere
+schmal ADJ,fem,nom,sing,comp
+
+schmalerer
+schmal ADJ,masc,nom,sing,comp,strong
+
+schmaleres
+schmal ADJ,neut,nom,sing,comp,strong
+
+schmales
+schmal ADJ,neut,nom,sing,pos,strong
+
+schmalste
+schmal ADJ,fem,nom,sing,sup
+
+schmalster
+schmal ADJ,masc,nom,sing,sup,strong
+
+schmalstes
+schmal ADJ,neut,nom,sing,sup,strong
+
+schmutzige
+schmutzig ADJ,fem,nom,sing,pos
+
+schmutziger
+schmutzig ADJ,masc,nom,sing,pos,strong
+
+schmutzigere
+schmutzig ADJ,fem,nom,sing,comp
+
+schmutzigerer
+schmutzig ADJ,masc,nom,sing,comp,strong
+
+schmutzigeres
+schmutzig ADJ,neut,nom,sing,comp,strong
+
+schmutziges
+schmutzig ADJ,neut,nom,sing,pos,strong
+
+schmutzigste
+schmutzig ADJ,fem,nom,sing,sup
+
+schmutzigster
+schmutzig ADJ,masc,nom,sing,sup,strong
+
+schmutzigstes
+schmutzig ADJ,neut,nom,sing,sup,strong
+
+schnelle
+schnell ADJ,fem,nom,sing,pos
+
+schnellere
+schnell ADJ,fem,nom,sing,comp
+
+schnellerer
+schnell ADJ,masc,nom,sing,comp,strong
+
+schnelleres
+schnell ADJ,neut,nom,sing,comp,strong
+
+schnelles
+schnell ADJ,neut,nom,sing,pos,strong
+
+schnellste
+schnell ADJ,fem,nom,sing,sup
+
+schnellster
+schnell ADJ,masc,nom,sing,sup,strong
+
+schnellstes
+schnell ADJ,neut,nom,sing,sup,strong
+
+schwache
+schwach ADJ,fem,nom,sing,pos
+
+schwacher
+schwach ADJ,masc,nom,sing,pos,strong
+
+schwaches
+schwach ADJ,neut,nom,sing,pos,strong
+
+schwarze
+schwarz ADJ,fem,nom,sing,pos
+
+schwarzer
+schwarz ADJ,masc,nom,sing,pos,strong
+
+schwarzes
+schwarz ADJ,neut,nom,sing,pos,strong
+
+schwere
+schwer ADJ,fem,nom,sing,pos
+
+schwerer
+schwer ADJ,masc,nom,sing,pos,strong
+
+schwerere
+schwer ADJ,fem,nom,sing,comp
+
+schwererer
+schwer ADJ,masc,nom,sing,comp,strong
+
+schwereres
+schwer ADJ,neut,nom,sing,comp,strong
+
+schweres
+schwer ADJ,neut,nom,sing,pos,strong
+
+schwerste
+schwer ADJ,fem,nom,sing,sup
+
+schwerster
+schwer ADJ,masc,nom,sing,sup,strong
+
+schwerstes
+schwer ADJ,neut,nom,sing,sup,strong
+
+schwierige
+schwierig ADJ,fem,nom,sing,pos
+
+schwieriger
+schwierig ADJ,masc,nom,sing,pos,strong
+
+schwierigere
+schwierig ADJ,fem,nom,sing,comp
+
+schwierigerer
+schwierig ADJ,masc,nom,sing,comp,strong
+
+schwierigeres
+schwierig ADJ,neut,nom,sing,comp,strong
+
+schwieriges
+schwierig ADJ,neut,nom,sing,pos,strong
+
+schwierigste
+schwierig ADJ,fem,nom,sing,sup
+
+schwierigster
+schwierig ADJ,masc,nom,sing,sup,strong
+
+schwierigstes
+schwierig ADJ,neut,nom,sing,sup,strong
+
+schwächere
+schwach ADJ,fem,nom,sing,comp
+
+schwächerer
+schwach ADJ,masc,nom,sing,comp,strong
+
+schwächeres
+schwach ADJ,neut,nom,sing,comp,strong
+
+schwächste
+schwach ADJ,fem,nom,sing,sup
+
+schwächster
+schwach ADJ,masc,nom,sing,sup,strong
+
+schwächstes
+schwach ADJ,neut,nom,sing,sup,strong
+
+schwärzere
+schwarz ADJ,fem,nom,sing,comp
+
+schwärzerer
+schwarz ADJ,masc,nom,sing,comp,strong
+
+schwärzeres
+schwarz ADJ,neut,nom,sing,comp,strong
+
+schwärzeste
+schwarz ADJ,fem,nom,sing,sup
+
+schwärzester
+schwarz ADJ,masc,nom,sing,sup,strong
+
+schwärzestes
+schwarz ADJ,neut,nom,sing,sup,strong
+
+schärfere
+scharf ADJ,fem,nom,sing,comp
+
+schärferer
+scharf ADJ,masc,nom,sing,comp,strong
+
+schärferes
+scharf ADJ,neut,nom,sing,comp,strong
+
+schärfste
+scharf ADJ,fem,nom,sing,sup
+
+schärfster
+scharf ADJ,masc,nom,sing,sup,strong
+
+schärfstes
+scharf ADJ,neut,nom,sing,sup,strong
+
+schöne
+schön ADJ,fem,nom,sing,pos
+
+schöner
+schön ADJ,masc,nom,sing,pos,strong
+
+schönere
+schön ADJ,fem,nom,sing,comp
+
+schönerer
+schön ADJ,masc,nom,sing,comp,strong
+
+schöneres
+schön ADJ,neut,nom,sing,comp,strong
+
+schönes
+schön ADJ,neut,nom,sing,pos,strong
+
+schönste
+schön ADJ,fem,nom,sing,sup
+
+schönster
+schön ADJ,masc,nom,sing,sup,strong
+
+schönstes
+schön ADJ,neut,nom,sing,sup,strong
+
+sichere
+sicher ADJ,fem,nom,sing,pos
+
+sicherer
+sicher ADJ,masc,nom,sing,pos,strong
+
+sicherere
+sicher ADJ,fem,nom,sing,comp
+
+sichererer
+sicher ADJ,masc,nom,sing,comp,strong
+
+sichereres
+sicher ADJ,neut,nom,sing,comp,strong
+
+sicheres
+sicher ADJ,neut,nom,sing,pos,strong
+
+sicherste
+sicher ADJ,fem,nom,sing,sup
+
+sicherster
+sicher ADJ,masc,nom,sing,sup,strong
+
+sicherstes
+sicher ADJ,neut,nom,sing,sup,strong
+
+silberne
+silbern ADJ,fem,nom,sing,pos
+
+silberner
+silbern ADJ,masc,nom,sing,pos,strong
+
+silbernes
+silbern ADJ,neut,nom,sing,pos,strong
+
+sonnige
+sonnig ADJ,fem,nom,sing,pos
+
+sonniger
+sonnig ADJ,masc,nom,sing,pos,strong
+
+sonnigere
+sonnig ADJ,fem,nom,sing,comp
+
+sonnigerer
+sonnig ADJ,masc,nom,sing,comp,strong
+
+sonnigeres
+sonnig ADJ,neut,nom,sing,comp,strong
+
+sonniges
+sonnig ADJ,neut,nom,sing,pos,strong
+
+sonnigste
+sonnig ADJ,fem,nom,sing,sup
+
+sonnigster
+sonnig ADJ,masc,nom,sing,sup,strong
+
+sonnigstes
+sonnig ADJ,neut,nom,sing,sup,strong
+
+soziale
+sozial ADJ,fem,nom,sing,pos
+
+sozialer
+sozial ADJ,masc,nom,sing,pos,strong
+
+sozialere
+sozial ADJ,fem,nom,sing,comp
+
+sozialerer
+sozial ADJ,masc,nom,sing,comp,strong
+
+sozialeres
+sozial ADJ,neut,nom,sing,comp,strong
+
+soziales
+sozial ADJ,neut,nom,sing,pos,strong
+
+sozialste
+sozial ADJ,fem,nom,sing,sup
+
+sozialster
+sozial ADJ,masc,nom,sing,sup,strong
+
+sozialstes
+sozial ADJ,neut,nom,sing,sup,strong
+
+spannende
+spannend ADJ,fem,nom,sing,pos
+
+spannender
+spannend ADJ,masc,nom,sing,pos,strong
+
+spannendere
+spannend ADJ,fem,nom,sing,comp
+
+spannenderer
+spannend ADJ,masc,nom,sing,comp,strong
+
+spannenderes
+spannend ADJ,neut,nom,sing,comp,strong
+
+spannendes
+spannend ADJ,neut,nom,sing,pos,strong
+
+spannendste
+spannend ADJ,fem,nom,sing,sup
+
+spannendster
+spannend ADJ,masc,nom,sing,sup,strong
+
+spannendstes
+spannend ADJ,neut,nom,sing,sup,strong
+
+spezielle
+speziell ADJ,fem,nom,sing,pos
+
+spezieller
+speziell ADJ,masc,nom,sing,pos,strong
+
+speziellere
+speziell ADJ,fem,nom,sing,comp
+
+speziellerer
+speziell ADJ,masc,nom,sing,comp,strong
+
+spezielleres
+speziell ADJ,neut,nom,sing,comp,strong
+
+spezielles
+speziell ADJ,neut,nom,sing,pos,strong
+
+speziellste
+speziell ADJ,fem,nom,sing,sup
+
+speziellster
+speziell ADJ,masc,nom,sing,sup,strong
+
+speziellstes
+speziell ADJ,neut,nom,sing,sup,strong
+
+sportliche
+sportlich ADJ,fem,nom,sing,pos
+
+sportlicher
+sportlich ADJ,masc,nom,sing,pos,strong
+
+sportlichere
+sportlich ADJ,fem,nom,sing,comp
+
+sportlicherer
+sportlich ADJ,masc,nom,sing,comp,strong
+
+sportlicheres
+sportlich ADJ,neut,nom,sing,comp,strong
+
+sportliches
+sportlich ADJ,neut,nom,sing,pos,strong
+
+sportlichste
+sportlich ADJ,fem,nom,sing,sup
+
+sportlichster
+sportlich ADJ,masc,nom,sing,sup,strong
+
+sportlichstes
+sportlich ADJ,neut,nom,sing,sup,strong
+
+stabile
+stabil ADJ,fem,nom,sing,pos
+
+stabiler
+stabil ADJ,masc,nom,sing,pos,strong
+
+stabilere
+stabil ADJ,fem,nom,sing,comp
+
+stabilerer
+stabil ADJ,masc,nom,sing,comp,strong
+
+stabileres
+stabil ADJ,neut,nom,sing,comp,strong
+
+stabiles
+stabil ADJ,neut,nom,sing,pos,strong
+
+stabilste
+stabil ADJ,fem,nom,sing,sup
+
+stabilster
+stabil ADJ,masc,nom,sing,sup,strong
+
+stabilstes
+stabil ADJ,neut,nom,sing,sup,strong
+
+starke
+stark ADJ,fem,nom,sing,pos
+
+starker
+stark ADJ,masc,nom,sing,pos,strong
+
+starkes
+stark ADJ,neut,nom,sing,pos,strong
+
+steife
+steif ADJ,fem,nom,sing,pos
+
+steifer
+steif ADJ,masc,nom,sing,pos,strong
+
+steifere
+steif ADJ,fem,nom,sing,comp
+
+steiferer
+steif ADJ,masc,nom,sing,comp,strong
+
+steiferes
+steif ADJ,neut,nom,sing,comp,strong
+
+steifes
+steif ADJ,neut,nom,sing,pos,strong
+
+steifste
+steif ADJ,fem,nom,sing,sup
+
+steifster
+steif ADJ,masc,nom,sing,sup,strong
+
+steifstes
+steif ADJ,neut,nom,sing,sup,strong
+
+stille
+still ADJ,fem,nom,sing,pos
+
+stiller
+still ADJ,masc,nom,sing,pos,strong
+
+stillere
+still ADJ,fem,nom,sing,comp
+
+stillerer
+still ADJ,masc,nom,sing,comp,strong
+
+stilleres
+still ADJ,neut,nom,sing,comp,strong
+
+stilles
+still ADJ,neut,nom,sing,pos,strong
+
+stillste
+still ADJ,fem,nom,sing,sup
+
+stillster
+still ADJ,masc,nom,sing,sup,strong
+
+stillstes
+still ADJ,neut,nom,sing,sup,strong
+
+stolze
+stolz ADJ,fem,nom,sing,pos
+
+stolzer
+stolz ADJ,masc,nom,sing,pos,strong
+
+stolzere
+stolz ADJ,fem,nom,sing,comp
+
+stolzerer
+stolz ADJ,masc,nom,sing,comp,strong
+
+stolzeres
+stolz ADJ,neut,nom,sing,comp,strong
+
+stolzes
+stolz ADJ,neut,nom,sing,pos,strong
+
+stolzeste
+stolz ADJ,fem,nom,sing,sup
+
+stolzester
+stolz ADJ,masc,nom,sing,sup,strong
+
+stolzestes
+stolz ADJ,neut,nom,sing,sup,strong
+
+strenge
+streng ADJ,fem,nom,sing,pos
+
+strenger
+streng ADJ,masc,nom,sing,pos,strong
+
+strengere
+streng ADJ,fem,nom,sing,comp
+
+strengerer
+streng ADJ,masc,nom,sing,comp,strong
+
+strengeres
+streng ADJ,neut,nom,sing,comp,strong
+
+strenges
+streng ADJ,neut,nom,sing,pos,strong
+
+strengste
+streng ADJ,fem,nom,sing,sup
+
+strengster
+streng ADJ,masc,nom,sing,sup,strong
+
+strengstes
+streng ADJ,neut,nom,sing,sup,strong
+
+ständige
+ständig ADJ,fem,nom,sing,pos
+
+ständiger
+ständig ADJ,masc,nom,sing,pos,strong
+
+ständiges
+ständig ADJ,neut,nom,sing,pos,strong
+
+stärkere
+stark ADJ,fem,nom,sing,comp
+
+stärkerer
+stark ADJ,masc,nom,sing,comp,strong
+
+stärkeres
+stark ADJ,neut,nom,sing,comp,strong
+
+stärkste
+stark ADJ,fem,nom,sing,sup
+
+stärkster
+stark ADJ,masc,nom,sing,sup,strong
+
+stärkstes
+stark ADJ,neut,nom,sing,sup,strong
+
+tapfere
+tapfer ADJ,fem,nom,sing,pos
+
+tapferer
+tapfer ADJ,masc,nom,sing,pos,strong
+
+tapferere
+tapfer ADJ,fem,nom,sing,comp
+
+tapfererer
+tapfer ADJ,masc,nom,sing,comp,strong
+
+tapfereres
+tapfer ADJ,neut,nom,sing,comp,strong
+
+tapferes
+tapfer ADJ,neut,nom,sing,pos,strong
+
+tapferste
+tapfer ADJ,fem,nom,sing,sup
+
+tapferster
+tapfer ADJ,masc,nom,sing,sup,strong
+
+tapferstes
+tapfer ADJ,neut,nom,sing,sup,strong
+
+technische
+technisch ADJ,fem,nom,sing,pos
+
+technischer
+technisch ADJ,masc,nom,sing,pos,strong
+
+technisches
+technisch ADJ,neut,nom,sing,pos,strong
+
+teuerste
+teuer ADJ,fem,nom,sing,sup
+
+teuerster
+teuer ADJ,masc,nom,sing,sup,strong
+
+teuerstes
+teuer ADJ,neut,nom,sing,sup,strong
+
+teure
+teuer ADJ,fem,nom,sing,pos
+
+teurer
+teuer ADJ,masc,nom,sing,pos,strong
+
+teurere
+teuer ADJ,fem,nom,sing,comp
+
+teurerer
+teuer ADJ,masc,nom,sing,comp,strong
+
+teureres
+teuer ADJ,neut,nom,sing,comp,strong
+
+teures
+teuer ADJ,neut,nom,sing,pos,strong
+
+tolerante
+tolerant ADJ,fem,nom,sing,pos
+
+toleranter
+tolerant ADJ,masc,nom,sing,pos,strong
+
+tolerantere
+tolerant ADJ,fem,nom,sing,comp
+
+toleranterer
+tolerant ADJ,masc,nom,sing,comp,strong
+
+toleranteres
+tolerant ADJ,neut,nom,sing,comp,strong
+
+tolerantes
+tolerant ADJ,neut,nom,sing,pos,strong
+
+toleranteste
+tolerant ADJ,fem,nom,sing,sup
+
+tolerantester
+tolerant ADJ,masc,nom,sing,sup,strong
+
+tolerantestes
+tolerant ADJ,neut,nom,sing,sup,strong
+
+traurige
+traurig ADJ,fem,nom,sing,pos
+
+trauriger
+traurig ADJ,masc,nom,sing,pos,strong
+
+traurigere
+traurig ADJ,fem,nom,sing,comp
+
+traurigerer
+traurig ADJ,masc,nom,sing,comp,strong
+
+traurigeres
+traurig ADJ,neut,nom,sing,comp,strong
+
+trauriges
+traurig ADJ,neut,nom,sing,pos,strong
+
+traurigste
+traurig ADJ,fem,nom,sing,sup
+
+traurigster
+traurig ADJ,masc,nom,sing,sup,strong
+
+traurigstes
+traurig ADJ,neut,nom,sing,sup,strong
+
+trockene
+trocken ADJ,fem,nom,sing,pos
+
+trockener
+trocken ADJ,masc,nom,sing,pos,strong
+
+trockenere
+trocken ADJ,fem,nom,sing,comp
+
+trockenerer
+trocken ADJ,masc,nom,sing,comp,strong
+
+trockeneres
+trocken ADJ,neut,nom,sing,comp,strong
+
+trockenes
+trocken ADJ,neut,nom,sing,pos,strong
+
+trockenste
+trocken ADJ,fem,nom,sing,sup
+
+trockenster
+trocken ADJ,masc,nom,sing,sup,strong
+
+trockenstes
+trocken ADJ,neut,nom,sing,sup,strong
+
+typische
+typisch ADJ,fem,nom,sing,pos
+
+typischer
+typisch ADJ,masc,nom,sing,pos,strong
+
+typischere
+typisch ADJ,fem,nom,sing,comp
+
+typischerer
+typisch ADJ,masc,nom,sing,comp,strong
+
+typischeres
+typisch ADJ,neut,nom,sing,comp,strong
+
+typisches
+typisch ADJ,neut,nom,sing,pos,strong
+
+typischste
+typisch ADJ,fem,nom,sing,sup
+
+typischster
+typisch ADJ,masc,nom,sing,sup,strong
+
+typischstes
+typisch ADJ,neut,nom,sing,sup,strong
+
+tägliche
+täglich ADJ,fem,nom,sing,pos
+
+täglicher
+täglich ADJ,masc,nom,sing,pos,strong
+
+tägliches
+täglich ADJ,neut,nom,sing,pos,strong
+
+weiche
+weich ADJ,fem,nom,sing,pos
+
+weicher
+weich ADJ,masc,nom,sing,pos,strong
+
+weichere
+weich ADJ,fem,nom,sing,comp
+
+weicherer
+weich ADJ,masc,nom,sing,comp,strong
+
+weicheres
+weich ADJ,neut,nom,sing,comp,strong
+
+weiches
+weich ADJ,neut,nom,sing,pos,strong
+
+weichste
+weich ADJ,fem,nom,sing,sup
+
+weichster
+weich ADJ,masc,nom,sing,sup,strong
+
+weichstes
+weich ADJ,neut,nom,sing,sup,strong
+
+weise
+weise ADJ,fem,nom,sing,pos
+
+weiser
+weise ADJ,masc,nom,sing,pos,strong
+
+weisere
+weise ADJ,fem,nom,sing,comp
+
+weiserer
+weise ADJ,masc,nom,sing,comp,strong
+
+weiseres
+weise ADJ,neut,nom,sing,comp,strong
+
+weises
+weise ADJ,neut,nom,sing,pos,strong
+
+weiseste
+weise ADJ,fem,nom,sing,sup
+
+weisester
+weise ADJ,masc,nom,sing,sup,strong
+
+weisestes
+weise ADJ,neut,nom,sing,sup,strong
+
+wertvolle
+wertvoll ADJ,fem,nom,sing,pos
+
+wertvoller
+wertvoll ADJ,masc,nom,sing,pos,strong
+
+wertvollere
+wertvoll ADJ,fem,nom,sing,comp
+
+wertvollerer
+wertvoll ADJ,masc,nom,sing,comp,strong
+
+wertvolleres
+wertvoll ADJ,neut,nom,sing,comp,strong
+
+wertvolles
+wertvoll ADJ,neut,nom,sing,pos,strong
+
+wertvollste
+wertvoll ADJ,fem,nom,sing,sup
+
+wertvollster
+wertvoll ADJ,masc,nom,sing,sup,strong
+
+wertvollstes
+wertvoll ADJ,neut,nom,sing,sup,strong
+
+wichtige
+wichtig ADJ,fem,nom,sing,pos
+
+wichtiger
+wichtig ADJ,masc,nom,sing,pos,strong
+
+wichtigere
+wichtig ADJ,fem,nom,sing,comp
+
+wichtigerer
+wichtig ADJ,masc,nom,sing,comp,strong
+
+wichtigeres
+wichtig ADJ,neut,nom,sing,comp,strong
+
+wichtiges
+wichtig ADJ,neut,nom,sing,pos,strong
+
+wichtigste
+wichtig ADJ,fem,nom,sing,sup
+
+wichtigster
+wichtig ADJ,masc,nom,sing,sup,strong
+
+wichtigstes
+wichtig ADJ,neut,nom,sing,sup,strong
+
+wunderbare
+wunderbar ADJ,fem,nom,sing,pos
+
+wunderbarer
+wunderbar ADJ,masc,nom,sing,pos,strong
+
+wunderbarere
+wunderbar ADJ,fem,nom,sing,comp
+
+wunderbarerer
+wunderbar ADJ,masc,nom,sing,comp,strong
+
+wunderbareres
+wunderbar ADJ,neut,nom,sing,comp,strong
+
+wunderbares
+wunderbar ADJ,neut,nom,sing,pos,strong
+
+wunderbarste
+wunderbar ADJ,fem,nom,sing,sup
+
+wunderbarster
+wunderbar ADJ,masc,nom,sing,sup,strong
+
+wunderbarstes
+wunderbar ADJ,neut,nom,sing,sup,strong
+
+zivile
+zivil ADJ,fem,nom,sing,pos
+
+ziviler
+zivil ADJ,masc,nom,sing,pos,strong
+
+ziviles
+zivil ADJ,neut,nom,sing,pos,strong
+
+zufriedene
+zufrieden ADJ,fem,nom,sing,pos
+
+zufriedener
+zufrieden ADJ,masc,nom,sing,pos,strong
+
+zufriedenere
+zufrieden ADJ,fem,nom,sing,comp
+
+zufriedenerer
+zufrieden ADJ,masc,nom,sing,comp,strong
+
+zufriedeneres
+zufrieden ADJ,neut,nom,sing,comp,strong
+
+zufriedenes
+zufrieden ADJ,neut,nom,sing,pos,strong
+
+zufriedenste
+zufrieden ADJ,fem,nom,sing,sup
+
+zufriedenster
+zufrieden ADJ,masc,nom,sing,sup,strong
+
+zufriedenstes
+zufrieden ADJ,neut,nom,sing,sup,strong
+
+ähnliche
+ähnlich ADJ,fem,nom,sing,pos
+
+ähnlicher
+ähnlich ADJ,masc,nom,sing,pos,strong
+
+ähnlichere
+ähnlich ADJ,fem,nom,sing,comp
+
+ähnlicherer
+ähnlich ADJ,masc,nom,sing,comp,strong
+
+ähnlicheres
+ähnlich ADJ,neut,nom,sing,comp,strong
+
+ähnliches
+ähnlich ADJ,neut,nom,sing,pos,strong
+
+ähnlichste
+ähnlich ADJ,fem,nom,sing,sup
+
+ähnlichster
+ähnlich ADJ,masc,nom,sing,sup,strong
+
+ähnlichstes
+ähnlich ADJ,neut,nom,sing,sup,strong
+
+ängstliche
+ängstlich ADJ,fem,nom,sing,pos
+
+ängstlicher
+ängstlich ADJ,masc,nom,sing,pos,strong
+
+ängstlichere
+ängstlich ADJ,fem,nom,sing,comp
+
+ängstlicherer
+ängstlich ADJ,masc,nom,sing,comp,strong
+
+ängstlicheres
+ängstlich ADJ,neut,nom,sing,comp,strong
+
+ängstliches
+ängstlich ADJ,neut,nom,sing,pos,strong
+
+ängstlichste
+ängstlich ADJ,fem,nom,sing,sup
+
+ängstlichster
+ängstlich ADJ,masc,nom,sing,sup,strong
+
+ängstlichstes
+ängstlich ADJ,neut,nom,sing,sup,strong
+
+übliche
+üblich ADJ,fem,nom,sing,pos
+
+üblicher
+üblich ADJ,masc,nom,sing,pos,strong
+
+üblichere
+üblich ADJ,fem,nom,sing,comp
+
+üblicherer
+üblich ADJ,masc,nom,sing,comp,strong
+
+üblicheres
+üblich ADJ,neut,nom,sing,comp,strong
+
+übliches
+üblich ADJ,neut,nom,sing,pos,strong
+
+üblichste
+üblich ADJ,fem,nom,sing,sup
+
+üblichster
+üblich ADJ,masc,nom,sing,sup,strong
+
+üblichstes
+üblich ADJ,neut,nom,sing,sup,strong
+
