@@ -32,10 +32,13 @@ def meets_noun_criteria(properties: Set[str]) -> bool:
 def meets_adj_criteria(properties: Set[str]) -> bool:
     """Check if properties meet adjective criteria"""
     return (
-        ('nom' in properties) and
+        (('nom' in properties) and
         ('sing' in properties) and
         ('strong' in properties) and
-        any(gender in properties for gender in {'masc', 'neut', 'fem'})
+        any(gender in properties for gender in {'masc', 'neut', 'fem'})) or 
+        ('nom' in properties) and
+        ('sing' in properties) and
+        ('fem' in properties)
     )
 
 def meets_length_criteria(lemma: str, category: str) -> bool:
