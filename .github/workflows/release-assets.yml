@@ -44,6 +44,20 @@ jobs:
           echo "WHITELIST_DICT=${{ steps.prepare-dirs.outputs.OUTPUT_DIR }}/whitelist_dict.txt" >> "$GITHUB_OUTPUT"
           echo "FILTERED_DICT=${{ steps.prepare-dirs.outputs.OUTPUT_DIR }}/DE_morph_dict_filtered.txt" >> "$GITHUB_OUTPUT"
 
+      - name: Copy files to data/output
+        run: |
+          mkdir -p data/output
+          cp "${{ steps.generate-files.outputs.WHITELIST_DICT }}" data/output/whitelist_dict.txt
+          cp "${{ steps.generate-files.outputs.FILTERED_DICT }}" data/output/DE_morph_dict_filtered.txt
+
+      - name: Commit updated dictionaries
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/output/whitelist_dict.txt data/output/DE_morph_dict_filtered.txt
+          git commit -m "Update dictionary files for release ${{ github.event.release.tag_name }}"
+          git push
+
       - name: Upload Original Dictionary
         uses: actions/upload-release-asset@v1
         env:
