@@ -1,0 +1,1521 @@
+rank	lemma	pres_3sg	zipf	flags	kid_basic	source	keep	kid	takes_acc_obj	note
+1	werden	wird	6.49		0	kaikki	0	0	0	auxiliary
+2	haben	hat	6.45	partly_restricted:2/13	0	kaikki	0	0	0	auxiliary
+3	sein	ist	6.32	partly_restricted:1/11	0	kaikki	0	0	0	auxiliary
+4	machen	macht	5.85	freq_shared:noun	1	kaikki	1	1	1	
+5	kommen	kommt	5.71		1	kaikki	1	1	0	
+6	wollen	will	5.71		0	kaikki	0	0	0	auxiliary (modal)
+7	gehen	geht	5.65	partly_restricted:1/12	1	kaikki	1	1	0	
+8	geben	gibt	5.6	partly_restricted:1/10	0	kaikki	1	1	0	needs_dative
+9	sagen	sagt	5.59		1	kaikki	1	1	0	
+10	sehen	sieht	5.57		1	kaikki	1	1	1	
+11	sollen	soll	5.51	freq_shared:noun	0	kaikki	0	0	0	auxiliary (modal)
+12	stehen	steht	5.5	partly_restricted:1/11	1	kaikki	1	1	0	
+13	finden	findet	5.38		0	kaikki	1	1	1	
+14	bleiben	bleibt	5.37		1	kaikki	1	1	0	
+15	stellen	stellt	5.23		0	kaikki	1	1	0	needs location complement
+16	bringen	bringt	5.21		0	kaikki	1	1	1	
+17	liegen	liegt	5.2	partly_restricted:1/6	0	kaikki	1	1	0	
+18	tun	tut	5.19	partly_restricted:2/10	0	kaikki	1	0	0	vague; needs complement
+19	brauchen	braucht	5.16		0	kaikki	1	1	1	
+20	nehmen	nimmt	5.16		1	kaikki	1	1	1	
+21	spielen	spielt	5.13		1	kaikki	1	1	1	
+22	sprechen	spricht	5.11	partly_restricted:1/7	0	kaikki	1	1	0	
+23	bekommen	bekommt	5.1		1	kaikki	1	1	1	
+24	versuchen	versucht	5.04	partly_restricted:1/5	1	kaikki	1	0	0	takes infinitive
+25	suchen	sucht	5.03	freq_shared:noun	1	kaikki	1	1	1	
+26	erreichen	erreicht	5.01		0	kaikki	1	0	1	
+27	kennen	kennt	5.01		0	kaikki	1	1	1	
+28	stimmen	stimmt	4.96	freq_shared:intj	0	kaikki	1	0	0	
+29	helfen	hilft	4.94		0	kaikki	1	1	0	needs_dative
+30	folgen	folgt	4.9		0	kaikki	1	1	0	needs_dative
+31	denken	denkt	4.89	partly_restricted:1/4	1	kaikki	1	1	0	
+32	schreiben	schreibt	4.89		1	kaikki	1	1	1	
+33	erwarten	erwartet	4.88	freq_shared:adj	0	kaikki	1	0	1	
+34	leben	lebt	4.88		0	kaikki	1	1	0	
+35	nennen	nennt	4.88		0	kaikki	1	0	0	needs second object (nennt X Y)
+36	arbeiten	arbeitet	4.87		0	kaikki	1	1	0	
+37	meinen	meint	4.87	partly_restricted:1/5	0	kaikki	1	0	0	
+38	treffen	trifft	4.87		1	kaikki	1	1	1	
+39	bestehen	besteht	4.84		0	kaikki	1	0	0	
+40	verkaufen	verkauft	4.84	freq_shared:adj	1	kaikki	1	1	1	
+41	bieten	bietet	4.81		0	kaikki	1	0	0	needs_dative
+42	glauben	glaubt	4.81		0	kaikki	1	0	0	
+43	gelten	gilt	4.8		0	kaikki	1	0	0	
+44	fehlen	fehlt	4.78	partly_restricted:3/8	1	kaikki	1	0	0	
+45	passieren	passiert	4.78	freq_shared:adj	1	kaikki	1	1	0	
+46	erinnern	erinnert	4.75	partly_restricted:2/5	0	kaikki	1	0	0	reflexive/needs an
+47	freuen	freut	4.75		0	kaikki	1	0	0	reflexive_only
+48	wirken	wirkt	4.75		0	kaikki	1	0	0	
+49	handeln	handelt	4.74	homographs:2	0	kaikki	1	0	0	
+50	reichen	reicht	4.74		0	kaikki	1	0	0	needs_dative
+51	kosten	kostet	4.73	homographs:2	0	kaikki	1	0	1	
+52	legen	legt	4.73		0	kaikki	1	1	1	
+53	befinden	befindet	4.72		0	kaikki	0	0	0	reflexive_only
+54	verstehen	versteht	4.71		1	kaikki	1	1	1	
+55	schaffen	schafft	4.7	homographs:2	0	kaikki	1	0	1	
+56	treten	tritt	4.7	freq_shared:noun	0	kaikki	1	1	1	
+57	beginnen	beginnt	4.69		1	kaikki	1	1	0	
+58	fragen	fragt	4.69		0	kaikki	1	1	1	
+59	verdienen	verdient	4.69	freq_shared:adj	0	kaikki	1	0	1	
+60	schauen	schaut	4.67	partly_restricted:5/7	0	kaikki	1	1	0	
+61	erleben	erlebt	4.65		0	kaikki	1	0	0	abstract objects only
+62	passen	passt	4.64	homographs:2	1	kaikki	1	1	0	
+63	bilden	bildet	4.63		0	kaikki	1	0	0	abstract objects only
+64	entstehen	entsteht	4.63		0	kaikki	1	0	0	
+65	verwenden	verwendet	4.63	partly_restricted:1/4;freq_shared:adj	0	kaikki	1	0	1	
+66	berichten	berichtet	4.61		0	kaikki	1	0	0	
+67	dienen	dient	4.61		0	kaikki	1	0	0	needs_dative
+68	steigen	steigt	4.6		0	kaikki	1	1	0	
+69	erscheinen	erscheint	4.59		0	kaikki	1	0	0	
+70	gewinnen	gewinnt	4.59		1	kaikki	1	1	1	
+71	sorgen	sorgt	4.58		0	kaikki	1	0	0	
+72	verlieren	verliert	4.58		1	kaikki	1	1	1	
+73	ergeben	ergibt	4.57		0	kaikki	1	0	0	
+74	fordern	fordert	4.56		0	kaikki	1	0	1	
+75	lesen	liest	4.56		1	kaikki	1	1	1	
+76	lieben	liebt	4.55		0	kaikki	1	1	1	
+77	scheinen	scheint	4.55		0	kaikki	1	1	0	
+78	stecken	steckt	4.55		0	kaikki	1	0	0	needs location complement
+79	verlangen	verlangt	4.55		0	kaikki	1	0	1	
+80	warten	wartet	4.55		1	kaikki	1	1	0	
+81	holen	holt	4.54		1	kaikki	1	1	1	
+82	bewegen	bewegt	4.53	homographs:2;freq_shared:adj	0	kaikki	1	1	1	
+83	kriegen	kriegt	4.53	partly_restricted:1/5	0	kaikki	1	1	1	
+84	bedeuten	bedeutet	4.52	partly_restricted:1/4	0	kaikki	1	0	0	
+85	besuchen	besucht	4.52		1	kaikki	1	1	1	
+86	rufen	ruft	4.52	partly_restricted:1/7	1	kaikki	1	1	1	
+87	erfolgen	erfolgt	4.5		0	kaikki	0	0	0	formal; ugly_in_sentence
+88	starten	startet	4.5		0	kaikki	1	1	1	
+89	reden	redet	4.48		1	kaikki	1	1	0	
+90	erkennen	erkennt	4.47		0	kaikki	1	1	1	
+91	verfolgen	verfolgt	4.47	freq_shared:adj	0	kaikki	1	0	1	
+92	behaupten	behauptet	4.46	freq_shared:adj	0	kaikki	1	0	0	
+93	werfen	wirft	4.46		0	kaikki	1	1	1	
+94	dauern	dauert	4.45		0	kaikki	1	0	0	
+95	weisen	weist	4.45	partly_restricted:1/2	0	kaikki	0	0	0	used only with prefix/preposition
+96	drehen	dreht	4.44		1	kaikki	1	1	1	
+97	stammen	stammt	4.44		0	kaikki	1	0	0	
+98	behandeln	behandelt	4.43	freq_shared:adj	0	kaikki	1	0	1	
+99	bestellen	bestellt	4.43		0	kaikki	1	1	1	
+100	geschehen	geschieht	4.43		0	kaikki	1	0	0	
+101	sterben	stirbt	4.43		0	kaikki	0	0	0	sensitive (death)
+102	gestalten	gestaltet	4.42	freq_shared:adj	0	kaikki	1	0	1	
+103	greifen	greift	4.42		0	kaikki	1	1	1	
+104	liefern	liefert	4.42		0	kaikki	1	0	1	
+105	merken	merkt	4.42		0	kaikki	1	0	0	
+106	reagieren	reagiert	4.42		0	kaikki	1	0	0	
+107	wohnen	wohnt	4.42		1	kaikki	1	1	0	
+108	enden	endet	4.4		0	kaikki	1	0	0	
+109	bauen	baut	4.38		1	kaikki	1	1	1	
+110	beenden	beendet	4.38		0	kaikki	1	0	0	abstract objects only
+111	bestimmen	bestimmt	4.38	freq_shared:adj,adv	0	kaikki	1	0	0	
+112	schicken	schickt	4.37	partly_restricted:1/3	0	kaikki	1	1	1	
+113	entfernen	entfernt	4.36	freq_shared:adj	1	kaikki	1	0	1	
+114	feiern	feiert	4.36		0	kaikki	1	1	1	
+115	kaufen	kauft	4.36		1	kaikki	1	1	1	
+116	lernen	lernt	4.36		0	kaikki	1	1	0	abstract objects only
+117	erlauben	erlaubt	4.35	freq_shared:adj	0	kaikki	1	0	0	needs_dative
+118	existieren	existiert	4.35		0	kaikki	1	0	0	
+119	richten	richtet	4.35	partly_restricted:2/10	0	kaikki	1	0	0	ambiguous
+120	entdecken	entdeckt	4.32	partly_restricted:1/2;freq_shared:adj	1	kaikki	1	1	1	
+121	lachen	lacht	4.32		1	kaikki	1	1	0	
+122	verbinden	verbindet	4.32		1	kaikki	1	0	1	
+123	brechen	bricht	4.31		0	kaikki	1	0	1	
+124	teilen	teilt	4.31		0	kaikki	1	1	1	
+125	treiben	treibt	4.31	vulgar:1/7	0	kaikki	1	0	1	
+126	fliegen	fliegt	4.3		1	kaikki	1	1	0	
+127	begleiten	begleitet	4.29		0	kaikki	1	0	1	
+128	belegen	belegt	4.28	freq_shared:adj	0	kaikki	1	0	1	
+129	essen	isst	4.28		1	kaikki	1	1	1	
+130	vertrauen	vertraut	4.28	freq_shared:adj	0	kaikki	1	0	0	needs_dative
+131	planen	plant	4.27		0	kaikki	1	0	0	abstract objects only
+132	erstellen	erstellt	4.26	freq_shared:adj	0	kaikki	1	0	0	abstract objects only
+133	melden	meldet	4.26		0	kaikki	1	0	0	
+134	betreiben	betreibt	4.25	partly_restricted:1/4	0	kaikki	1	0	0	
+135	empfehlen	empfiehlt	4.24	partly_restricted:1/7	0	kaikki	1	0	1	
+136	verstecken	versteckt	4.23	freq_shared:adj	1	kaikki	1	1	1	
+137	verteilen	verteilt	4.23	freq_shared:adj	0	kaikki	1	1	1	
+138	leiden	leidet	4.22		0	kaikki	0	0	0	negative
+139	singen	singt	4.22		1	kaikki	1	1	0	object restricted to songs
+140	studieren	studiert	4.22		1	kaikki	1	1	1	
+141	bedienen	bedient	4.21		0	kaikki	1	0	1	
+142	klingen	klingt	4.21		0	kaikki	1	0	0	
+143	befreien	befreit	4.2	freq_shared:adj	0	kaikki	1	1	1	
+144	bereiten	bereitet	4.19	homographs:2	0	kaikki	0	0	0	used with prefix (zubereiten) or dative
+145	ermitteln	ermittelt	4.19	freq_shared:adj	0	kaikki	0	0	0	jargon (police/crime)
+146	gebrauchen	gebraucht	4.18	freq_shared:adj	0	kaikki	1	0	1	
+147	erledigen	erledigt	4.17	partly_restricted:1/4;freq_shared:adj	0	kaikki	1	0	0	abstract objects; also 'kill' sense
+148	leiten	leitet	4.17		0	kaikki	1	0	0	
+149	schmecken	schmeckt	4.17		0	kaikki	1	1	0	
+150	verpassen	verpasst	4.17		0	kaikki	1	0	1	
+151	begegnen	begegnet	4.16		0	kaikki	1	0	0	needs_dative
+152	bitten	bittet	4.16		0	kaikki	1	0	0	needs um-complement
+153	trainieren	trainiert	4.15		1	kaikki	1	1	1	
+154	vermuten	vermutet	4.15	freq_shared:adj	0	kaikki	1	0	0	
+155	wechseln	wechselt	4.15		0	kaikki	1	0	1	
+156	nerven	nervt	4.14	colloquial	0	kaikki	1	0	1	colloquial
+157	bewerten	bewertet	4.13		0	kaikki	1	0	1	
+158	gelangen	gelangt	4.13		0	kaikki	1	0	0	
+159	beweisen	beweist	4.12		0	kaikki	1	0	0	
+160	heben	hebt	4.12		0	kaikki	1	1	1	
+161	ignorieren	ignoriert	4.12		0	kaikki	1	0	1	
+162	landen	landet	4.12		0	kaikki	1	1	0	
+163	vergessen	vergisst	4.12		1	kaikki	1	1	1	
+164	vertreten	vertritt	4.12		0	kaikki	1	0	0	
+165	sinken	sinkt	4.11		0	kaikki	1	0	0	
+166	springen	springt	4.11	partly_restricted:1/4	1	kaikki	1	1	0	
+167	vermissen	vermisst	4.11	freq_shared:adj	1	kaikki	1	1	1	
+168	gelingen	gelingt	4.1		0	kaikki	1	0	0	needs_dative
+169	rechnen	rechnet	4.1		1	kaikki	1	1	0	
+170	wundern	wundert	4.1		0	kaikki	1	0	0	reflexive_only
+171	brennen	brennt	4.09	partly_restricted:1/13	0	kaikki	1	0	0	
+172	hassen	hasst	4.09		0	kaikki	0	0	0	negative
+173	antworten	antwortet	4.08		1	kaikki	1	1	0	needs_dative
+174	besorgen	besorgt	4.08	vulgar:1/6;partly_restricted:1/6;freq_shared:adj	0	kaikki	1	0	1	mild vulgar secondary sense
+175	schreien	schreit	4.08		0	kaikki	1	0	0	
+176	versagen	versagt	4.08		0	kaikki	0	0	0	negative
+177	warnen	warnt	4.08		0	kaikki	1	0	1	
+178	fassen	fasst	4.07		0	kaikki	1	0	1	
+179	probieren	probiert	4.07		1	kaikki	1	1	1	
+180	trinken	trinkt	4.07		1	kaikki	1	1	1	
+181	vereinen	vereint	4.07	freq_shared:adj	0	kaikki	1	0	0	
+182	versorgen	versorgt	4.07		0	kaikki	1	0	1	
+183	errichten	errichtet	4.06		0	kaikki	1	0	1	
+184	erweitern	erweitert	4.06		0	kaikki	1	0	0	
+185	drohen	droht	4.05		0	kaikki	0	0	0	negative; needs_dative
+186	entspannen	entspannt	4.05	freq_shared:adj	0	kaikki	1	0	0	mostly reflexive
+187	erheben	erhebt	4.05		0	kaikki	0	0	0	formal
+188	verlegen	verlegt	4.05	partly_restricted:3/9;freq_shared:adj	0	kaikki	1	0	1	
+189	beteiligen	beteiligt	4.04	freq_shared:adj	0	kaikki	1	0	0	reflexive_only
+190	gucken	guckt	4.03	colloquial	0	kaikki	1	1	0	colloquial
+191	hoffen	hofft	4.03		1	kaikki	1	1	0	
+192	wenden	wendet	4.03	partly_restricted:1/6	0	kaikki	1	0	1	
+193	lauten	lautet	4.02	partly_restricted:1/2	0	kaikki	0	0	0	formal; ugly_in_sentence
+194	leisten	leistet	4.02		0	kaikki	1	0	0	
+195	klappen	klappt	4.0		0	kaikki	1	0	0	
+196	regen	regt	4.0		0	kaikki	0	0	0	reflexive_only
+197	retten	rettet	4.0		0	kaikki	1	1	1	
+198	hauen	haut	3.99	freq_shared:noun	0	kaikki	0	0	0	violence
+199	kehren	kehrt	3.99	homographs:2	0	kaikki	1	0	1	
+200	beachten	beachtet	3.98		0	kaikki	1	0	1	
+201	betonen	betont	3.98	freq_shared:adj	0	kaikki	1	0	0	
+202	betreffen	betrifft	3.98	partly_restricted:1/2	0	kaikki	0	0	0	ugly_in_sentence (abstract subject)
+203	erfassen	erfasst	3.98	partly_restricted:1/5	0	kaikki	0	0	0	jargon
+204	sammeln	sammelt	3.98		0	kaikki	1	1	1	
+205	tauchen	taucht	3.98		0	kaikki	1	1	0	
+206	verweisen	verweist	3.98		0	kaikki	0	0	0	formal
+207	befassen	befasst	3.97	partly_restricted:1/3	0	kaikki	0	0	0	reflexive_only
+208	decken	deckt	3.97		0	kaikki	1	0	1	
+209	definieren	definiert	3.96	freq_shared:adj	0	kaikki	1	0	0	
+210	sparen	spart	3.96		0	kaikki	1	1	0	
+211	beantragen	beantragt	3.95		0	kaikki	1	0	0	bureaucratic objects
+212	beseitigen	beseitigt	3.95		0	kaikki	1	0	1	
+213	buchen	bucht	3.95	freq_shared:noun	0	kaikki	1	0	1	
+214	engagieren	engagiert	3.95	freq_shared:adj	0	kaikki	1	0	0	mostly reflexive
+215	ficken	fickt	3.95	vulgar:1/2;partly_restricted:1/2	0	kaikki	0	0	0	offensive
+216	packen	packt	3.95	partly_restricted:2/5	1	kaikki	1	1	1	
+217	reisen	reist	3.95		0	kaikki	1	1	0	
+218	schaden	schadet	3.95		0	kaikki	1	0	0	needs_dative
+219	trennen	trennt	3.95		0	kaikki	1	0	1	
+220	berechnen	berechnet	3.94	derogatory:1/5	0	kaikki	1	0	0	abstract objects only
+221	beruhigen	beruhigt	3.94		0	kaikki	1	1	1	
+222	regieren	regiert	3.93		0	kaikki	0	0	0	politics
+223	trauen	traut	3.93	freq_shared:adj	0	kaikki	1	0	0	needs_dative
+224	bewirken	bewirkt	3.92	freq_shared:adj	0	kaikki	1	0	0	
+225	deuten	deutet	3.92		0	kaikki	1	0	0	
+226	schieben	schiebt	3.92		0	kaikki	1	1	1	
+227	verbieten	verbietet	3.92		0	kaikki	1	0	0	needs_dative
+228	eignen	eignet	3.91		0	kaikki	0	0	0	reflexive_only
+229	erobern	erobert	3.91		0	kaikki	1	0	1	
+230	beleidigen	beleidigt	3.9	freq_shared:adj,adv	0	kaikki	0	0	0	negative
+231	beschweren	beschwert	3.9		0	kaikki	1	0	0	reflexive_only
+232	bewahren	bewahrt	3.9		0	kaikki	1	0	1	
+233	blicken	blickt	3.9		0	kaikki	1	0	0	
+234	blockieren	blockiert	3.9		0	kaikki	1	0	1	
+235	sichern	sichert	3.9		0	kaikki	1	0	1	
+236	umfassen	umfasst	3.9	separable_homograph_skipped;freq_shared:adj	0	kaikki	0	0	0	formal; ugly_in_sentence
+237	etablieren	etabliert	3.89	partly_restricted:1/2;freq_shared:adj	0	kaikki	0	0	0	jargon
+238	messen	misst	3.89		0	kaikki	1	1	1	
+239	scheitern	scheitert	3.89		0	kaikki	0	0	0	negative
+240	weinen	weint	3.89		1	kaikki	1	0	0	
+241	bemerken	bemerkt	3.88		0	kaikki	1	0	1	
+242	widmen	widmet	3.88		0	kaikki	1	0	0	needs_dative/reflexive
+243	bedenken	bedenkt	3.87		0	kaikki	1	0	0	
+244	herrschen	herrscht	3.87		0	kaikki	1	0	0	
+245	rennen	rennt	3.87		1	kaikki	1	1	0	
+246	reparieren	repariert	3.87		1	kaikki	1	1	1	
+247	schenken	schenkt	3.87		0	kaikki	1	1	1	
+248	schneiden	schneidet	3.87		0	kaikki	1	1	1	
+249	belasten	belastet	3.86	freq_shared:adj	0	kaikki	1	0	0	
+250	fressen	frisst	3.86	derogatory:1/5	1	kaikki	1	1	1	
+251	gleichen	gleicht	3.86		0	kaikki	1	0	0	needs_dative
+252	kochen	kocht	3.86		1	kaikki	1	1	1	
+253	regeln	regelt	3.86		0	kaikki	1	0	0	
+254	riechen	riecht	3.86		0	kaikki	1	1	1	
+255	lehnen	lehnt	3.85		0	kaikki	1	0	0	needs location complement
+256	leuchten	leuchtet	3.85		0	kaikki	1	1	0	
+257	verleihen	verleiht	3.85		0	kaikki	1	0	1	
+258	schalten	schaltet	3.84	partly_restricted:1/6	0	kaikki	1	0	0	
+259	senden	sendet	3.84		0	kaikki	1	0	1	
+260	vergehen	vergeht	3.83		0	kaikki	1	0	0	
+261	bestrafen	bestraft	3.82		0	kaikki	0	0	0	negative
+262	erteilen	erteilt	3.82		0	kaikki	0	0	0	formal
+263	verarschen	verarscht	3.82	colloquial;freq_shared:adj	0	kaikki	0	0	0	offensive (vulgar)
+264	achten	achtet	3.81		0	kaikki	1	0	0	
+265	erfordern	erfordert	3.81		0	kaikki	0	0	0	formal; ugly_in_sentence
+266	pflegen	pflegt	3.8	partly_restricted:1/8	0	kaikki	1	1	1	
+267	wagen	wagt	3.8	partly_restricted:1/3	0	kaikki	1	0	0	
+268	beruhen	beruht	3.79		0	kaikki	0	0	0	formal
+269	besiegen	besiegt	3.79	freq_shared:adj	0	kaikki	1	0	1	
+270	erholen	erholt	3.79	reflexive_only	0	kaikki	1	0	0	reflexive_only
+271	lohnen	lohnt	3.79	reflexive_only	0	kaikki	1	0	0	reflexive_only
+272	rollen	rollt	3.79	offensive:1/4	0	kaikki	1	1	1	
+273	verbringen	verbringt	3.79	partly_restricted:1/3	0	kaikki	1	0	0	objects are time spans
+274	aktivieren	aktiviert	3.78		0	kaikki	1	0	1	
+275	wehren	wehrt	3.78	partly_restricted:2/3	0	kaikki	0	0	0	reflexive_only
+276	beurteilen	beurteilt	3.77		0	kaikki	1	0	0	
+277	kopieren	kopiert	3.77		0	kaikki	1	0	1	
+278	lehren	lehrt	3.77		0	kaikki	1	0	0	
+279	steigern	steigert	3.77		0	kaikki	1	0	0	
+280	wachen	wacht	3.77	freq_shared:noun	0	kaikki	1	0	0	
+281	wecken	weckt	3.77		1	kaikki	1	1	1	
+282	werben	wirbt	3.77		0	kaikki	1	0	0	
+283	erfreuen	erfreut	3.76		0	kaikki	1	0	0	
+284	markieren	markiert	3.76		1	kaikki	1	1	1	
+285	ruhen	ruht	3.76		0	kaikki	1	0	0	
+286	basieren	basiert	3.75	freq_shared:adj	0	kaikki	0	0	0	formal
+287	beklagen	beklagt	3.75		0	kaikki	0	0	0	formal; negative
+288	erweisen	erweist	3.75		0	kaikki	0	0	0	formal
+289	rasen	rast	3.74	freq_shared:noun	0	kaikki	1	0	0	
+290	agieren	agiert	3.73		0	kaikki	0	0	0	jargon
+291	bergen	birgt	3.72		0	kaikki	0	0	0	formal
+292	erforschen	erforscht	3.72	freq_shared:adj	0	kaikki	1	0	1	
+293	erlangen	erlangt	3.72	freq_shared:adj	0	kaikki	0	0	0	formal
+294	ersparen	erspart	3.72		0	kaikki	0	0	0	needs_dative
+295	lenken	lenkt	3.72		0	kaikki	1	0	1	
+296	senken	senkt	3.72		0	kaikki	1	0	1	
+297	umgehen	umgeht	3.72	separable_homograph_skipped	0	kaikki	0	0	0	ambiguous (separable/inseparable)
+298	verlieben	verliebt	3.72	reflexive_only;freq_shared:adj	0	kaikki	1	0	0	reflexive_only
+299	erwachen	erwacht	3.71		0	kaikki	1	0	0	
+300	kassieren	kassiert	3.71	homographs:2	0	kaikki	1	0	0	
+301	klagen	klagt	3.71	partly_restricted:1/4	0	kaikki	1	0	0	
+302	mischen	mischt	3.71		0	kaikki	1	1	1	
+303	motivieren	motiviert	3.71		0	kaikki	1	0	1	
+304	nahen	naht	3.71	freq_shared:noun	0	kaikki	0	0	0	archaic
+305	schildern	schildert	3.71	partly_restricted:1/2;homographs:2	0	kaikki	1	0	0	
+306	wiegen	wiegt	3.71	homographs:2	0	kaikki	1	1	1	
+307	erstatten	erstattet	3.7		0	kaikki	0	0	0	jargon
+308	posten	postet	3.7		0	kaikki	1	0	1	
+309	verbergen	verbirgt	3.7		0	kaikki	1	0	1	
+310	befragen	befragt	3.69		0	kaikki	1	0	1	
+311	empfinden	empfindet	3.69		0	kaikki	1	0	0	
+312	locken	lockt	3.69	homographs:2	0	kaikki	1	0	1	
+313	steuern	steuert	3.69	partly_restricted:4/7	0	kaikki	1	0	1	
+314	stoppen	stoppt	3.69	partly_restricted:1/3	0	kaikki	1	1	1	
+315	verfassen	verfasst	3.69	freq_shared:adj	0	kaikki	1	0	0	
+316	betreuen	betreut	3.68		0	kaikki	1	0	1	
+317	neigen	neigt	3.68		0	kaikki	1	0	0	
+318	spiegeln	spiegelt	3.68		0	kaikki	1	0	0	
+319	strahlen	strahlt	3.68		0	kaikki	1	1	0	
+320	wehen	weht	3.67		0	kaikki	1	0	0	
+321	betreten	betritt	3.66		0	kaikki	1	0	0	objects are places
+322	klicken	klickt	3.66		0	kaikki	1	0	0	
+323	malen	malt	3.66		1	kaikki	1	1	1	
+324	schweigen	schweigt	3.66		0	kaikki	1	0	0	
+325	wandern	wandert	3.66		0	kaikki	1	1	0	
+326	dominieren	dominiert	3.65		0	kaikki	1	0	1	
+327	gestatten	gestattet	3.65		0	kaikki	0	0	0	formal
+328	gestehen	gesteht	3.65		0	kaikki	0	0	0	sensitive (crime)
+329	jagen	jagt	3.65		0	kaikki	1	0	1	
+330	loben	lobt	3.65		0	kaikki	1	1	1	
+331	streben	strebt	3.65		0	kaikki	0	0	0	formal
+332	verwalten	verwaltet	3.65		0	kaikki	1	0	0	
+333	begehen	begeht	3.64		0	kaikki	0	0	0	sensitive (crime)
+334	entsorgen	entsorgt	3.64		0	kaikki	1	0	1	
+335	erwecken	erweckt	3.64		0	kaikki	0	0	0	formal
+336	erwischen	erwischt	3.64		0	kaikki	1	0	1	
+337	bedanken	bedankt	3.63		0	kaikki	1	1	0	reflexive_only
+338	binden	bindet	3.63		0	kaikki	1	0	1	
+339	hindern	hindert	3.63		0	kaikki	1	0	0	
+340	rutschen	rutscht	3.63		1	kaikki	1	1	0	
+341	siegen	siegt	3.63		0	kaikki	1	0	0	
+342	stechen	sticht	3.63		0	kaikki	1	0	0	ambiguous (sting/stab)
+343	vermieten	vermietet	3.63		0	kaikki	1	0	1	
+344	behindern	behindert	3.62	freq_shared:adj,adv	0	kaikki	0	0	0	offensive (ableist connotation)
+345	entlasten	entlastet	3.62		0	kaikki	1	0	0	
+346	erneuern	erneuert	3.62		0	kaikki	1	0	1	
+347	reiten	reitet	3.62		0	kaikki	1	1	1	
+348	verbrennen	verbrennt	3.62		0	kaikki	0	0	0	negative (burning)
+349	vergeben	vergibt	3.62		0	kaikki	1	0	0	
+350	vermehren	vermehrt	3.62	freq_shared:adj	0	kaikki	1	0	0	
+351	bedrohen	bedroht	3.61	freq_shared:adj	0	kaikki	0	0	0	violence
+352	bekennen	bekennt	3.61		0	kaikki	0	0	0	religion; reflexive
+353	haften	haftet	3.61		0	kaikki	0	0	0	jargon (legal)
+354	kleben	klebt	3.61		0	kaikki	1	1	1	
+355	rauchen	raucht	3.61		0	kaikki	0	0	0	drugs (smoking)
+356	schweben	schwebt	3.61		0	kaikki	1	1	0	
+357	variieren	variiert	3.61		0	kaikki	1	0	0	
+358	begeben	begibt	3.6		0	kaikki	0	0	0	formal; reflexive
+359	berufen	beruft	3.6	partly_restricted:1/4	0	kaikki	0	0	0	formal
+360	generieren	generiert	3.6	freq_shared:adj	0	kaikki	0	0	0	jargon
+361	heiraten	heiratet	3.6		0	kaikki	1	0	1	
+362	sortieren	sortiert	3.6		0	kaikki	1	1	1	
+363	verklagen	verklagt	3.6		0	kaikki	0	0	0	jargon (legal)
+364	bereuen	bereut	3.59		0	kaikki	1	0	0	
+365	danken	dankt	3.59		1	kaikki	1	1	0	needs_dative
+366	erschweren	erschwert	3.59	freq_shared:adj	0	kaikki	1	0	0	
+367	regnen	regnet	3.59	impersonal	0	kaikki	0	0	0	impersonal (no animate subject)
+368	streichen	streicht	3.59		0	kaikki	1	0	1	
+369	vertreiben	vertreibt	3.59		0	kaikki	1	0	1	
+370	weichen	weicht	3.59	homographs:2	0	kaikki	1	0	0	
+371	belieben	beliebt	3.58	freq_shared:adj	0	kaikki	0	0	0	archaic; data really adj 'beliebt'
+372	schwimmen	schwimmt	3.58		1	kaikki	1	1	0	
+373	schwingen	schwingt	3.58	partly_restricted:2/13	0	kaikki	1	0	1	
+374	servieren	serviert	3.58		0	kaikki	1	0	1	
+375	spenden	spendet	3.58	partly_restricted:1/5	0	kaikki	1	0	1	
+376	ersticken	erstickt	3.57		0	kaikki	0	0	0	sensitive (death)
+377	minen	mint	3.57	homographs:2;freq_shared:noun	0	kaikki	0	0	0	wrong_form (minen not a common verb; 'mint')
+378	posen	post	3.57	freq_shared:noun	0	kaikki	0	0	0	ambiguous ('post' reads as noun Post)
+379	riskieren	riskiert	3.57		0	kaikki	1	0	0	abstract objects only
+380	fliehen	flieht	3.56	partly_restricted:1/4	0	kaikki	1	0	0	
+381	bewundern	bewundert	3.55	freq_shared:adj	0	kaikki	1	0	1	
+382	entfalten	entfaltet	3.55		0	kaikki	1	0	1	
+383	heulen	heult	3.55	derogatory:1/2	0	kaikki	1	0	0	
+384	sperren	sperrt	3.55		0	kaikki	1	0	1	
+385	streiten	streitet	3.55	reflexive_only	0	kaikki	1	0	0	reflexive_only
+386	verdanken	verdankt	3.55		0	kaikki	0	0	0	needs_dative
+387	klauen	klaut	3.54	colloquial	0	kaikki	0	0	0	sensitive (theft)
+388	operieren	operiert	3.54		0	kaikki	0	0	0	sensitive (medical)
+389	optimieren	optimiert	3.54		0	kaikki	1	0	1	
+390	pfeifen	pfeift	3.54		0	kaikki	1	1	0	
+391	rasieren	rasiert	3.54	partly_restricted:1/4;freq_shared:adj	0	kaikki	1	0	1	
+392	scheiden	scheidet	3.54	partly_restricted:2/5	0	kaikki	0	0	0	sensitive (divorce)
+393	fungieren	fungiert	3.53		0	kaikki	0	0	0	formal
+394	ordnen	ordnet	3.53		0	kaikki	1	0	1	
+395	begreifen	begreift	3.52		0	kaikki	1	0	0	
+396	verkehren	verkehrt	3.52	derogatory:1/3;partly_restricted:1/3;freq_shared:adj	0	kaikki	0	0	0	ambiguous
+397	winken	winkt	3.52		1	kaikki	1	1	0	
+398	ermorden	ermordet	3.51	freq_shared:adj	0	kaikki	0	0	0	violence
+399	breiten	breitet	3.5		0	kaikki	0	0	0	used only with prefix (ausbreiten)
+400	dringen	dringt	3.5		0	kaikki	1	0	0	
+401	ehren	ehrt	3.5		0	kaikki	1	0	1	
+402	befolgen	befolgt	3.49		0	kaikki	1	0	0	abstract objects only
+403	predigen	predigt	3.49	freq_shared:noun	0	kaikki	0	0	0	religion
+404	ruinieren	ruiniert	3.49		0	kaikki	1	0	1	
+405	testen	testet	3.49		0	kaikki	1	1	1	
+406	atmen	atmet	3.48		0	kaikki	1	1	0	
+407	ergreifen	ergreift	3.48		0	kaikki	1	0	1	
+408	erregen	erregt	3.48	freq_shared:adj,adv	0	kaikki	0	0	0	sexual connotation
+409	schwanken	schwankt	3.48		0	kaikki	1	0	0	
+410	wandeln	wandelt	3.48		0	kaikki	0	0	0	formal
+411	ahnen	ahnt	3.47		0	kaikki	1	0	0	
+412	klopfen	klopft	3.47		0	kaikki	1	1	0	
+413	offenbaren	offenbart	3.47		0	kaikki	0	0	0	formal
+414	widerlegen	widerlegt	3.47		0	kaikki	0	0	0	formal
+415	abonnieren	abonniert	3.46		0	kaikki	1	0	0	object restricted to subscriptions
+416	kippen	kippt	3.46		0	kaikki	1	0	1	
+417	knallen	knallt	3.46	vulgar:1/5	0	kaikki	0	0	0	ambiguous (vulgar/violent senses)
+418	krachen	kracht	3.46		0	kaikki	1	0	0	
+419	notieren	notiert	3.46	freq_shared:adj	0	kaikki	1	0	0	abstract objects only
+420	ticken	tickt	3.46	partly_restricted:1/3	0	kaikki	1	0	0	
+421	verlinken	verlinkt	3.46		0	kaikki	1	0	1	
+422	vermeiden	vermeidet	3.46		0	kaikki	1	0	1	
+423	vertiefen	vertieft	3.46	freq_shared:adj	0	kaikki	1	0	0	
+424	weigern	weigert	3.46	reflexive_only	0	kaikki	0	0	0	reflexive_only
+425	begehren	begehrt	3.45	freq_shared:adj	0	kaikki	0	0	0	sexual connotation; archaic
+426	belohnen	belohnt	3.45		0	kaikki	1	1	1	
+427	heilen	heilt	3.45		0	kaikki	1	0	1	
+428	schnappen	schnappt	3.45		0	kaikki	1	1	1	
+429	benennen	benennt	3.44		0	kaikki	1	0	0	needs nach-complement
+430	beschaffen	beschafft	3.44		0	kaikki	1	0	1	
+431	beten	betet	3.44		0	kaikki	0	0	0	religion
+432	genehmigen	genehmigt	3.44		0	kaikki	1	0	0	bureaucratic objects
+433	kapieren	kapiert	3.44	colloquial	0	kaikki	1	0	0	colloquial
+434	spinnen	spinnt	3.44	partly_restricted:1/6	0	kaikki	1	0	0	ambiguous ('is crazy')
+435	befestigen	befestigt	3.43		0	kaikki	1	0	1	
+436	bewerben	bewirbt	3.43		0	kaikki	1	0	0	mostly reflexive
+437	erleiden	erleidet	3.43		0	kaikki	0	0	0	negative
+438	erstrecken	erstreckt	3.43	reflexive_only	0	kaikki	0	0	0	reflexive_only
+439	saugen	saugt	3.43	partly_restricted:1/4	0	kaikki	1	0	1	
+440	verhaften	verhaftet	3.43	partly_restricted:1/3	0	kaikki	0	0	0	sensitive (crime)
+441	verwirren	verwirrt	3.43	freq_shared:adj	0	kaikki	1	0	1	
+442	erkranken	erkrankt	3.42		0	kaikki	0	0	0	sensitive (disease)
+443	erwerben	erwirbt	3.42		0	kaikki	1	0	1	
+444	regulieren	reguliert	3.42		0	kaikki	0	0	0	jargon
+445	schimpfen	schimpft	3.42		0	kaikki	1	0	0	
+446	toben	tobt	3.42		0	kaikki	1	1	0	
+447	bedauern	bedauert	3.41		0	kaikki	1	0	0	
+448	beugen	beugt	3.41		0	kaikki	1	0	0	objects mostly body parts
+449	irren	irrt	3.41	homographs:2	0	kaikki	1	0	0	mostly reflexive
+450	vermischen	vermischt	3.41	freq_shared:adj	0	kaikki	1	0	1	
+451	beleben	belebt	3.4	freq_shared:adj	0	kaikki	1	0	0	
+452	bremsen	bremst	3.4		0	kaikki	1	1	1	
+453	erlernen	erlernt	3.4		0	kaikki	1	0	0	abstract objects only
+454	renovieren	renoviert	3.4	freq_shared:adj	0	kaikki	1	0	1	
+455	umarmen	umarmt	3.4		0	kaikki	1	1	1	
+456	belehren	belehrt	3.39		0	kaikki	1	0	1	
+457	isolieren	isoliert	3.39	freq_shared:adj	0	kaikki	1	0	1	
+458	umgeben	umgibt	3.39		0	kaikki	1	0	0	
+459	versauen	versaut	3.39	freq_shared:adj	0	kaikki	0	0	0	offensive (vulgar)
+460	werten	wertet	3.39		0	kaikki	0	0	0	formal
+461	bedecken	bedeckt	3.38	freq_shared:adj	0	kaikki	1	0	1	
+462	erstaunen	erstaunt	3.38		0	kaikki	1	0	1	
+463	forschen	forscht	3.38		0	kaikki	1	0	0	
+464	grinsen	grinst	3.38		0	kaikki	1	1	0	
+465	lecken	leckt	3.38	vulgar:1/2;homographs:2	0	kaikki	0	0	0	sexual connotation
+466	spalten	spaltet	3.38		0	kaikki	1	0	1	
+467	vereinigen	vereinigt	3.38	freq_shared:adj	0	kaikki	0	0	0	politics; formal
+468	erpressen	erpresst	3.37		0	kaikki	0	0	0	sensitive (crime)
+469	klettern	klettert	3.37		1	kaikki	1	1	0	
+470	sanieren	saniert	3.37	freq_shared:adj	0	kaikki	0	0	0	jargon
+471	taugen	taugt	3.37	partly_restricted:1/2	0	kaikki	1	0	0	
+472	urteilen	urteilt	3.37		0	kaikki	1	0	0	
+473	verbleiben	verbleibt	3.37		0	kaikki	0	0	0	formal
+474	versenden	versendet	3.37		0	kaikki	1	0	1	
+475	checken	checkt	3.36		0	kaikki	1	0	1	colloquial anglicism
+476	kreieren	kreiert	3.36		0	kaikki	1	0	1	
+477	tauschen	tauscht	3.36		0	kaikki	1	1	1	
+478	tolerieren	toleriert	3.36		0	kaikki	1	0	1	
+479	ergehen	ergeht	3.35	derogatory:1/5	0	kaikki	0	0	0	formal; ambiguous
+480	jubeln	jubelt	3.35		0	kaikki	1	1	0	
+481	jucken	juckt	3.35		0	kaikki	1	0	0	
+482	losen	lost	3.35	freq_shared:adj,noun	0	kaikki	0	0	0	ambiguous ('lost' reads as English/slang)
+483	ragen	ragt	3.35		0	kaikki	1	0	0	
+484	stinken	stinkt	3.35		0	kaikki	1	0	0	
+485	verachten	verachtet	3.35	partly_restricted:1/2	0	kaikki	0	0	0	negative
+486	benehmen	benimmt	3.34	partly_restricted:1/2	0	kaikki	0	0	0	reflexive_only
+487	bestreben	bestrebt	3.34	reflexive_only	0	kaikki	0	0	0	wrong_form (only adj 'bestrebt')
+488	erhoffen	erhofft	3.34		0	kaikki	0	0	0	reflexive_only
+489	eskalieren	eskaliert	3.34		0	kaikki	0	0	0	negative
+490	sehnen	sehnt	3.34	reflexive_only	0	kaikki	0	0	0	reflexive_only
+491	speichern	speichert	3.34		0	kaikki	1	0	1	
+492	versenken	versenkt	3.34		0	kaikki	1	0	1	
+493	ermutigen	ermutigt	3.33		0	kaikki	1	0	1	
+494	feuern	feuert	3.33		0	kaikki	0	0	0	ambiguous (fire weapon / dismiss)
+495	fixieren	fixiert	3.33		0	kaikki	1	0	1	
+496	gedenken	gedenkt	3.33		0	kaikki	0	0	0	archaic; death
+497	schrecken	schreckt	3.33	homographs:2	0	kaikki	0	0	0	ambiguous
+498	vollenden	vollendet	3.33	freq_shared:adj	0	kaikki	1	0	0	
+499	bluten	blutet	3.32		0	kaikki	0	0	0	sensitive (injury)
+500	entgehen	entgeht	3.32		0	kaikki	0	0	0	needs_dative
+501	erfinden	erfindet	3.32		0	kaikki	1	1	1	
+502	listen	listet	3.32		0	kaikki	0	0	0	ambiguous (English 'listen'; prefer auflisten)
+503	moderieren	moderiert	3.32		0	kaikki	1	0	0	
+504	schleichen	schleicht	3.32	vulgar:1/5;partly_restricted:1/5	0	kaikki	1	0	0	
+505	schlucken	schluckt	3.32		0	kaikki	1	0	1	
+506	sprengen	sprengt	3.32		0	kaikki	0	0	0	violence (explosives)
+507	strecken	streckt	3.32		0	kaikki	1	0	0	objects mostly body parts
+508	verbannen	verbannt	3.32	freq_shared:adj	0	kaikki	0	0	0	negative
+509	erkunden	erkundet	3.31		0	kaikki	1	0	1	
+510	fluchen	flucht	3.31	freq_shared:noun	0	kaikki	0	0	0	negative (swearing)
+511	nicken	nickt	3.31		0	kaikki	1	1	0	
+512	starren	starrt	3.31		0	kaikki	1	0	0	
+513	verpacken	verpackt	3.31		0	kaikki	1	1	1	
+514	biegen	biegt	3.3		0	kaikki	1	0	1	
+515	leugnen	leugnet	3.3		0	kaikki	0	0	0	negative
+516	stehlen	stiehlt	3.3		0	kaikki	0	0	0	sensitive (crime)
+517	trauern	trauert	3.3		0	kaikki	0	0	0	sensitive (death)
+518	vergiften	vergiftet	3.3	freq_shared:adj	0	kaikki	0	0	0	violence
+519	rauben	raubt	3.29		0	kaikki	0	0	0	sensitive (crime)
+520	reiben	reibt	3.29		0	kaikki	1	0	1	
+521	reihen	reiht	3.29	homographs:2	0	kaikki	0	0	0	ambiguous; mostly reflexive
+522	scheren	schert	3.29	partly_restricted:2/4;homographs:3	0	kaikki	0	0	0	ambiguous
+523	versinken	versinkt	3.29		0	kaikki	1	0	0	
+524	wackeln	wackelt	3.29		0	kaikki	1	1	0	
+525	befehlen	befiehlt	3.28	partly_restricted:1/3	1	kaikki	1	0	0	needs_dative
+526	erkundigen	erkundigt	3.28	reflexive_only	0	kaikki	0	0	0	reflexive_only
+527	gedeihen	gedeiht	3.28		0	kaikki	0	0	0	formal
+528	lauern	lauert	3.28		0	kaikki	1	0	0	
+529	schrumpfen	schrumpft	3.28	partly_restricted:1/3	0	kaikki	1	1	0	
+530	spannen	spannt	3.28		0	kaikki	1	0	0	ambiguous objects
+531	spucken	spuckt	3.28		0	kaikki	0	0	0	ugly_in_sentence
+532	verdrehen	verdreht	3.28	freq_shared:adj	0	kaikki	1	0	0	
+533	verlagern	verlagert	3.28		0	kaikki	0	0	0	formal
+534	verwerten	verwertet	3.28	freq_shared:adj	0	kaikki	0	0	0	jargon
+535	weiten	weitet	3.28	reflexive_only	0	kaikki	0	0	0	reflexive_only
+536	eilen	eilt	3.27	partly_restricted:1/3	0	kaikki	1	0	0	
+537	gliedern	gliedert	3.27		0	kaikki	0	0	0	formal
+538	hegen	hegt	3.27		0	kaikki	0	0	0	archaic
+539	leihen	leiht	3.27		0	kaikki	1	1	1	
+540	tippen	tippt	3.27	homographs:2	0	kaikki	1	0	0	
+541	adoptieren	adoptiert	3.26		0	kaikki	1	0	1	
+542	bescheren	beschert	3.26	homographs:2	0	kaikki	0	0	0	formal; ambiguous
+543	entstammen	entstammt	3.26		0	kaikki	0	0	0	formal
+544	ernten	erntet	3.26		0	kaikki	1	1	1	
+545	scheuen	scheut	3.26		0	kaikki	0	0	0	formal
+546	simulieren	simuliert	3.26	freq_shared:adj	0	kaikki	0	0	0	jargon
+547	verfehlen	verfehlt	3.26	partly_restricted:2/3;freq_shared:adj	0	kaikki	1	0	1	
+548	bekunden	bekundet	3.25		0	kaikki	0	0	0	formal
+549	entlarven	entlarvt	3.25		0	kaikki	0	0	0	formal
+550	schreiten	schreitet	3.25		0	kaikki	0	0	0	formal
+551	trocknen	trocknet	3.25		0	kaikki	1	1	1	
+552	verdecken	verdeckt	3.25	freq_shared:adj	0	kaikki	1	0	1	
+553	verehren	verehrt	3.25	freq_shared:adj	0	kaikki	0	0	0	religion connotation
+554	brauen	braut	3.24	freq_shared:noun	0	kaikki	0	0	0	ambiguous ('braut' reads as noun Braut)
+555	filmen	filmt	3.24		0	kaikki	1	1	1	
+556	formen	formt	3.24		0	kaikki	1	1	1	
+557	pissen	pisst	3.24		0	kaikki	0	0	0	offensive (vulgar)
+558	rocken	rockt	3.24		0	kaikki	0	0	0	colloquial anglicism
+559	animieren	animiert	3.23	freq_shared:adj	0	kaikki	0	0	0	jargon
+560	hocken	hockt	3.23	partly_restricted:1/2	0	kaikki	1	0	0	
+561	kriechen	kriecht	3.23		0	kaikki	1	1	0	
+562	lagern	lagert	3.23		0	kaikki	1	0	1	
+563	schulden	schuldet	3.23		0	kaikki	0	0	0	needs_dative
+564	verankern	verankert	3.23		0	kaikki	0	0	0	formal
+565	entwerfen	entwirft	3.22		0	kaikki	1	0	1	
+566	klatschen	klatscht	3.22		0	kaikki	1	1	0	
+567	dulden	duldet	3.21		0	kaikki	0	0	0	formal
+568	frieren	friert	3.21	partly_restricted:2/4	0	kaikki	1	1	0	
+569	labern	labert	3.21	partly_restricted:1/3	0	kaikki	0	0	0	colloquial
+570	ringen	ringt	3.21		0	kaikki	1	0	0	
+571	verleiten	verleitet	3.21	partly_restricted:1/2	0	kaikki	0	0	0	formal
+572	bewachen	bewacht	3.2		0	kaikki	1	0	1	
+573	fertigen	fertigt	3.2		0	kaikki	0	0	0	jargon
+574	parken	parkt	3.2		0	kaikki	1	1	1	
+575	streifen	streift	3.2		0	kaikki	1	0	0	
+576	tagen	tagt	3.2		0	kaikki	0	0	0	formal
+577	unterlegen	unterlegt	3.2		0	kaikki	0	0	0	jargon
+578	drucken	druckt	3.19		0	kaikki	1	1	1	
+579	polieren	poliert	3.19		0	kaikki	1	0	1	
+580	rauschen	rauscht	3.19		0	kaikki	1	0	0	
+581	stolpern	stolpert	3.19		0	kaikki	1	1	0	
+582	tropfen	tropft	3.19		0	kaikki	1	0	0	
+583	erklingen	erklingt	3.18		0	kaikki	0	0	0	formal
+584	jammern	jammert	3.18		0	kaikki	1	0	0	
+585	schleppen	schleppt	3.18		0	kaikki	1	0	1	
+586	verstellen	verstellt	3.18		0	kaikki	1	0	0	
+587	besagen	besagt	3.17	partly_restricted:1/3;freq_shared:adj	0	kaikki	0	0	0	formal
+588	opfern	opfert	3.17		0	kaikki	0	0	0	sensitive (sacrifice)
+589	reinigen	reinigt	3.17		0	kaikki	1	0	1	
+590	berauben	beraubt	3.16		0	kaikki	0	0	0	sensitive (crime)
+591	erlegen	erlegt	3.16		0	kaikki	0	0	0	hunting/killing
+592	gesellen	gesellt	3.16	reflexive_only	0	kaikki	0	0	0	reflexive_only
+593	gleiten	gleitet	3.16		0	kaikki	1	0	0	
+594	hacken	hackt	3.16	homographs:2	0	kaikki	1	0	1	
+595	langweilen	langweilt	3.16		0	kaikki	1	0	1	
+596	untersagen	untersagt	3.16		0	kaikki	0	0	0	formal
+597	verlosen	verlost	3.16		0	kaikki	1	0	1	
+598	verneinen	verneint	3.16		0	kaikki	0	0	0	formal
+599	begaben	begabt	3.15	freq_shared:adj	0	kaikki	0	0	0	wrong_form (only adj 'begabt')
+600	erwidern	erwidert	3.15	freq_shared:adj	0	kaikki	0	0	0	formal
+601	gedulden	geduldet	3.15	reflexive_only	0	kaikki	0	0	0	reflexive_only
+602	hausen	haust	3.15	derogatory:2/2;partly_restricted:1/2;colloquial	0	kaikki	0	0	0	derogatory
+603	knacken	knackt	3.15	partly_restricted:1/5	0	kaikki	1	0	1	
+604	verbuchen	verbucht	3.15		0	kaikki	0	0	0	jargon
+605	verderben	verdirbt	3.15		0	kaikki	0	0	0	negative
+606	verpissen	verpisst	3.15	vulgar:1/1;reflexive_only	0	kaikki	0	0	0	offensive (vulgar)
+607	verwehren	verwehrt	3.15		0	kaikki	0	0	0	formal
+608	wischen	wischt	3.15	partly_restricted:1/4	0	kaikki	1	1	1	
+609	bessern	bessert	3.14		0	kaikki	0	0	0	formal; reflexive
+610	blenden	blendet	3.14		0	kaikki	1	0	0	
+611	erachten	erachtet	3.14	freq_shared:adj	0	kaikki	0	0	0	formal
+612	schwinden	schwindet	3.14		0	kaikki	0	0	0	formal
+613	speisen	speist	3.14	partly_restricted:1/5	0	kaikki	0	0	0	formal
+614	basteln	bastelt	3.13		0	kaikki	1	1	1	
+615	beharren	beharrt	3.13	partly_restricted:1/3	0	kaikki	0	0	0	formal
+616	bewohnen	bewohnt	3.13		0	kaikki	1	0	1	
+617	forcieren	forciert	3.13		0	kaikki	0	0	0	jargon
+618	halbieren	halbiert	3.13		0	kaikki	1	0	1	
+619	minimieren	minimiert	3.13		0	kaikki	0	0	0	jargon
+620	vertuschen	vertuscht	3.13		0	kaikki	0	0	0	negative
+621	dehnen	dehnt	3.12		0	kaikki	1	0	0	
+622	fesseln	fesselt	3.12		0	kaikki	0	0	0	violence
+623	haken	hakt	3.12		0	kaikki	0	0	0	ambiguous
+624	knien	kniet	3.12		0	kaikki	1	0	0	
+625	lasten	lastet	3.12		0	kaikki	0	0	0	formal
+626	mahnen	mahnt	3.12		0	kaikki	0	0	0	formal
+627	nominieren	nominiert	3.12		0	kaikki	1	0	0	
+628	tendieren	tendiert	3.12		0	kaikki	0	0	0	jargon
+629	belangen	belangt	3.11		0	kaikki	0	0	0	jargon (legal)
+630	erschaffen	erschafft	3.11		0	kaikki	1	0	1	
+631	gehorchen	gehorcht	3.11		0	kaikki	1	0	0	needs_dative
+632	pendeln	pendelt	3.11		0	kaikki	1	0	0	
+633	punkten	punktet	3.11		0	kaikki	1	0	0	
+634	schulen	schult	3.11	freq_shared:name	0	kaikki	1	0	1	
+635	blamieren	blamiert	3.1		0	kaikki	1	0	0	mostly reflexive
+636	blinken	blinkt	3.1		0	kaikki	1	1	0	
+637	diktieren	diktiert	3.1		0	kaikki	1	0	0	
+638	erbringen	erbringt	3.1		0	kaikki	0	0	0	formal
+639	kreisen	kreist	3.1		0	kaikki	1	1	0	
+640	langen	langt	3.1	colloquial	0	kaikki	0	0	0	colloquial
+641	erbauen	erbaut	3.09	freq_shared:adj	0	kaikki	0	0	0	formal
+642	erproben	erprobt	3.09		0	kaikki	0	0	0	formal
+643	hemmen	hemmt	3.09		0	kaikki	0	0	0	formal
+644	meckern	meckert	3.09		0	kaikki	1	0	0	
+645	stocken	stockt	3.09		0	kaikki	0	0	0	formal
+646	erblicken	erblickt	3.08		0	kaikki	1	0	1	
+647	ernennen	ernennt	3.08		0	kaikki	0	0	0	formal
+648	hinken	hinkt	3.08		0	kaikki	1	0	0	
+649	klemmen	klemmt	3.08		0	kaikki	1	0	0	
+650	massieren	massiert	3.08	homographs:2	0	kaikki	1	0	1	
+651	meiden	meidet	3.08		0	kaikki	1	0	1	
+652	reimen	reimt	3.08	reflexive_only	0	kaikki	1	0	0	reflexive_only
+653	verblassen	verblasst	3.08	freq_shared:adj	0	kaikki	1	0	0	
+654	verdammen	verdammt	3.08	freq_shared:adj,intj	0	kaikki	0	0	0	religion; offensive
+655	verdauen	verdaut	3.08		0	kaikki	1	0	1	
+656	backen	backt	3.07	partly_restricted:1/5;3sg_variants:backt|bäckt	1	kaikki	1	1	1	
+657	bestechen	besticht	3.07		0	kaikki	0	0	0	sensitive (crime)
+658	entsenden	entsendet	3.07		0	kaikki	0	0	0	formal
+659	umstellen	umstellt	3.07	separable_homograph_skipped	0	kaikki	0	0	0	ambiguous
+660	verhelfen	verhilft	3.07		0	kaikki	0	0	0	needs_dative
+661	beliefern	beliefert	3.06		0	kaikki	0	0	0	jargon
+662	einen	eint	3.06		0	kaikki	0	0	0	ambiguous (article 'einen')
+663	mindern	mindert	3.06		0	kaikki	0	0	0	formal
+664	rammen	rammt	3.06		0	kaikki	0	0	0	violence
+665	bahnen	bahnt	3.05	reflexive_only	0	kaikki	0	0	0	reflexive_only
+666	datieren	datiert	3.05	freq_shared:adj	0	kaikki	0	0	0	jargon
+667	erkaufen	erkauft	3.05	partly_restricted:1/2	0	kaikki	0	0	0	formal
+668	erwirken	erwirkt	3.05		0	kaikki	0	0	0	formal
+669	montieren	montiert	3.05		0	kaikki	1	0	1	
+670	pochen	pocht	3.05		0	kaikki	0	0	0	formal
+671	pumpen	pumpt	3.05		0	kaikki	1	0	1	
+672	rasten	rastet	3.05		0	kaikki	1	0	0	
+673	schonen	schont	3.05	partly_restricted:1/3	0	kaikki	1	0	0	
+674	twittern	twittert	3.05		0	kaikki	0	0	0	name_or_brand
+675	wickeln	wickelt	3.05		0	kaikki	1	0	1	
+676	addieren	addiert	3.04		0	kaikki	1	1	0	
+677	dirigieren	dirigiert	3.04		0	kaikki	1	0	0	
+678	pausieren	pausiert	3.04		0	kaikki	1	0	0	
+679	staunen	staunt	3.04		0	kaikki	1	1	0	
+680	stufen	stuft	3.04		0	kaikki	0	0	0	wrong_form (used as einstufen)
+681	entfachen	entfacht	3.03		0	kaikki	0	0	0	formal
+682	irritieren	irritiert	3.03		0	kaikki	1	0	1	
+683	verbauen	verbaut	3.03	derogatory:1/4	0	kaikki	0	0	0	ambiguous
+684	dekorieren	dekoriert	3.02		0	kaikki	1	1	1	
+685	einigen	einigt	3.02		0	kaikki	0	0	0	reflexive_only
+686	entbehren	entbehrt	3.02		0	kaikki	0	0	0	formal
+687	ersuchen	ersucht	3.02		0	kaikki	0	0	0	formal
+688	murmeln	murmelt	3.02		0	kaikki	1	0	0	
+689	preisen	preist	3.02		0	kaikki	0	0	0	formal
+690	schwenken	schwenkt	3.02		0	kaikki	1	0	1	
+691	streuen	streut	3.02		0	kaikki	1	0	1	
+692	verordnen	verordnet	3.02	freq_shared:adj	0	kaikki	0	0	0	jargon
+693	verstummen	verstummt	3.02		0	kaikki	0	0	0	formal
+694	verwischen	verwischt	3.02		0	kaikki	1	0	1	
+695	besprechen	bespricht	3.01		0	kaikki	1	0	0	
+696	brummen	brummt	3.01		0	kaikki	1	1	0	
+697	errechnen	errechnet	3.01		0	kaikki	0	0	0	formal
+698	gebieten	gebietet	3.01	partly_restricted:2/6	0	kaikki	0	0	0	formal
+699	klammern	klammert	3.01	reflexive_only	0	kaikki	0	0	0	reflexive_only
+700	revidieren	revidiert	3.01	partly_restricted:1/2	0	kaikki	0	0	0	jargon
+701	verkommen	verkommt	3.01		0	kaikki	0	0	0	negative
+702	vermerken	vermerkt	3.01	freq_shared:adj	0	kaikki	0	0	0	formal
+703	wittern	wittert	3.01		0	kaikki	1	0	1	
+704	initiieren	initiiert	3.0		0	kaikki	0	0	0	jargon
+705	kontern	kontert	3.0		0	kaikki	1	0	0	
+706	prallen	prallt	3.0		0	kaikki	1	0	0	
+707	reifen	reift	3.0	homographs:2	0	kaikki	1	0	0	
+708	spendieren	spendiert	3.0	colloquial	0	kaikki	1	0	1	
+709	stornieren	storniert	3.0		0	kaikki	0	0	0	jargon
+710	verrecken	verreckt	3.0	colloquial	0	kaikki	0	0	0	offensive (vulgar death)
+711	winden	windet	3.0		0	kaikki	0	0	0	formal; reflexive
+712	billigen	billigt	2.99		0	kaikki	0	0	0	formal
+713	bohren	bohrt	2.99		0	kaikki	1	0	1	
+714	erben	erbt	2.99		0	kaikki	1	0	1	
+715	formieren	formiert	2.99		0	kaikki	0	0	0	formal
+716	imitieren	imitiert	2.99		0	kaikki	1	0	1	
+717	kleiden	kleidet	2.99		0	kaikki	0	0	0	formal
+718	versehen	versieht	2.99	partly_restricted:1/6	0	kaikki	0	0	0	formal
+719	verspeisen	verspeist	2.99		0	kaikki	1	0	1	
+720	versperren	versperrt	2.99		0	kaikki	1	0	0	
+721	beneiden	beneidet	2.98		0	kaikki	1	0	1	
+722	bereisen	bereist	2.98		0	kaikki	1	0	0	objects are places
+723	bewaffnen	bewaffnet	2.98	freq_shared:adj	0	kaikki	0	0	0	weapons
+724	durchleben	durchlebt	2.98		0	kaikki	0	0	0	formal
+725	rotieren	rotiert	2.98		0	kaikki	1	0	0	
+726	verirren	verirrt	2.98	reflexive_only;freq_shared:adj	0	kaikki	0	0	0	reflexive_only
+727	verreisen	verreist	2.98		1	kaikki	1	1	0	
+728	bekleiden	bekleidet	2.97		0	kaikki	0	0	0	formal
+729	bemalen	bemalt	2.97		0	kaikki	1	1	1	
+730	entkommen	entkommt	2.97		0	kaikki	1	0	0	
+731	ereignen	ereignet	2.97	impersonal;reflexive_only	0	kaikki	0	0	0	reflexive_only
+732	plagen	plagt	2.97		0	kaikki	0	0	0	negative
+733	rudern	rudert	2.97		0	kaikki	1	1	0	
+734	stopfen	stopft	2.97		0	kaikki	1	0	1	
+735	streiken	streikt	2.97		0	kaikki	0	0	0	politics
+736	verstauen	verstaut	2.97		0	kaikki	1	0	1	
+737	beschenken	beschenkt	2.96		0	kaikki	1	1	1	
+738	flirten	flirtet	2.96		0	kaikki	0	0	0	adult connotation
+739	gruppieren	gruppiert	2.96		0	kaikki	0	0	0	jargon
+740	sabotieren	sabotiert	2.96		0	kaikki	0	0	0	negative
+741	schneien	schneit	2.96		0	kaikki	0	0	0	impersonal
+742	schwellen	schwillt	2.96	homographs:2	0	kaikki	0	0	0	ambiguous; disease
+743	bedingen	bedingt	2.95	freq_shared:adj	0	kaikki	0	0	0	formal
+744	bejubeln	bejubelt	2.95		0	kaikki	1	0	1	
+745	blocken	blockt	2.95		0	kaikki	0	0	0	colloquial anglicism
+746	ermuntern	ermuntert	2.95		0	kaikki	0	0	0	formal
+747	evakuieren	evakuiert	2.95		0	kaikki	0	0	0	sensitive
+748	fegen	fegt	2.95	partly_restricted:2/7	0	kaikki	1	1	1	
+749	hallen	hallt	2.95		0	kaikki	0	0	0	formal
+750	lockern	lockert	2.95		0	kaikki	1	0	0	
+751	lutschen	lutscht	2.95		0	kaikki	0	0	0	sexual connotation
+752	quatschen	quatscht	2.95	derogatory:1/2;colloquial	0	kaikki	1	0	0	colloquial
+753	triggern	triggert	2.95		0	kaikki	0	0	0	jargon
+754	verharren	verharrt	2.95		0	kaikki	0	0	0	formal
+755	bereinigen	bereinigt	2.94	freq_shared:adj	0	kaikki	0	0	0	jargon
+756	erbeuten	erbeutet	2.94		0	kaikki	0	0	0	crime connotation
+757	ergattern	ergattert	2.94	colloquial	0	kaikki	1	0	1	colloquial
+758	erhellen	erhellt	2.94		0	kaikki	0	0	0	formal
+759	lackieren	lackiert	2.94		0	kaikki	1	0	1	
+760	plaudern	plaudert	2.94		0	kaikki	1	0	0	
+761	posieren	posiert	2.94		0	kaikki	1	0	0	
+762	rangieren	rangiert	2.94		0	kaikki	0	0	0	jargon
+763	runden	rundet	2.94		0	kaikki	0	0	0	wrong_form (used as abrunden)
+764	stiften	stiftet	2.94		0	kaikki	1	0	0	
+765	vergeuden	vergeudet	2.94	freq_shared:adj	0	kaikki	0	0	0	formal
+766	vermelden	vermeldet	2.94		0	kaikki	0	0	0	formal
+767	ballern	ballert	2.93		0	kaikki	0	0	0	violence (shooting)
+768	bellen	bellt	2.93	3sg_variants:bellt|billt	0	kaikki	1	1	0	
+769	donnern	donnert	2.93	homographs:2	0	kaikki	0	0	0	ambiguous
+770	huren	hurt	2.93		0	kaikki	0	0	0	offensive
+771	kacken	kackt	2.93		0	kaikki	0	0	0	offensive (vulgar)
+772	kicken	kickt	2.93		0	kaikki	1	0	1	
+773	pinkeln	pinkelt	2.93		0	kaikki	0	0	0	ugly_in_sentence (vulgar-ish)
+774	schmieren	schmiert	2.93	derogatory:1/6	0	kaikki	0	0	0	ambiguous (bribe)
+775	vererben	vererbt	2.93	freq_shared:adj	0	kaikki	0	0	0	death-adjacent; formal
+776	verstopfen	verstopft	2.93	freq_shared:adj	0	kaikki	0	0	0	negative
+777	befeuern	befeuert	2.92		0	kaikki	0	0	0	jargon
+778	designen	designt	2.92		0	kaikki	0	0	0	heavy loanword
+779	fischen	fischt	2.92		0	kaikki	1	0	1	
+780	verjagen	verjagt	2.92		0	kaikki	1	0	1	
+781	verorten	verortet	2.92		0	kaikki	0	0	0	jargon
+782	betteln	bettelt	2.91		0	kaikki	0	0	0	negative
+783	entleeren	entleert	2.91		0	kaikki	0	0	0	formal
+784	funken	funkt	2.91	partly_restricted:1/2;homographs:2	0	kaikki	0	0	0	ambiguous
+785	quietschen	quietscht	2.91		0	kaikki	1	1	0	
+786	raffen	rafft	2.91		0	kaikki	0	0	0	colloquial
+787	wichsen	wichst	2.91	vulgar:1/3;partly_restricted:2/3	0	kaikki	0	0	0	offensive (vulgar)
+788	alarmieren	alarmiert	2.9		0	kaikki	0	0	0	formal
+789	bejahen	bejaht	2.9		0	kaikki	0	0	0	formal
+790	belagern	belagert	2.9		0	kaikki	0	0	0	violence (siege)
+791	duften	duftet	2.9		0	kaikki	1	1	0	
+792	killen	killt	2.9	colloquial;homographs:2	0	kaikki	0	0	0	violence
+793	kursieren	kursiert	2.9		0	kaikki	0	0	0	formal
+794	pusten	pustet	2.9		0	kaikki	1	1	0	
+795	streamen	streamt	2.9		0	kaikki	0	0	0	heavy loanword
+796	altern	altert	2.89		0	kaikki	0	0	0	negative
+797	ertrinken	ertrinkt	2.89		0	kaikki	0	0	0	sensitive (death)
+798	flehen	fleht	2.89		0	kaikki	0	0	0	negative
+799	grauen	graut	2.89	homographs:2	0	kaikki	0	0	0	ambiguous
+800	kauen	kaut	2.89		0	kaikki	1	0	1	
+801	lindern	lindert	2.89		0	kaikki	1	0	0	abstract_obj_only
+802	referieren	referiert	2.89		0	kaikki	1	0	0	no_obj
+803	schrauben	schraubt	2.89	partly_restricted:2/4	0	kaikki	1	1	1	
+804	verdampfen	verdampft	2.89	freq_shared:adj	0	kaikki	1	0	0	
+805	verwahren	verwahrt	2.89		0	kaikki	1	0	1	
+806	weilen	weilt	2.89		0	kaikki	0	0	0	archaic
+807	beben	bebt	2.88		0	kaikki	1	0	0	
+808	flattern	flattert	2.88		0	kaikki	1	1	0	
+809	rappen	rappt	2.88		0	kaikki	1	0	0	
+810	verschonen	verschont	2.88		0	kaikki	1	0	1	
+811	bemessen	bemisst	2.87		0	kaikki	0	0	0	formal
+812	erliegen	erliegt	2.87		0	kaikki	0	0	0	needs_dative
+813	mangeln	mangelt	2.87		0	kaikki	0	0	0	impersonal
+814	mieten	mietet	2.87		0	kaikki	1	0	1	
+815	pressen	presst	2.87		0	kaikki	1	1	1	
+816	schleifen	schleift	2.87	homographs:2	0	kaikki	1	0	1	
+817	signieren	signiert	2.87		0	kaikki	1	0	1	
+818	stemmen	stemmt	2.87		0	kaikki	1	0	1	
+819	verspielen	verspielt	2.87	freq_shared:adj	0	kaikki	1	0	0	abstract_obj_only
+820	vibrieren	vibriert	2.87		0	kaikki	1	0	0	
+821	besteuern	besteuert	2.86		0	kaikki	0	0	1	bureaucratic
+822	lauschen	lauscht	2.86		0	kaikki	1	1	0	needs_dative
+823	stressen	stresst	2.86	reflexive_only	0	kaikki	1	0	0	person_obj_only
+824	surfen	surft	2.86		0	kaikki	1	1	0	
+825	vereiteln	vereitelt	2.86		0	kaikki	0	0	0	formal
+826	wahren	wahrt	2.86		0	kaikki	0	0	0	formal
+827	delegieren	delegiert	2.85		0	kaikki	0	0	0	jargon
+828	erstarren	erstarrt	2.85	freq_shared:adj	0	kaikki	1	0	0	
+829	fahnden	fahndet	2.85		0	kaikki	0	0	0	crime
+830	kastrieren	kastriert	2.85		0	kaikki	0	0	1	sensitive
+831	nagen	nagt	2.85		0	kaikki	1	1	0	needs_prep_an
+832	segnen	segnet	2.85		0	kaikki	0	0	1	religion
+833	spionieren	spioniert	2.85		0	kaikki	1	0	0	
+834	stagnieren	stagniert	2.85		0	kaikki	0	0	0	jargon
+835	strafen	straft	2.85		0	kaikki	0	0	0	negative
+836	verewigen	verewigt	2.85		0	kaikki	1	0	0	abstract_obj_only
+837	beerdigen	beerdigt	2.84		0	kaikki	0	0	1	death
+838	besiedeln	besiedelt	2.84	freq_shared:adj	0	kaikki	1	0	0	place_obj_only
+839	entweichen	entweicht	2.84		0	kaikki	1	0	0	
+840	googeln	googelt	2.84		0	kaikki	1	0	1	
+841	knicken	knickt	2.84		0	kaikki	1	1	1	
+842	schimmern	schimmert	2.84		0	kaikki	1	0	0	
+843	schnarchen	schnarcht	2.84		0	kaikki	1	1	0	
+844	umkreisen	umkreist	2.84		0	kaikki	1	0	1	
+845	bekehren	bekehrt	2.83		0	kaikki	0	0	0	religion
+846	besteigen	besteigt	2.83		0	kaikki	1	0	1	
+847	outen	outet	2.83		0	kaikki	0	0	0	sensitive
+848	schocken	schockt	2.83	partly_restricted:1/3	0	kaikki	1	0	0	person_obj_only
+849	wirbeln	wirbelt	2.83		0	kaikki	1	1	1	
+850	baden	badet	2.82	reflexive_only	1	kaikki	1	1	1	flag reflexive_only wrong
+851	besinnen	besinnt	2.82	reflexive_only	0	kaikki	0	0	0	reflexive_only
+852	husten	hustet	2.82		0	kaikki	1	0	0	
+853	erfragen	erfragt	2.81		0	kaikki	0	0	0	formal
+854	schubsen	schubst	2.81	colloquial	0	kaikki	1	0	1	
+855	segeln	segelt	2.81		0	kaikki	1	1	0	
+856	verkacken	verkackt	2.81	vulgar:1/1;colloquial	0	kaikki	0	0	0	offensive
+857	wetten	wettet	2.81		0	kaikki	1	0	0	
+858	bedrucken	bedruckt	2.8	freq_shared:adj	0	kaikki	1	0	1	
+859	bewilligen	bewilligt	2.8		0	kaikki	0	0	0	bureaucratic
+860	erspielen	erspielt	2.8		0	kaikki	0	0	0	jargon
+861	faulen	fault	2.8		0	kaikki	1	0	0	
+862	geleiten	geleitet	2.8		0	kaikki	0	0	1	formal
+863	knurren	knurrt	2.8		0	kaikki	1	1	0	
+864	muten	mutet	2.8	partly_restricted:1/3;homographs:2	0	kaikki	0	0	0	obscure
+865	mutieren	mutiert	2.8		0	kaikki	1	0	0	
+866	beeilen	beeilt	2.79	reflexive_only	0	kaikki	0	0	0	reflexive_only
+867	entgegnen	entgegnet	2.79		0	kaikki	0	0	0	needs_dative
+868	entledigen	entledigt	2.79	reflexive_only	0	kaikki	0	0	0	reflexive_only
+869	erbitten	erbittet	2.79		0	kaikki	0	0	0	formal
+870	meistern	meistert	2.79		0	kaikki	1	0	0	abstract_obj_only
+871	schmieden	schmiedet	2.79		0	kaikki	1	0	1	
+872	summen	summt	2.79		0	kaikki	1	1	0	
+873	verkennen	verkennt	2.79		0	kaikki	0	0	0	formal
+874	weihen	weiht	2.79		0	kaikki	0	0	0	religion
+875	deponieren	deponiert	2.78		0	kaikki	1	0	1	
+876	ebnen	ebnet	2.78		0	kaikki	0	0	0	idiom_only
+877	festigen	festigt	2.78		0	kaikki	0	0	0	abstract
+878	filtern	filtert	2.78		0	kaikki	1	0	1	
+879	leeren	leert	2.78		0	kaikki	1	0	1	
+880	summieren	summiert	2.78		0	kaikki	0	0	0	jargon
+881	trommeln	trommelt	2.78		0	kaikki	1	1	0	
+882	bebauen	bebaut	2.77	freq_shared:adj	0	kaikki	0	0	0	place_obj_only
+883	duschen	duscht	2.77		0	kaikki	1	1	0	
+884	entnehmen	entnimmt	2.77		0	kaikki	1	0	1	
+885	proben	probt	2.77		0	kaikki	1	0	0	
+886	quellen	quillt	2.77	homographs:2	0	kaikki	0	0	0	obscure
+887	stricken	strickt	2.77		1	kaikki	1	1	1	
+888	heiligen	heiligt	2.76		0	kaikki	0	0	0	religion
+889	huldigen	huldigt	2.76		0	kaikki	0	0	0	archaic
+890	klappern	klappert	2.76	freq_shared:name	0	kaikki	1	1	0	
+891	schaukeln	schaukelt	2.76		0	kaikki	1	1	1	
+892	verweilen	verweilt	2.76		0	kaikki	0	0	0	archaic
+893	wettern	wettert	2.76		0	kaikki	0	0	0	obscure
+894	besiegeln	besiegelt	2.75		0	kaikki	0	0	0	formal
+895	evaluieren	evaluiert	2.75		0	kaikki	0	0	0	jargon
+896	fiebern	fiebert	2.75		0	kaikki	0	0	0	disease
+897	vergraulen	vergrault	2.75	partly_restricted:1/2	0	kaikki	0	0	0	colloquial
+898	bannen	bannt	2.74		0	kaikki	0	0	0	formal
+899	entpuppen	entpuppt	2.74	reflexive_only	0	kaikki	0	0	0	reflexive_only
+900	erfrischen	erfrischt	2.74		0	kaikki	1	0	0	person_obj_only
+901	ermahnen	ermahnt	2.74		0	kaikki	1	0	0	person_obj_only
+902	hantieren	hantiert	2.74		0	kaikki	1	0	0	needs_prep_mit
+903	spotten	spottet	2.74		0	kaikki	1	0	0	
+904	sprudeln	sprudelt	2.74		0	kaikki	1	1	0	
+905	beheben	behebt	2.73	partly_restricted:2/3	0	kaikki	1	0	0	abstract_obj_only
+906	boxen	boxt	2.73		0	kaikki	1	0	1	
+907	dampfen	dampft	2.73		0	kaikki	1	0	0	
+908	falten	faltet	2.73		0	kaikki	1	1	1	
+909	faseln	faselt	2.73	derogatory:1/1;colloquial	0	kaikki	0	0	0	colloquial
+910	kaschieren	kaschiert	2.73		0	kaikki	0	0	0	formal
+911	polen	polt	2.73		0	kaikki	0	0	0	jargon
+912	pushen	pusht	2.73		0	kaikki	0	0	0	loanword
+913	rinnen	rinnt	2.73		0	kaikki	0	0	0	archaic
+914	rosten	rostet	2.73		0	kaikki	1	0	0	
+915	schielen	schielt	2.73		0	kaikki	1	0	0	
+916	stillen	stillt	2.73		0	kaikki	0	0	1	ambiguous
+917	verfluchen	verflucht	2.73	freq_shared:adj	0	kaikki	0	0	1	negative
+918	vermengen	vermengt	2.73		0	kaikki	1	0	1	
+919	adaptieren	adaptiert	2.72		0	kaikki	0	0	0	jargon
+920	bestatten	bestattet	2.72		0	kaikki	0	0	1	death
+921	bestaunen	bestaunt	2.72		0	kaikki	1	1	1	
+922	brausen	braust	2.72	partly_restricted:1/3	0	kaikki	0	0	0	obscure
+923	entwenden	entwendet	2.72	freq_shared:adj	0	kaikki	0	0	1	crime
+924	funkeln	funkelt	2.72		0	kaikki	1	1	0	
+925	imponieren	imponiert	2.72		0	kaikki	1	0	0	needs_dative
+926	kichern	kichert	2.72		0	kaikki	1	1	0	
+927	negieren	negiert	2.72		0	kaikki	0	0	0	jargon
+928	rentieren	rentiert	2.72	reflexive_only	0	kaikki	0	0	0	reflexive_only
+929	scannen	scannt	2.72		0	kaikki	1	0	1	
+930	schwirren	schwirrt	2.72		0	kaikki	1	0	0	
+931	spuren	spurt	2.72	freq_shared:noun	0	kaikki	0	0	0	colloquial
+932	versklaven	versklavt	2.72		0	kaikki	0	0	0	sensitive
+933	vertagen	vertagt	2.72		0	kaikki	0	0	0	bureaucratic
+934	furchen	furcht	2.71	freq_shared:noun	0	kaikki	0	0	0	obscure
+935	klaffen	klafft	2.71		0	kaikki	0	0	0	obscure
+936	morden	mordet	2.71	partly_restricted:1/2	0	kaikki	0	0	0	crime
+937	quittieren	quittiert	2.71		0	kaikki	0	0	0	formal
+938	verwerfen	verwirft	2.71		0	kaikki	0	0	0	formal
+939	arten	artet	2.7		0	kaikki	0	0	0	obscure
+940	handhaben	handhabt	2.7	partly_restricted:1/3	0	kaikki	0	0	0	ugly_in_sentence
+941	inhalieren	inhaliert	2.7	freq_shared:adj	0	kaikki	0	0	1	drugs
+942	wedeln	wedelt	2.7		0	kaikki	1	1	0	needs_prep_mit
+943	bewirten	bewirtet	2.69	partly_restricted:1/2	0	kaikki	1	0	0	person_obj_only
+944	foltern	foltert	2.69		0	kaikki	0	0	0	violence
+945	grillen	grillt	2.69		0	kaikki	1	1	1	
+946	pennen	pennt	2.69	colloquial	0	kaikki	0	0	0	colloquial
+947	veredeln	veredelt	2.69	freq_shared:adj	0	kaikki	0	0	0	formal
+948	verfilmen	verfilmt	2.69		0	kaikki	1	0	0	abstract_obj_only
+949	bangen	bangt	2.68		0	kaikki	0	0	0	archaic
+950	boomen	boomt	2.68		0	kaikki	0	0	0	loanword
+951	dosieren	dosiert	2.68		0	kaikki	0	0	1	jargon
+952	frittieren	frittiert	2.68	freq_shared:adj	0	kaikki	1	0	1	
+953	knistern	knistert	2.68		0	kaikki	1	1	0	
+954	piepen	piept	2.68		0	kaikki	1	1	0	
+955	driften	driftet	2.67		0	kaikki	0	0	0	jargon
+956	entbinden	entbindet	2.67	partly_restricted:1/5	0	kaikki	0	0	0	sensitive
+957	fechten	ficht	2.67	3sg_marked_form	0	kaikki	0	0	0	ugly_in_sentence (ficht)
+958	folgern	folgert	2.67		0	kaikki	0	0	0	abstract
+959	gefrieren	gefriert	2.67		0	kaikki	1	0	0	
+960	gipfeln	gipfelt	2.67		0	kaikki	0	0	0	abstract
+961	knirschen	knirscht	2.67		0	kaikki	1	0	0	
+962	kreischen	kreischt	2.67	partly_restricted:1/4	0	kaikki	1	0	0	
+963	misstrauen	misstraut	2.67		0	kaikki	0	0	0	needs_dative
+964	parieren	pariert	2.67	homographs:3	0	kaikki	0	0	0	ambiguous
+965	trollen	trollt	2.67	partly_restricted:1/2;colloquial;homographs:2	0	kaikki	0	0	0	colloquial
+966	verrotten	verrottet	2.67	freq_shared:adj	0	kaikki	0	0	0	negative
+967	besingen	besingt	2.66		0	kaikki	0	0	0	archaic
+968	kneifen	kneift	2.66		0	kaikki	1	0	1	
+969	niesen	niest	2.66		0	kaikki	1	1	0	
+970	prahlen	prahlt	2.66		0	kaikki	1	0	0	
+971	stottern	stottert	2.66		0	kaikki	1	0	0	
+972	sacken	sackt	2.65	homographs:2	0	kaikki	0	0	0	obscure
+973	skalieren	skaliert	2.65		0	kaikki	0	0	0	jargon
+974	tappen	tappt	2.65		0	kaikki	0	0	0	obscure
+975	taumeln	taumelt	2.65		0	kaikki	1	0	0	
+976	hungern	hungert	2.64		0	kaikki	0	0	0	negative
+977	kranken	krankt	2.64		0	kaikki	0	0	0	obscure
+978	lichten	lichtet	2.64	homographs:2	0	kaikki	0	0	0	obscure
+979	schnurren	schnurrt	2.64		0	kaikki	1	1	0	
+980	stauen	staut	2.64		0	kaikki	0	0	0	mostly_reflexive
+981	turnen	turnt	2.64		1	kaikki	1	1	0	
+982	versiegen	versiegt	2.64		0	kaikki	0	0	0	archaic
+983	versohlen	versohlt	2.64		0	kaikki	0	0	0	violence
+984	wanken	wankt	2.64		0	kaikki	0	0	0	archaic
+985	entmutigen	entmutigt	2.63		0	kaikki	0	0	0	negative
+986	krabbeln	krabbelt	2.63		0	kaikki	1	1	0	
+987	tanken	tankt	2.63		0	kaikki	1	0	0	fuel_obj_only
+988	tasten	tastet	2.63		0	kaikki	1	0	0	needs_prep_nach
+989	verenden	verendet	2.63		0	kaikki	0	0	0	death
+990	inserieren	inseriert	2.62		0	kaikki	0	0	0	obscure
+991	kribbeln	kribbelt	2.62	partly_restricted:1/3	0	kaikki	1	0	0	
+992	orten	ortet	2.62		0	kaikki	1	0	1	
+993	siedeln	siedelt	2.62	partly_restricted:1/3	0	kaikki	0	0	0	obscure
+994	sponsern	sponsert	2.62		0	kaikki	1	0	0	abstract_obj_only
+995	titeln	titelt	2.62		0	kaikki	0	0	0	jargon
+996	verlernen	verlernt	2.62		0	kaikki	1	0	0	abstract_obj_only
+997	enteignen	enteignet	2.61		0	kaikki	0	0	0	politics
+998	enttarnen	enttarnt	2.61		0	kaikki	1	0	0	person_obj_only
+999	erbarmen	erbarmt	2.61	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1000	hadern	hadert	2.61		0	kaikki	0	0	0	obscure
+1001	hupen	hupt	2.61		0	kaikki	1	1	0	
+1002	maximieren	maximiert	2.61		0	kaikki	0	0	0	jargon
+1003	statuieren	statuiert	2.61		0	kaikki	0	0	0	idiom_only
+1004	umrunden	umrundet	2.61		0	kaikki	1	0	1	
+1005	vergolden	vergoldet	2.61	freq_shared:adj	0	kaikki	1	0	1	
+1006	vermiesen	vermiest	2.61		0	kaikki	0	0	0	colloquial
+1007	entgleisen	entgleist	2.6		0	kaikki	0	0	0	negative
+1008	flackern	flackert	2.6		0	kaikki	1	1	0	
+1009	peilen	peilt	2.6		0	kaikki	0	0	0	colloquial
+1010	ruckeln	ruckelt	2.6		0	kaikki	1	0	0	
+1011	skandieren	skandiert	2.6		0	kaikki	0	0	0	politics
+1012	belauschen	belauscht	2.59		0	kaikki	1	0	0	person_obj_only
+1013	betrinken	betrinkt	2.59	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1014	gewittern	gewittert	2.59		0	kaikki	0	0	0	impersonal
+1015	nageln	nagelt	2.59	vulgar:1/3	0	kaikki	0	0	1	vulgar sense
+1016	peitschen	peitscht	2.59		0	kaikki	0	0	0	violence
+1017	schnallen	schnallt	2.59		0	kaikki	0	0	0	ambiguous
+1018	schweifen	schweift	2.59		0	kaikki	0	0	0	archaic
+1019	vernaschen	vernascht	2.59		0	kaikki	0	0	0	sexual sense
+1020	bestreuen	bestreut	2.58		0	kaikki	1	0	1	
+1021	dichten	dichtet	2.58	homographs:2	0	kaikki	1	0	0	ambiguous
+1022	ekeln	ekelt	2.58		0	kaikki	0	0	0	negative
+1023	erringen	erringt	2.58		0	kaikki	0	0	0	formal
+1024	recken	reckt	2.58	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1025	vernehmen	vernimmt	2.58	partly_restricted:1/3	0	kaikki	0	0	0	formal
+1026	flankieren	flankiert	2.57		0	kaikki	0	0	0	jargon
+1027	frisieren	frisiert	2.57		0	kaikki	1	0	0	person_obj_only
+1028	justieren	justiert	2.57		0	kaikki	0	0	0	jargon
+1029	stampfen	stampft	2.57		0	kaikki	1	1	1	
+1030	verlesen	verliest	2.57		0	kaikki	0	0	0	ambiguous
+1031	ducken	duckt	2.56	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1032	kappen	kappt	2.56		0	kaikki	0	0	0	obscure
+1033	keimen	keimt	2.56		0	kaikki	1	0	0	
+1034	stapeln	stapelt	2.56		0	kaikki	1	1	1	
+1035	verbluten	verblutet	2.56		0	kaikki	0	0	0	death
+1036	vergasen	vergast	2.56		0	kaikki	0	0	0	sensitive
+1037	verwunden	verwundet	2.56		0	kaikki	0	0	0	violence
+1038	angeln	angelt	2.55		0	kaikki	1	1	1	
+1039	befremden	befremdet	2.55	freq_shared:adj	0	kaikki	0	0	0	formal
+1040	entsperren	entsperrt	2.55		0	kaikki	1	0	0	device_obj_only
+1041	kurbeln	kurbelt	2.55		0	kaikki	0	0	0	obscure
+1042	obliegen	obliegt	2.55	partly_restricted:1/2	0	kaikki	0	0	0	needs_dative
+1043	plappern	plappert	2.55		0	kaikki	1	1	0	
+1044	quetschen	quetscht	2.55		0	kaikki	1	0	1	
+1045	scrollen	scrollt	2.55		0	kaikki	1	0	0	
+1046	tangieren	tangiert	2.55		0	kaikki	0	0	0	jargon
+1047	toppen	toppt	2.55		0	kaikki	0	0	0	colloquial
+1048	verpuffen	verpufft	2.55		0	kaikki	0	0	0	obscure
+1049	brodeln	brodelt	2.54	partly_restricted:1/2	0	kaikki	1	0	0	
+1050	entlohnen	entlohnt	2.54		0	kaikki	0	0	0	formal
+1051	erblinden	erblindet	2.54	partly_restricted:1/2	0	kaikki	0	0	0	disease
+1052	nisten	nistet	2.54		0	kaikki	1	1	0	
+1053	paaren	paart	2.54	reflexive_only	0	kaikki	0	0	0	sexual
+1054	poltern	poltert	2.54		0	kaikki	1	0	0	
+1055	schaufeln	schaufelt	2.54		0	kaikki	1	1	1	
+1056	versterben	verstirbt	2.54		0	kaikki	0	0	0	death
+1057	betrauen	betraut	2.53		0	kaikki	0	0	0	formal
+1058	entstellen	entstellt	2.53	freq_shared:adj	0	kaikki	0	0	0	negative
+1059	entwischen	entwischt	2.53		0	kaikki	1	1	0	needs_dative
+1060	faken	fakt	2.53	colloquial;freq_shared:noun	0	kaikki	0	0	0	colloquial
+1061	mixen	mixt	2.53		0	kaikki	1	0	1	
+1062	tarnen	tarnt	2.53		0	kaikki	1	0	1	
+1063	baumeln	baumelt	2.52	partly_restricted:1/2	0	kaikki	1	1	0	
+1064	betten	bettet	2.52		0	kaikki	0	0	0	formal
+1065	bloggen	bloggt	2.52		0	kaikki	1	0	0	
+1066	demolieren	demoliert	2.52	partly_restricted:1/2	0	kaikki	1	0	1	
+1067	drosseln	drosselt	2.52		0	kaikki	0	0	0	jargon
+1068	entwerten	entwertet	2.52		0	kaikki	0	0	0	bureaucratic
+1069	flippen	flippt	2.52	partly_restricted:1/4	0	kaikki	0	0	0	colloquial
+1070	garnieren	garniert	2.52		0	kaikki	1	0	1	
+1071	geloben	gelobt	2.52		0	kaikki	0	0	0	formal
+1072	huschen	huscht	2.52		0	kaikki	1	1	0	
+1073	kiffen	kifft	2.52	colloquial	0	kaikki	0	0	0	drugs
+1074	prangen	prangt	2.52	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1075	schmiegen	schmiegt	2.52	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1076	sinnen	sinnt	2.52		0	kaikki	0	0	0	archaic
+1077	verpflegen	verpflegt	2.52		0	kaikki	0	0	0	formal
+1078	befrieden	befriedet	2.51		0	kaikki	0	0	0	politics
+1079	beichten	beichtet	2.51		0	kaikki	0	0	0	religion
+1080	chillen	chillt	2.51	colloquial;reflexive_only	0	kaikki	1	0	0	colloquial ok
+1081	hauchen	haucht	2.51		0	kaikki	1	0	0	
+1082	hellen	hellt	2.51		0	kaikki	0	0	0	obscure
+1083	picken	pickt	2.51	homographs:2	0	kaikki	1	1	1	
+1084	tummeln	tummelt	2.51	partly_restricted:1/3;reflexive_only	0	kaikki	0	0	0	reflexive_only
+1085	urinieren	uriniert	2.51		0	kaikki	0	0	0	embarrassing
+1086	vergreifen	vergreift	2.51	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1087	verloben	verlobt	2.51	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1088	beteuern	beteuert	2.5		0	kaikki	0	0	0	formal
+1089	fackeln	fackelt	2.5	partly_restricted:1/2	0	kaikki	0	0	0	idiom_only
+1090	knabbern	knabbert	2.5		0	kaikki	1	1	1	
+1091	kurieren	kuriert	2.5		0	kaikki	0	0	0	disease
+1092	rattern	rattert	2.5		0	kaikki	1	0	0	
+1093	relaxen	relaxt	2.5		0	kaikki	0	0	0	loanword
+1094	sausen	saust	2.5		0	kaikki	1	1	0	
+1095	schuften	schuftet	2.5	colloquial	0	kaikki	1	0	0	
+1096	sieben	siebt	2.5		1	kaikki	0	0	1	ambiguous (numeral)
+1097	verengen	verengt	2.5		0	kaikki	0	0	0	obscure
+1098	verheilen	verheilt	2.5		0	kaikki	0	0	0	disease
+1099	bestehlen	bestiehlt	2.49		0	kaikki	0	0	0	crime
+1100	emittieren	emittiert	2.49		0	kaikki	0	0	0	jargon
+1101	kramen	kramt	2.49	partly_restricted:1/2;colloquial	0	kaikki	1	0	0	needs_prep_in
+1102	mildern	mildert	2.49		0	kaikki	0	0	0	formal
+1103	offerieren	offeriert	2.49		0	kaikki	0	0	0	formal
+1104	verneigen	verneigt	2.49	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1105	emigrieren	emigriert	2.48		0	kaikki	0	0	0	politics
+1106	erstechen	ersticht	2.48		0	kaikki	0	0	0	violence
+1107	fluten	flutet	2.48		0	kaikki	1	0	0	place_obj_only
+1108	fristen	fristet	2.48		0	kaikki	0	0	0	idiom_only
+1109	mahlen	mahlt	2.48		0	kaikki	1	0	1	
+1110	prasseln	prasselt	2.48		0	kaikki	1	0	0	
+1111	rascheln	raschelt	2.48		0	kaikki	1	1	0	
+1112	verkleben	verklebt	2.48		0	kaikki	1	0	1	
+1113	ertappen	ertappt	2.47		0	kaikki	1	0	0	person_obj_only
+1114	harren	harrt	2.47	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1115	heften	heftet	2.47		0	kaikki	1	0	1	
+1116	krepieren	krepiert	2.47	vulgar:1/1	0	kaikki	0	0	0	offensive
+1117	schwelgen	schwelgt	2.47	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1118	sprinten	sprintet	2.47		0	kaikki	1	0	0	
+1119	verarmen	verarmt	2.47		0	kaikki	0	0	0	negative
+1120	verlauten	verlautet	2.47		0	kaikki	0	0	0	formal
+1121	wuchern	wuchert	2.47		0	kaikki	1	0	0	
+1122	benoten	benotet	2.46		0	kaikki	1	0	1	
+1123	erahnen	erahnt	2.46		0	kaikki	0	0	0	formal
+1124	fingern	fingert	2.46		0	kaikki	0	0	0	colloquial
+1125	parodieren	parodiert	2.46		0	kaikki	1	0	0	person_obj_only
+1126	beurlauben	beurlaubt	2.45		0	kaikki	0	0	0	bureaucratic
+1127	erklimmen	erklimmt	2.45		0	kaikki	0	0	0	archaic
+1128	schminken	schminkt	2.45		0	kaikki	1	0	0	person_obj_only
+1129	schnellen	schnellt	2.45		0	kaikki	0	0	0	obscure
+1130	thronen	thront	2.45		0	kaikki	0	0	0	archaic
+1131	verbiegen	verbiegt	2.45		0	kaikki	1	0	1	
+1132	verkosten	verkostet	2.45		0	kaikki	0	0	1	jargon
+1133	beschallen	beschallt	2.44		0	kaikki	0	0	0	jargon
+1134	covern	covert	2.44		0	kaikki	0	0	0	loanword
+1135	raunen	raunt	2.44		0	kaikki	0	0	0	archaic
+1136	schallen	schallt	2.44		0	kaikki	0	0	0	archaic
+1137	sondieren	sondiert	2.44		0	kaikki	0	0	0	jargon
+1138	umbauen	umbaut	2.44	separable_homograph_skipped	0	kaikki	0	0	0	wrong_form (separable: baut um)
+1139	begnadigen	begnadigt	2.43		0	kaikki	0	0	0	crime
+1140	berauschen	berauscht	2.43	freq_shared:adj	0	kaikki	0	0	0	drugs
+1141	betrauern	betrauert	2.43		0	kaikki	0	0	0	death
+1142	blubbern	blubbert	2.43		0	kaikki	1	1	0	
+1143	entfliehen	entflieht	2.43		0	kaikki	0	0	0	formal
+1144	gravieren	graviert	2.43		0	kaikki	1	0	1	
+1145	horchen	horcht	2.43		0	kaikki	1	1	0	
+1146	meditieren	meditiert	2.43		0	kaikki	1	0	0	
+1147	queren	quert	2.43		0	kaikki	0	0	0	formal
+1148	ballen	ballt	2.42		0	kaikki	0	0	0	obscure
+1149	beerben	beerbt	2.42		0	kaikki	0	0	0	death
+1150	erbrechen	erbricht	2.42	partly_restricted:1/3	0	kaikki	0	0	0	embarrassing
+1151	mimen	mimt	2.42		0	kaikki	0	0	0	obscure
+1152	misslingen	misslingt	2.42		0	kaikki	0	0	0	no_animate_subject
+1153	pulsieren	pulsiert	2.42		0	kaikki	1	0	0	
+1154	sonnen	sonnt	2.42	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1155	spuken	spukt	2.42		0	kaikki	1	0	0	
+1156	tauen	taut	2.42	impersonal	0	kaikki	1	0	0	
+1157	verbeugen	verbeugt	2.42	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1158	verleben	verlebt	2.42	freq_shared:adj	0	kaikki	0	0	0	formal
+1159	vernebeln	vernebelt	2.42		0	kaikki	0	0	0	obscure
+1160	verprassen	verprasst	2.42		0	kaikki	0	0	0	colloquial
+1161	verseuchen	verseucht	2.42		0	kaikki	0	0	0	negative
+1162	verstreuen	verstreut	2.42		0	kaikki	1	0	1	
+1163	beehren	beehrt	2.41		0	kaikki	0	0	0	formal
+1164	begleichen	begleicht	2.41		0	kaikki	0	0	0	bureaucratic
+1165	betanken	betankt	2.41		0	kaikki	0	0	0	jargon
+1166	ereilen	ereilt	2.41		0	kaikki	0	0	0	formal
+1167	kodieren	kodiert	2.41		0	kaikki	0	0	0	jargon
+1168	koppeln	koppelt	2.41		0	kaikki	0	0	0	jargon
+1169	managen	managt	2.41		0	kaikki	0	0	0	loanword
+1170	rumpeln	rumpelt	2.41		0	kaikki	1	0	0	
+1171	sichten	sichtet	2.41	homographs:2	0	kaikki	0	0	0	formal
+1172	vertonen	vertont	2.41		0	kaikki	0	0	0	jargon
+1173	votieren	votiert	2.41		0	kaikki	0	0	0	politics
+1174	weiden	weidet	2.41		0	kaikki	1	0	0	
+1175	florieren	floriert	2.4		0	kaikki	0	0	0	formal
+1176	gruseln	gruselt	2.4		0	kaikki	0	0	0	reflexive_only
+1177	limitieren	limitiert	2.4		0	kaikki	0	0	0	jargon
+1178	mustern	mustert	2.4		0	kaikki	1	0	1	
+1179	piepsen	piepst	2.4		0	kaikki	1	1	0	
+1180	ranken	rankt	2.4		0	kaikki	0	0	0	ambiguous
+1181	residieren	residiert	2.4		0	kaikki	0	0	0	formal
+1182	vertilgen	vertilgt	2.4		0	kaikki	1	0	1	
+1183	amputieren	amputiert	2.39		0	kaikki	0	0	0	sensitive
+1184	erheitern	erheitert	2.39		0	kaikki	0	0	0	formal
+1185	hofieren	hofiert	2.39		0	kaikki	0	0	0	formal
+1186	jonglieren	jongliert	2.39		0	kaikki	1	1	0	needs_prep_mit/plural
+1187	knipsen	knipst	2.39		0	kaikki	1	1	1	
+1188	krallen	krallt	2.39		0	kaikki	0	0	0	colloquial
+1189	lancieren	lanciert	2.39		0	kaikki	0	0	0	jargon
+1190	lodern	lodert	2.39		0	kaikki	1	0	0	
+1191	miauen	miaut	2.39		0	kaikki	1	1	0	
+1192	sickern	sickert	2.39		0	kaikki	1	0	0	
+1193	sinnieren	sinniert	2.39		0	kaikki	0	0	0	archaic
+1194	brillieren	brilliert	2.38		0	kaikki	0	0	0	formal
+1195	googlen	googlet	2.38	alt_of:googeln	0	kaikki	0	0	0	duplicate of googeln
+1196	qualmen	qualmt	2.38		0	kaikki	1	0	0	
+1197	tricksen	trickst	2.38		0	kaikki	1	0	0	
+1198	verfaulen	verfault	2.38		0	kaikki	1	0	0	
+1199	dreschen	drischt	2.37		0	kaikki	0	0	0	ugly_in_sentence (drischt)
+1200	erschallen	erschallt	2.37		0	kaikki	0	0	0	archaic
+1201	futtern	futtert	2.37	partly_restricted:1/2	0	kaikki	1	1	1	
+1202	schmollen	schmollt	2.37	partly_restricted:1/2	0	kaikki	1	1	0	
+1203	stammeln	stammelt	2.37		0	kaikki	1	0	0	
+1204	verformen	verformt	2.37		0	kaikki	1	0	1	
+1205	verstauben	verstaubt	2.37		0	kaikki	1	0	0	
+1206	versteifen	versteift	2.37		0	kaikki	0	0	0	obscure
+1207	widerrufen	widerruft	2.37		0	kaikki	0	0	0	formal
+1208	erretten	errettet	2.36		0	kaikki	0	0	0	archaic
+1209	sondern	sondert	2.36		0	kaikki	0	0	0	function_word
+1210	verhauen	verhaut	2.36		0	kaikki	0	0	0	violence
+1211	avancieren	avanciert	2.35	partly_restricted:1/2	0	kaikki	0	0	0	formal
+1212	belustigen	belustigt	2.35		0	kaikki	0	0	0	formal
+1213	dividieren	dividiert	2.35		0	kaikki	1	0	0	
+1214	engen	engt	2.35		0	kaikki	0	0	0	obscure
+1215	fauchen	faucht	2.35		0	kaikki	1	1	0	
+1216	flammen	flammt	2.35		0	kaikki	0	0	0	obscure
+1217	garen	gart	2.35		0	kaikki	1	0	1	
+1218	grummeln	grummelt	2.35		0	kaikki	1	1	0	
+1219	humpeln	humpelt	2.35		0	kaikki	1	0	0	
+1220	loggen	loggt	2.35		0	kaikki	0	0	0	jargon
+1221	schimmeln	schimmelt	2.35		0	kaikki	1	0	0	
+1222	taufen	tauft	2.35		0	kaikki	0	0	0	religion
+1223	untermalen	untermalt	2.35		0	kaikki	0	0	0	formal
+1224	vermachen	vermacht	2.35	freq_shared:adj	0	kaikki	0	0	0	death
+1225	verticken	vertickt	2.35	colloquial;homographs:2	0	kaikki	0	0	0	colloquial
+1226	bekochen	bekocht	2.34		0	kaikki	1	0	0	person_obj_only
+1227	entkernen	entkernt	2.34	freq_shared:adj	0	kaikki	1	0	1	
+1228	erstarken	erstarkt	2.34		0	kaikki	0	0	0	formal
+1229	hebeln	hebelt	2.34		0	kaikki	0	0	0	obscure
+1230	schirmen	schirmt	2.34		0	kaikki	0	0	0	obscure
+1231	speien	speit	2.34		0	kaikki	0	0	0	archaic
+1232	steinigen	steinigt	2.34		0	kaikki	0	0	0	violence
+1233	beuten	beutet	2.33		0	kaikki	0	0	0	obscure
+1234	frischen	frischt	2.33		0	kaikki	0	0	0	obscure
+1235	gieren	giert	2.33	partly_restricted:1/2;homographs:2	0	kaikki	0	0	0	obscure
+1236	navigieren	navigiert	2.33		0	kaikki	1	0	0	
+1237	schnaufen	schnauft	2.33	partly_restricted:1/2	0	kaikki	1	0	0	
+1238	wimmeln	wimmelt	2.33		0	kaikki	0	0	0	impersonal
+1239	doppeln	doppelt	2.32	freq_shared:adj	0	kaikki	0	0	0	obscure
+1240	eruieren	eruiert	2.32		0	kaikki	0	0	0	formal
+1241	flimmern	flimmert	2.32		0	kaikki	1	0	0	
+1242	hageln	hagelt	2.32	impersonal	0	kaikki	0	0	0	impersonal
+1243	kauern	kauert	2.32		0	kaikki	0	0	0	mostly_reflexive
+1244	rasseln	rasselt	2.32		0	kaikki	1	0	0	
+1245	rieseln	rieselt	2.32		0	kaikki	1	1	0	
+1246	scheppern	scheppert	2.32		0	kaikki	1	0	0	
+1247	verkloppen	verkloppt	2.32	colloquial	0	kaikki	0	0	0	violence
+1248	werkeln	werkelt	2.32	partly_restricted:1/3	0	kaikki	1	0	0	
+1249	behelligen	behelligt	2.31		0	kaikki	0	0	0	formal
+1250	belichten	belichtet	2.31		0	kaikki	0	0	0	jargon
+1251	hangeln	hangelt	2.31		0	kaikki	1	0	0	mostly_reflexive
+1252	keuchen	keucht	2.31		0	kaikki	1	0	0	
+1253	maskieren	maskiert	2.31		0	kaikki	0	0	1	formal
+1254	necken	neckt	2.31		0	kaikki	1	1	0	person_obj_only
+1255	onanieren	onaniert	2.31		0	kaikki	0	0	0	sexual
+1256	steppen	steppt	2.31	homographs:2	0	kaikki	0	0	0	ambiguous
+1257	verwesen	verwest	2.31	partly_restricted:1/2	0	kaikki	0	0	0	death
+1258	koalieren	koaliert	2.3		0	kaikki	0	0	0	politics
+1259	schmoren	schmort	2.3		0	kaikki	1	0	1	
+1260	schwanen	schwant	2.3	colloquial	0	kaikki	0	0	0	colloquial
+1261	verfliegen	verfliegt	2.3		0	kaikki	0	0	0	abstract
+1262	verwelken	verwelkt	2.3		0	kaikki	1	0	0	
+1263	weben	webt	2.3	partly_restricted:1/3	0	kaikki	1	0	1	
+1264	bewerfen	bewirft	2.29		0	kaikki	1	0	1	
+1265	entsagen	entsagt	2.29		0	kaikki	0	0	0	archaic
+1266	fasten	fastet	2.29		0	kaikki	1	0	0	
+1267	besticken	bestickt	2.28		0	kaikki	1	0	1	
+1268	booten	bootet	2.28		0	kaikki	0	0	0	jargon
+1269	fabulieren	fabuliert	2.28	freq_shared:adj	0	kaikki	0	0	0	formal
+1270	hieven	hievt	2.28		0	kaikki	1	0	1	
+1271	hosten	hostet	2.28	partly_restricted:1/2	0	kaikki	0	0	0	loanword
+1272	joggen	joggt	2.28		0	kaikki	1	1	0	
+1273	ordern	ordert	2.28	partly_restricted:1/2	0	kaikki	0	0	0	jargon
+1274	poppen	poppt	2.28	colloquial	0	kaikki	0	0	0	sexual
+1275	promoten	promotet	2.28		0	kaikki	0	0	0	loanword
+1276	sabbern	sabbert	2.28		0	kaikki	1	0	0	
+1277	schleusen	schleust	2.28		0	kaikki	0	0	0	crime
+1278	umgarnen	umgarnt	2.28		0	kaikki	0	0	0	formal
+1279	umschiffen	umschifft	2.28		0	kaikki	0	0	0	idiom_only
+1280	agitieren	agitiert	2.27		0	kaikki	0	0	0	politics
+1281	impfen	impft	2.27		0	kaikki	0	0	0	sensitive
+1282	marinieren	mariniert	2.27		0	kaikki	1	0	1	
+1283	nuscheln	nuschelt	2.27		0	kaikki	1	0	0	
+1284	redigieren	redigiert	2.27		0	kaikki	0	0	0	jargon
+1285	separieren	separiert	2.27		0	kaikki	0	0	0	jargon
+1286	titulieren	tituliert	2.27		0	kaikki	0	0	0	formal
+1287	buhlen	buhlt	2.26	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1288	exen	ext	2.26	colloquial	0	kaikki	0	0	0	colloquial
+1289	migrieren	migriert	2.26		0	kaikki	0	0	0	jargon
+1290	munkeln	munkelt	2.26		0	kaikki	0	0	0	impersonal
+1291	stempeln	stempelt	2.26		0	kaikki	1	1	1	
+1292	tadeln	tadelt	2.26		0	kaikki	0	0	0	negative
+1293	validieren	validiert	2.26		0	kaikki	0	0	0	jargon
+1294	ankern	ankert	2.25		0	kaikki	1	0	0	
+1295	erdulden	erduldet	2.25		0	kaikki	0	0	0	formal
+1296	ertasten	ertastet	2.25		0	kaikki	1	0	1	
+1297	fummeln	fummelt	2.25	partly_restricted:1/3	0	kaikki	0	0	0	sexual sense
+1298	mauern	mauert	2.25		0	kaikki	0	0	0	ambiguous
+1299	monieren	moniert	2.25		0	kaikki	0	0	0	formal
+1300	raufen	rauft	2.25		0	kaikki	0	0	0	violence
+1301	schichten	schichtet	2.25		0	kaikki	1	0	1	
+1302	tosen	tost	2.25		0	kaikki	0	0	0	archaic
+1303	veralbern	veralbert	2.25		0	kaikki	1	0	0	person_obj_only
+1304	verwarnen	verwarnt	2.25		0	kaikki	0	0	0	negative
+1305	behagen	behagt	2.24		0	kaikki	0	0	0	needs_dative
+1306	dealen	dealt	2.24		0	kaikki	0	0	0	drugs
+1307	entflammen	entflammt	2.24		0	kaikki	0	0	0	formal
+1308	erfrieren	erfriert	2.24		0	kaikki	0	0	0	death
+1309	erkalten	erkaltet	2.24		0	kaikki	0	0	0	formal
+1310	horten	hortet	2.24		0	kaikki	1	0	1	
+1311	kneten	knetet	2.24		0	kaikki	1	1	1	
+1312	scheuchen	scheucht	2.24		0	kaikki	1	0	0	animate_obj_only
+1313	trampeln	trampelt	2.24		0	kaikki	1	1	0	
+1314	wappnen	wappnet	2.24	partly_restricted:1/2	0	kaikki	0	0	0	reflexive_only
+1315	erstehen	ersteht	2.23		0	kaikki	0	0	0	formal
+1316	frohlocken	frohlockt	2.23		0	kaikki	0	0	0	archaic
+1317	grausen	graust	2.23	partly_restricted:1/2;impersonal;reflexive_only	0	kaikki	0	0	0	reflexive_only
+1318	knutschen	knutscht	2.23	reflexive_only	0	kaikki	0	0	0	embarrassing
+1319	schummeln	schummelt	2.23	colloquial	0	kaikki	1	0	0	
+1320	stranden	strandet	2.23		0	kaikki	1	0	0	
+1321	tilgen	tilgt	2.23		0	kaikki	0	0	0	formal
+1322	traben	trabt	2.23		0	kaikki	1	1	0	
+1323	verkabeln	verkabelt	2.23		0	kaikki	0	0	0	jargon
+1324	walten	waltet	2.23		0	kaikki	0	0	0	archaic
+1325	beackern	beackert	2.22		0	kaikki	0	0	0	colloquial
+1326	beamen	beamt	2.22		0	kaikki	0	0	0	colloquial
+1327	eiern	eiert	2.22	colloquial	0	kaikki	0	0	0	colloquial
+1328	gerinnen	gerinnt	2.22		0	kaikki	0	0	0	obscure
+1329	maulen	mault	2.22	colloquial	0	kaikki	0	0	0	colloquial
+1330	munden	mundet	2.22		0	kaikki	0	0	0	archaic
+1331	schlingen	schlingt	2.22	homographs:2	0	kaikki	0	0	0	ambiguous
+1332	sticheln	stichelt	2.22	partly_restricted:2/3	0	kaikki	0	0	0	colloquial
+1333	surren	surrt	2.22		0	kaikki	1	0	0	
+1334	triefen	trieft	2.22		0	kaikki	0	0	0	archaic
+1335	umwerben	umwirbt	2.22		0	kaikki	0	0	0	formal
+1336	befehligen	befehligt	2.21		0	kaikki	0	0	0	military
+1337	besamen	besamt	2.21		0	kaikki	0	0	0	sexual
+1338	gammeln	gammelt	2.21	homographs:2	0	kaikki	0	0	0	colloquial
+1339	schaudern	schaudert	2.21		0	kaikki	0	0	0	archaic
+1340	verrenken	verrenkt	2.21		0	kaikki	0	0	0	injury
+1341	verweben	verwebt	2.21		0	kaikki	0	0	0	formal
+1342	baggern	baggert	2.2		0	kaikki	0	0	0	ambiguous
+1343	bestrahlen	bestrahlt	2.2	freq_shared:adj	0	kaikki	0	0	0	disease
+1344	dissen	disst	2.2		0	kaikki	0	0	0	colloquial
+1345	dunkeln	dunkelt	2.2		0	kaikki	0	0	0	obscure
+1346	gabeln	gabelt	2.2		0	kaikki	0	0	0	reflexive_only
+1347	strampeln	strampelt	2.2		0	kaikki	1	1	0	
+1348	wippen	wippt	2.2		0	kaikki	1	1	0	
+1349	entgiften	entgiftet	2.19		0	kaikki	0	0	0	jargon
+1350	krempeln	krempelt	2.19		0	kaikki	0	0	0	obscure
+1351	mobben	mobbt	2.19		0	kaikki	0	0	0	negative
+1352	panieren	paniert	2.19		0	kaikki	1	0	1	
+1353	verhehlen	verhehlt	2.19		0	kaikki	0	0	0	archaic
+1354	hissen	hisst	2.18		0	kaikki	0	0	0	narrow_obj (Flagge)
+1355	jaulen	jault	2.18		0	kaikki	1	1	0	
+1356	lallen	lallt	2.18		0	kaikki	0	0	0	alcohol
+1357	stacheln	stachelt	2.18	partly_restricted:1/2	0	kaikki	0	0	0	obscure
+1358	torkeln	torkelt	2.18	partly_restricted:1/3	0	kaikki	0	0	0	alcohol
+1359	buddeln	buddelt	2.17	colloquial	0	kaikki	1	1	0	
+1360	detonieren	detoniert	2.17		0	kaikki	0	0	0	violence
+1361	mehren	mehrt	2.17		0	kaikki	0	0	0	archaic
+1362	nippen	nippt	2.17		0	kaikki	1	0	0	needs_prep_an
+1363	posaunen	posaunt	2.17		0	kaikki	0	0	0	obscure
+1364	spulen	spult	2.17		0	kaikki	0	0	0	obscure
+1365	verhallen	verhallt	2.17		0	kaikki	0	0	0	archaic
+1366	beflecken	befleckt	2.16		0	kaikki	0	0	0	negative
+1367	befummeln	befummelt	2.16		0	kaikki	0	0	0	sexual
+1368	linken	linkt	2.16		0	kaikki	0	0	0	colloquial
+1369	retweeten	retweetet	2.16		0	kaikki	0	0	0	loanword
+1370	straffen	strafft	2.16		0	kaikki	0	0	0	obscure
+1371	suhlen	suhlt	2.16	partly_restricted:1/3	0	kaikki	0	0	0	reflexive_only
+1372	umringen	umringt	2.16		0	kaikki	0	0	0	formal
+1373	ahnden	ahndet	2.15		0	kaikki	0	0	0	crime
+1374	betonieren	betoniert	2.15		0	kaikki	1	0	1	
+1375	bimmeln	bimmelt	2.15		0	kaikki	1	1	0	
+1376	klimpern	klimpert	2.15		0	kaikki	1	1	0	
+1377	laben	labt	2.15	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1378	latschen	latscht	2.15	colloquial	0	kaikki	0	0	0	colloquial
+1379	paddeln	paddelt	2.15		0	kaikki	1	1	0	
+1380	pokern	pokert	2.15		0	kaikki	0	0	0	gambling
+1381	radieren	radiert	2.15		0	kaikki	1	1	0	
+1382	schelten	schilt	2.15	partly_restricted:1/3	0	kaikki	0	0	0	archaic
+1383	tuckern	tuckert	2.15		0	kaikki	1	1	0	
+1384	verwetten	verwettet	2.15		0	kaikki	0	0	0	gambling
+1385	beatmen	beatmet	2.14	freq_shared:adj	0	kaikki	0	0	0	disease
+1386	beordern	beordert	2.14		0	kaikki	0	0	0	formal
+1387	beweinen	beweint	2.14		0	kaikki	0	0	0	archaic
+1388	borgen	borgt	2.14		0	kaikki	1	1	1	
+1389	ergaunern	ergaunert	2.14		0	kaikki	0	0	0	crime
+1390	grollen	grollt	2.14		0	kaikki	0	0	0	archaic
+1391	kentern	kentert	2.14		0	kaikki	1	0	0	
+1392	kumulieren	kumuliert	2.14		0	kaikki	0	0	0	jargon
+1393	kuschen	kuscht	2.14		0	kaikki	0	0	0	colloquial
+1394	pieksen	piekst	2.14	alt_of:piksen	0	kaikki	1	1	1	
+1395	umspannen	umspannt	2.14	separable_homograph_skipped	0	kaikki	0	0	0	wrong_form
+1396	verlocken	verlockt	2.14		0	kaikki	0	0	0	formal
+1397	vermummen	vermummt	2.14	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1398	feilen	feilt	2.13		0	kaikki	1	0	0	
+1399	freien	freit	2.13	partly_restricted:2/3	0	kaikki	0	0	0	archaic
+1400	fuchteln	fuchtelt	2.13	partly_restricted:1/2	0	kaikki	0	0	0	colloquial
+1401	loten	lotet	2.13		0	kaikki	0	0	0	obscure
+1402	modulieren	moduliert	2.13		0	kaikki	0	0	0	jargon
+1403	quaken	quakt	2.13		0	kaikki	1	1	0	
+1404	schmusen	schmust	2.13	partly_restricted:3/4	0	kaikki	1	1	0	
+1405	schrammen	schrammt	2.13		0	kaikki	0	0	0	obscure
+1406	schwappen	schwappt	2.13		0	kaikki	1	0	0	
+1407	wimmern	wimmert	2.13		0	kaikki	0	0	0	negative
+1408	begatten	begattet	2.12		0	kaikki	0	0	0	sexual
+1409	entstauben	entstaubt	2.12		0	kaikki	1	0	1	
+1410	genesen	genest	2.12		0	kaikki	0	0	0	disease
+1411	heucheln	heuchelt	2.12		0	kaikki	0	0	0	negative
+1412	kloppen	kloppt	2.12	colloquial	0	kaikki	0	0	0	violence
+1413	kraulen	krault	2.12	homographs:2	0	kaikki	1	1	0	animate_obj_only
+1414	liebkosen	liebkost	2.12		0	kaikki	0	0	0	archaic
+1415	ohrfeigen	ohrfeigt	2.12		0	kaikki	0	0	0	violence
+1416	trumpfen	trumpft	2.12		0	kaikki	0	0	0	obscure
+1417	tweeten	tweetet	2.12		0	kaikki	0	0	0	loanword
+1418	verdorren	verdorrt	2.12		0	kaikki	0	0	0	archaic
+1419	bespucken	bespuckt	2.11		0	kaikki	0	0	0	offensive
+1420	bugsieren	bugsiert	2.11		0	kaikki	0	0	0	colloquial
+1421	entweihen	entweiht	2.11		0	kaikki	0	0	0	religion
+1422	genieren	geniert	2.11	partly_restricted:1/3	0	kaikki	0	0	0	reflexive_only
+1423	kurven	kurvt	2.11	colloquial	0	kaikki	0	0	0	colloquial
+1424	schnauben	schnaubt	2.11		0	kaikki	1	0	0	
+1425	stochern	stochert	2.11		0	kaikki	1	0	0	needs_prep_in
+1426	duellieren	duelliert	2.1		0	kaikki	0	0	0	reflexive_only
+1427	flutschen	flutscht	2.1	colloquial	0	kaikki	1	0	0	
+1428	gurgeln	gurgelt	2.1		0	kaikki	1	1	0	
+1429	jobben	jobbt	2.1		0	kaikki	0	0	0	colloquial
+1430	ketten	kettet	2.1		0	kaikki	0	0	0	obscure
+1431	rotten	rottet	2.1		0	kaikki	0	0	0	obscure
+1432	scheffeln	scheffelt	2.1		0	kaikki	0	0	0	idiom_only
+1433	wiehern	wiehert	2.1		0	kaikki	1	1	0	
+1434	enterben	enterbt	2.09		0	kaikki	0	0	0	death
+1435	flanieren	flaniert	2.09		0	kaikki	0	0	0	formal
+1436	heuern	heuert	2.09	freq_shared:name	0	kaikki	0	0	0	obscure
+1437	knattern	knattert	2.09		0	kaikki	1	0	0	
+1438	lupfen	lupft	2.09	partly_restricted:1/2	0	kaikki	0	0	0	regional
+1439	prickeln	prickelt	2.09		0	kaikki	1	0	0	
+1440	quasseln	quasselt	2.09		0	kaikki	1	0	0	
+1441	rumoren	rumort	2.09		0	kaikki	0	0	0	obscure
+1442	scheuern	scheuert	2.09		0	kaikki	1	0	1	
+1443	stapfen	stapft	2.09		0	kaikki	1	0	0	
+1444	swingen	swingt	2.09		0	kaikki	0	0	0	loanword
+1445	adeln	adelt	2.08		0	kaikki	0	0	0	formal
+1446	besudeln	besudelt	2.08		0	kaikki	0	0	0	negative
+1447	erden	erdet	2.08		0	kaikki	0	0	0	jargon
+1448	mogeln	mogelt	2.08		0	kaikki	1	0	0	
+1449	schiffen	schifft	2.08	partly_restricted:1/2;homographs:2	0	kaikki	0	0	0	vulgar
+1450	versanden	versandet	2.08		0	kaikki	0	0	0	obscure
+1451	wuchten	wuchtet	2.08		0	kaikki	1	0	1	
+1452	amtieren	amtiert	2.07		0	kaikki	0	0	0	formal
+1453	bereden	beredet	2.07	partly_restricted:1/2	0	kaikki	0	0	0	colloquial
+1454	bocken	bockt	2.07	vulgar:1/4;homographs:2	0	kaikki	0	0	0	vulgar
+1455	chatten	chattet	2.07		0	kaikki	1	0	0	
+1456	erweichen	erweicht	2.07		0	kaikki	0	0	0	formal
+1457	gerieren	geriert	2.07	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1458	haaren	haart	2.07		0	kaikki	1	0	0	
+1459	laminieren	laminiert	2.07		0	kaikki	1	0	1	
+1460	leiern	leiert	2.07		0	kaikki	0	0	0	colloquial
+1461	naschen	nascht	2.07		0	kaikki	1	1	1	
+1462	verknoten	verknotet	2.07		0	kaikki	1	0	1	
+1463	bomben	bombt	2.06		0	kaikki	0	0	0	violence
+1464	droppen	droppt	2.06	colloquial	0	kaikki	0	0	0	loanword
+1465	gaukeln	gaukelt	2.06	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1466	mailen	mailt	2.06		0	kaikki	1	0	0	
+1467	paktieren	paktiert	2.06		0	kaikki	0	0	0	formal
+1468	planieren	planiert	2.06		0	kaikki	0	0	0	jargon
+1469	sieden	siedet	2.06		0	kaikki	0	0	0	archaic
+1470	verprellen	verprellt	2.06		0	kaikki	0	0	0	formal
+1471	bekriegen	bekriegt	2.05	reflexive_only;homographs:2	0	kaikki	0	0	0	violence
+1472	bleichen	bleicht	2.05		0	kaikki	1	0	1	
+1473	entern	entert	2.05		0	kaikki	1	1	0	ship_obj_only
+1474	erlahmen	erlahmt	2.05		0	kaikki	0	0	0	formal
+1475	erstreben	erstrebt	2.05		0	kaikki	0	0	0	formal
+1476	schillern	schillert	2.05		0	kaikki	1	0	0	
+1477	schnippen	schnippt	2.05		0	kaikki	1	0	1	
+1478	trudeln	trudelt	2.05		0	kaikki	1	0	0	
+1479	brabbeln	brabbelt	2.04	colloquial	0	kaikki	1	0	0	
+1480	dressieren	dressiert	2.04		0	kaikki	1	0	0	animate_obj_only
+1481	eifern	eifert	2.04	partly_restricted:1/2	0	kaikki	0	0	0	archaic
+1482	entwirren	entwirrt	2.04		0	kaikki	1	0	1	
+1483	exponieren	exponiert	2.04		0	kaikki	0	0	0	formal
+1484	intonieren	intoniert	2.04		0	kaikki	0	0	0	jargon
+1485	erhaschen	erhascht	2.03		0	kaikki	0	0	0	archaic
+1486	mausern	mausert	2.03	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1487	modeln	modelt	2.03		0	kaikki	0	0	0	colloquial
+1488	oxidieren	oxidiert	2.03	freq_shared:adj	0	kaikki	0	0	0	jargon
+1489	rahmen	rahmt	2.03	homographs:2	0	kaikki	1	0	1	
+1490	satteln	sattelt	2.03		0	kaikki	1	0	0	animate_obj_only
+1491	vereidigen	vereidigt	2.03		0	kaikki	0	0	0	bureaucratic
+1492	vereisen	vereist	2.03		0	kaikki	0	0	0	obscure
+1493	verwirken	verwirkt	2.03		0	kaikki	0	0	0	formal
+1494	winseln	winselt	2.03		0	kaikki	1	0	0	
+1495	entehren	entehrt	2.02		0	kaikki	0	0	0	negative
+1496	entthronen	entthront	2.02		0	kaikki	0	0	0	formal
+1497	hoppeln	hoppelt	2.02		0	kaikki	1	1	0	
+1498	kullern	kullert	2.02		0	kaikki	1	1	0	
+1499	logieren	logiert	2.02		0	kaikki	0	0	0	archaic
+1500	murren	murrt	2.02		0	kaikki	0	0	0	archaic
+1501	schinden	schindet	2.02	partly_restricted:2/5	0	kaikki	0	0	0	negative
+1502	verfeuern	verfeuert	2.02		0	kaikki	0	0	0	obscure
+1503	verkohlen	verkohlt	2.02	freq_shared:adj	0	kaikki	0	0	0	ambiguous
+1504	daten	datet	2.01	colloquial	0	kaikki	0	0	0	colloquial
+1505	fixen	fixt	2.01	colloquial	0	kaikki	0	0	0	drugs
+1506	getrauen	getraut	2.01	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1507	glimmen	glimmt	2.01		0	kaikki	0	0	0	archaic
+1508	klirren	klirrt	2.01		0	kaikki	1	0	0	
+1509	scharren	scharrt	2.01		0	kaikki	1	0	0	
+1510	schlurfen	schlurft	2.01		0	kaikki	1	0	0	
+1511	verleiden	verleidet	2.01		0	kaikki	0	0	0	formal
+1512	wellen	wellt	2.01	partly_restricted:1/2	0	kaikki	0	0	0	obscure
+1513	behelfen	behilft	2.0	reflexive_only	0	kaikki	0	0	0	reflexive_only
+1514	changieren	changiert	2.0		0	kaikki	0	0	0	jargon
+1515	erblassen	erblasst	2.0		0	kaikki	0	0	0	archaic
+1516	haten	hatet	2.0		0	kaikki	0	0	0	loanword
+1517	koksen	kokst	2.0	colloquial	0	kaikki	0	0	0	drugs
+1518	kolorieren	koloriert	2.0		0	kaikki	0	0	0	jargon
+1519	schippern	schippert	2.0		0	kaikki	1	0	0	
+1520	taxieren	taxiert	2.0		0	kaikki	0	0	0	formal

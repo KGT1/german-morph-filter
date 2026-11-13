@@ -1,0 +1,1612 @@
+rank	lemma	nom_m	nom_f	nom_n	acc_m	zipf	flags	kid_basic	source	keep	kid	adverb_ok	forms_ok	note
+1	weit	weiter	weite	weites	weiten	5.4		0	kaikki	1	1	1	1	
+2	neu	neuer	neue	neues	neuen	5.36		1	kaikki	1	1	1	1	
+3	gut	guter	gute	gutes	guten	5.34	freq_shared:intj,noun	1	kaikki	1	1	1	1	
+4	erste	erster	erste	erstes	ersten	5.23	no_predicative_form;freq_shared:noun	0	kaikki	0	0	0	0	ordinal_lemma_e
+5	alt	alter	alte	altes	alten	5.16	freq_shared:noun	1	kaikki	1	1	0	1	
+6	deutsch	deutscher	deutsche	deutsches	deutschen	5.1	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+7	klein	kleiner	kleine	kleines	kleinen	4.94	freq_shared:name	1	kaikki	1	1	1	1	
+8	schnell	schneller	schnelle	schnelles	schnellen	4.9		1	kaikki	1	1	1	1	
+9	wichtig	wichtiger	wichtige	wichtiges	wichtigen	4.88		1	kaikki	1	1	0	1	
+10	voll	voller	volle	volles	vollen	4.86		1	kaikki	1	1	0	1	
+11	leid	leider	leide	leides	leiden	4.83	freq_shared:noun	0	kaikki	0	0	0	0	wrong_form predicative_only_leid
+12	besondere	besonderer	besondere	besonderes	besonderen	4.75		0	kaikki	0	0	0	0	lemma_e_not_base
+13	leicht	leichter	leichte	leichtes	leichten	4.73		1	kaikki	1	1	1	1	
+14	schlecht	schlechter	schlechte	schlechtes	schlechten	4.73		0	kaikki	1	0	1	1	
+15	schlimm	schlimmer	schlimme	schlimmes	schlimmen	4.73		0	kaikki	1	0	0	1	
+16	hoch	hoher	hohe	hohes	hohen	4.7	freq_shared:noun	0	kaikki	1	1	1	1	
+17	einfach	einfacher	einfache	einfaches	einfachen	4.65		0	kaikki	1	1	1	1	
+18	lang	langer	lange	langes	langen	4.64	freq_shared:name,postp	0	kaikki	1	1	0	1	
+19	toll	toller	tolle	tolles	tollen	4.61	partly_restricted:1/2	1	kaikki	1	1	1	1	
+20	schwer	schwerer	schwere	schweres	schweren	4.57		1	kaikki	1	1	1	1	
+21	jung	junger	junge	junges	jungen	4.55	freq_shared:intj,name,noun	0	kaikki	1	1	0	1	
+22	echt	echter	echte	echtes	echten	4.54	freq_shared:intj	0	kaikki	1	1	0	1	
+23	politisch	politischer	politische	politisches	politischen	4.53		0	kaikki	0	0	0	1	sensitive politics
+24	dritte	dritter	dritte	drittes	dritten	4.52	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+25	genau	genauer	genaue	genaues	genauen	4.51		0	kaikki	1	1	1	1	
+26	frei	freier	freie	freies	freien	4.5		0	kaikki	1	1	1	1	
+27	laut	lauter	laute	lautes	lauten	4.49	freq_shared:noun,prep	1	kaikki	1	1	1	1	
+28	stark	starker	starke	starkes	starken	4.48	partly_restricted:2/7	1	kaikki	1	1	1	1	
+29	lieb	lieber	liebe	liebes	lieben	4.47		1	kaikki	1	1	1	1	
+30	richtig	richtiger	richtige	richtiges	richtigen	4.45		1	kaikki	1	1	1	1	
+31	gleich	gleicher	gleiche	gleiches	gleichen	4.4		0	kaikki	1	0	0	1	
+32	tief	tiefer	tiefe	tiefes	tiefen	4.4	partly_restricted:1/4;freq_shared:noun	1	kaikki	1	1	1	1	
+33	gering	geringer	geringe	geringes	geringen	4.39	freq_shared:name	0	kaikki	1	0	0	1	
+34	dicht	dichter	dichte	dichtes	dichten	4.38		0	kaikki	1	0	0	1	
+35	reich	reicher	reiche	reiches	reichen	4.37	freq_shared:name,noun	0	kaikki	1	0	0	1	
+36	rein	reiner	reine	reines	reinen	4.37		0	kaikki	1	0	0	1	
+37	halb	halber	halbe	halbes	halben	4.36		1	kaikki	1	1	0	1	
+38	normal	normaler	normale	normales	normalen	4.36	freq_shared:intj,noun	0	kaikki	1	1	1	1	
+39	sicher	sicherer	sichere	sicheres	sicheren	4.35		0	kaikki	1	1	1	1	
+40	klar	klarer	klare	klares	klaren	4.32	freq_shared:intj	0	kaikki	1	1	1	1	
+41	offen	offener	offene	offenes	offenen	4.32		0	kaikki	1	1	1	1	
+42	nett	netter	nette	nettes	netten	4.29		1	kaikki	1	1	1	1	
+43	teuer	teurer	teure	teures	teuren	4.29		0	kaikki	1	1	0	1	
+44	einig	einiger	einige	einiges	einigen	4.28	partly_restricted:1/3;freq_shared:pron	0	kaikki	0	0	0	0	function_word
+45	bekannt	bekannter	bekannte	bekanntes	bekannten	4.27		0	kaikki	1	0	0	1	
+46	fern	ferner	ferne	fernes	fernen	4.27	freq_shared:prep	0	kaikki	1	0	0	1	
+47	schwierig	schwieriger	schwierige	schwieriges	schwierigen	4.27		0	kaikki	1	0	0	1	
+48	aktuell	aktueller	aktuelle	aktuelles	aktuellen	4.26		0	kaikki	1	0	0	1	
+49	positiv	positiver	positive	positives	positiven	4.26	freq_shared:noun	0	kaikki	1	0	1	1	
+50	fest	fester	feste	festes	festen	4.25	derogatory:1/5;partly_restricted:1/5;freq_shared:noun	0	kaikki	1	1	1	1	
+51	bestimmt	bestimmter	bestimmte	bestimmtes	bestimmten	4.24		1	kaikki	0	0	0	1	ambiguous
+52	rot	roter	rote	rotes	roten	4.24	offensive:2/5;freq_shared:noun	1	kaikki	1	1	0	1	
+53	breit	breiter	breite	breites	breiten	4.23	freq_shared:name	0	kaikki	1	1	0	1	
+54	falsch	falscher	falsche	falsches	falschen	4.23		0	kaikki	1	1	1	1	
+55	modern	moderner	moderne	modernes	modernen	4.23		0	kaikki	1	0	1	1	
+56	selten	seltener	seltene	seltenes	seltenen	4.23		0	kaikki	1	0	1	1	
+57	gemeinsam	gemeinsamer	gemeinsame	gemeinsames	gemeinsamen	4.22		0	kaikki	1	1	1	1	
+58	absolut	absoluter	absolute	absolutes	absoluten	4.2		0	kaikki	1	0	0	1	
+59	technisch	technischer	technische	technisches	technischen	4.2		0	kaikki	1	0	0	1	
+60	allgemein	allgemeiner	allgemeine	allgemeines	allgemeinen	4.19		0	kaikki	1	0	0	1	
+61	wahr	wahrer	wahre	wahres	wahren	4.19		1	kaikki	1	1	0	1	
+62	recht	rechter	rechte	rechtes	rechten	4.18	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous politics
+63	eng	enger	enge	enges	engen	4.17		0	kaikki	1	1	0	1	
+64	privat	privater	private	privates	privaten	4.17		0	kaikki	1	0	0	1	
+65	billig	billiger	billige	billiges	billigen	4.16		0	kaikki	1	0	0	1	
+66	niedrig	niedriger	niedrige	niedriges	niedrigen	4.15		0	kaikki	1	1	1	1	
+67	deutlich	deutlicher	deutliche	deutliches	deutlichen	4.14		0	kaikki	1	0	1	1	
+68	dick	dicker	dicke	dickes	dicken	4.14		1	kaikki	1	1	0	1	
+69	frisch	frischer	frische	frisches	frischen	4.13		0	kaikki	1	1	0	1	
+70	hart	harter	harte	hartes	harten	4.13		0	kaikki	1	1	1	1	
+71	hell	heller	helle	helles	hellen	4.13		1	kaikki	1	1	1	1	
+72	langsam	langsamer	langsame	langsames	langsamen	4.12		0	kaikki	1	1	1	1	
+73	link	linker	linke	linkes	linken	4.12	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous politics
+74	arm	armer	arme	armes	armen	4.1	freq_shared:noun	0	kaikki	1	0	0	1	
+75	dumm	dummer	dumme	dummes	dummen	4.1		1	kaikki	1	0	0	1	
+76	geil	geiler	geile	geiles	geilen	4.1	vulgar:4/6;partly_restricted:2/6	0	kaikki	0	0	0	1	offensive
+77	gewiss	gewisser	gewisse	gewisses	gewissen	4.1		0	kaikki	0	0	0	1	archaic
+78	russisch	russischer	russische	russisches	russischen	4.08	relational;freq_shared:name,noun	0	kaikki	0	0	0	1	nationality
+79	aktiv	aktiver	aktive	aktives	aktiven	4.06	freq_shared:noun	0	kaikki	1	0	1	1	
+80	fein	feiner	feine	feines	feinen	4.05	partly_restricted:1/4	0	kaikki	1	1	1	1	
+81	national	nationaler	nationale	nationales	nationalen	4.05		0	kaikki	0	0	0	1	sensitive politics
+82	ruhig	ruhiger	ruhige	ruhiges	ruhigen	4.05		1	kaikki	1	1	1	1	
+83	direkt	direkter	direkte	direktes	direkten	4.04		0	kaikki	1	0	1	1	
+84	riesig	riesiger	riesige	riesiges	riesigen	4.04		0	kaikki	1	1	0	1	
+85	beliebt	beliebter	beliebte	beliebtes	beliebten	4.02		0	kaikki	1	0	0	1	
+86	dunkel	dunkler	dunkle	dunkles	dunklen	4.02	nom_m_variants:dunkler|dunkeler;nom_f_variants:dunkle|dunkele;nom_n_variants:dunkles|dunkeles;acc_m_variants:dunklen|dunkelen;freq_shared:noun	1	kaikki	1	1	0	1	
+87	gesund	gesunder	gesunde	gesundes	gesunden	4.02		0	kaikki	1	1	1	1	
+88	fremd	fremder	fremde	fremdes	fremden	4.01		0	kaikki	1	0	0	1	
+89	spannend	spannender	spannende	spannendes	spannenden	4.01		0	kaikki	1	1	1	1	
+90	perfekt	perfekter	perfekte	perfektes	perfekten	4.0	freq_shared:noun	0	kaikki	1	1	1	1	
+91	intensiv	intensiver	intensive	intensives	intensiven	3.98	freq_shared:noun	0	kaikki	1	0	1	1	
+92	unbekannt	unbekannter	unbekannte	unbekanntes	unbekannten	3.98		0	kaikki	1	0	0	1	
+93	wild	wilder	wilde	wildes	wilden	3.98	partly_restricted:1/4;freq_shared:name,noun	0	kaikki	1	1	1	1	
+94	blau	blauer	blaue	blaues	blauen	3.97	freq_shared:noun	1	kaikki	1	1	0	1	
+95	lustig	lustiger	lustige	lustiges	lustigen	3.97		1	kaikki	1	1	1	1	
+96	ernst	ernster	ernste	ernstes	ernsten	3.96	freq_shared:name,noun	0	kaikki	1	0	1	1	
+97	kostenlos	kostenloser	kostenlose	kostenloses	kostenlosen	3.96		0	kaikki	1	0	0	1	
+98	englisch	englischer	englische	englisches	englischen	3.95	freq_shared:name,noun	0	kaikki	0	0	0	1	nationality
+99	komplex	komplexer	komplexe	komplexes	komplexen	3.95	freq_shared:noun	0	kaikki	1	0	0	1	
+100	licht	lichter	lichte	lichtes	lichten	3.95	freq_shared:noun	0	kaikki	0	0	0	1	archaic literary
+101	staatlich	staatlicher	staatliche	staatliches	staatlichen	3.94	relational	0	kaikki	0	0	0	1	sensitive politics
+102	angenehm	angenehmer	angenehme	angenehmes	angenehmen	3.93		0	kaikki	1	0	1	1	
+103	cool	cooler	coole	cooles	coolen	3.93	colloquial	0	kaikki	1	1	1	1	
+104	heilig	heiliger	heilige	heiliges	heiligen	3.93		0	kaikki	0	0	0	1	sensitive religion
+105	klassisch	klassischer	klassische	klassisches	klassischen	3.93		0	kaikki	1	0	0	1	
+106	vierte	vierter	vierte	viertes	vierten	3.92	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+107	attraktiv	attraktiver	attraktive	attraktives	attraktiven	3.91		0	kaikki	1	0	0	1	
+108	leise	leiser	leise	leises	leisen	3.89		1	kaikki	1	1	1	1	
+109	eigen	eigener	eigene	eigenes	eigenen	3.88	nom_m_variants:eigener|eigner;nom_f_variants:eigene|eigne;nom_n_variants:eigenes|eignes;acc_m_variants:eigenen|eignen;freq_shared:name,noun	0	kaikki	1	0	0	1	
+110	komplett	kompletter	komplette	komplettes	kompletten	3.88		0	kaikki	1	0	0	1	
+111	passend	passender	passende	passendes	passenden	3.88		0	kaikki	1	0	0	1	
+112	warm	warmer	warme	warmes	warmen	3.88	partly_restricted:1/4	1	kaikki	1	1	0	1	
+113	wunderbar	wunderbarer	wunderbare	wunderbares	wunderbaren	3.88		0	kaikki	1	1	1	1	
+114	konkret	konkreter	konkrete	konkretes	konkreten	3.87		0	kaikki	1	0	0	1	
+115	kritisch	kritischer	kritische	kritisches	kritischen	3.87		0	kaikki	1	0	1	1	
+116	heftig	heftiger	heftige	heftiges	heftigen	3.86		0	kaikki	1	0	1	1	
+117	digital	digitaler	digitale	digitales	digitalen	3.85		0	kaikki	1	0	1	1	
+118	komisch	komischer	komische	komisches	komischen	3.85		0	kaikki	1	1	1	1	
+119	lokal	lokaler	lokale	lokales	lokalen	3.85	freq_shared:noun	0	kaikki	1	0	0	1	
+120	tot	toter	tote	totes	toten	3.85		0	kaikki	0	0	0	1	sensitive death
+121	wertvoll	wertvoller	wertvolle	wertvolles	wertvollen	3.85		0	kaikki	1	1	0	1	
+122	bunt	bunter	bunte	buntes	bunten	3.84	partly_restricted:1/3	1	kaikki	1	1	1	1	
+123	kalt	kalter	kalte	kaltes	kalten	3.84		1	kaikki	1	1	0	1	
+124	praktisch	praktischer	praktische	praktisches	praktischen	3.83		0	kaikki	1	0	0	1	
+125	sinnvoll	sinnvoller	sinnvolle	sinnvolles	sinnvollen	3.83		0	kaikki	1	0	1	1	
+126	vegan	veganer	vegane	veganes	veganen	3.83		0	kaikki	1	0	1	1	
+127	negativ	negativer	negative	negatives	negativen	3.82	freq_shared:noun	0	kaikki	1	0	0	1	
+128	geheim	geheimer	geheime	geheimes	geheimen	3.81	partly_restricted:3/4	0	kaikki	1	1	0	1	
+129	sexuell	sexueller	sexuelle	sexuelles	sexuellen	3.81		0	kaikki	0	0	0	1	offensive sexual
+130	fett	fetter	fette	fettes	fetten	3.79	partly_restricted:1/5;freq_shared:noun	0	kaikki	0	0	0	1	offensive body
+131	erwachsen	erwachsener	erwachsene	erwachsenes	erwachsenen	3.78		0	kaikki	1	0	0	1	
+132	geeignet	geeigneter	geeignete	geeignetes	geeigneten	3.78		0	kaikki	1	0	0	1	
+133	massiv	massiver	massive	massives	massiven	3.78	freq_shared:noun	0	kaikki	1	0	0	1	
+134	schwach	schwacher	schwache	schwaches	schwachen	3.78		0	kaikki	1	0	0	1	
+135	bedeutend	bedeutender	bedeutende	bedeutendes	bedeutenden	3.77		0	kaikki	1	0	0	1	
+136	traurig	trauriger	traurige	trauriges	traurigen	3.76		1	kaikki	1	0	1	1	
+137	bestehend	bestehender	bestehende	bestehendes	bestehenden	3.75		0	kaikki	0	0	0	1	ugly_in_sentence
+138	geistig	geistiger	geistige	geistiges	geistigen	3.75		0	kaikki	1	0	0	1	
+139	schlau	schlauer	schlaue	schlaues	schlauen	3.74		0	kaikki	1	1	1	1	
+140	braun	brauner	braune	braunes	braunen	3.73	Nazism:1/4;derogatory:1/4;freq_shared:name,noun	1	kaikki	1	1	0	1	
+141	effektiv	effektiver	effektive	effektives	effektiven	3.73		0	kaikki	1	0	1	1	
+142	entspannt	entspannter	entspannte	entspanntes	entspannten	3.73		0	kaikki	1	0	1	1	
+143	regional	regionaler	regionale	regionales	regionalen	3.73		0	kaikki	1	0	0	1	
+144	still	stiller	stille	stilles	stillen	3.73		1	kaikki	1	1	1	1	
+145	weiblich	weiblicher	weibliche	weibliches	weiblichen	3.73	homographs:2	0	kaikki+olddict	1	0	0	1	
+146	golden	goldener	goldene	goldenes	goldenen	3.72		0	kaikki	1	1	0	1	
+147	doppelt	doppelter	doppelte	doppeltes	doppelten	3.71		0	kaikki	1	1	1	1	
+148	leck	lecker	lecke	leckes	lecken	3.71	freq_shared:noun	0	kaikki	0	0	0	0	wrong_form nom_m_collides_with_lecker; nautical
+149	umfassend	umfassender	umfassende	umfassendes	umfassenden	3.71		0	kaikki	1	0	0	1	
+150	erheblich	erheblicher	erhebliche	erhebliches	erheblichen	3.7		0	kaikki	1	0	0	1	
+151	folgend	folgender	folgende	folgendes	folgenden	3.7		0	kaikki	0	0	0	1	function_word
+152	krank	kranker	kranke	krankes	kranken	3.7		0	kaikki	1	0	0	1	
+153	lecker	leckerer	leckere	leckeres	leckeren	3.7	partly_restricted:1/2;nom_m_variants:leckerer|leckrer;nom_f_variants:leckere|leckre;nom_n_variants:leckeres|leckres;acc_m_variants:leckeren|leckren;freq_shared:noun	0	kaikki	1	1	0	1	
+154	lose	loser	lose	loses	losen	3.7	freq_shared:noun	0	kaikki	1	0	0	1	
+155	nah	naher	nahe	nahes	nahen	3.7		1	kaikki	1	1	0	1	
+156	sauber	sauberer	saubere	sauberes	sauberen	3.7	partly_restricted:1/4;freq_shared:name	1	kaikki	1	1	1	1	
+157	wirklich	wirklicher	wirkliche	wirkliches	wirklichen	3.7		1	kaikki	1	0	0	1	
+158	japanisch	japanischer	japanische	japanisches	japanischen	3.69	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+159	krass	krasser	krasse	krasses	krassen	3.69		0	kaikki	1	0	0	1	
+160	stabil	stabiler	stabile	stabiles	stabilen	3.69		0	kaikki	1	0	1	1	
+161	total	totaler	totale	totales	totalen	3.68		0	kaikki	1	0	0	1	
+162	ehrlich	ehrlicher	ehrliche	ehrliches	ehrlichen	3.67	partly_restricted:1/2;freq_shared:name	1	kaikki	1	1	1	1	
+163	gelb	gelber	gelbe	gelbes	gelben	3.67	partly_restricted:1/3;freq_shared:noun	1	kaikki	1	1	0	1	
+164	illegal	illegaler	illegale	illegales	illegalen	3.67		0	kaikki	0	0	0	1	sensitive crime
+165	mittlerer	mittlerer	mittlere	mittleres	mittleren	3.67	no_predicative_form	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+166	raum	raumer	raume	raumes	raumen	3.67	freq_shared:noun	0	kaikki	0	0	0	0	not_an_adjective (noun Raum)
+167	seltsam	seltsamer	seltsame	seltsames	seltsamen	3.67	partly_restricted:1/2	0	kaikki	1	0	1	1	
+168	fair	fairer	faire	faires	fairen	3.66		0	kaikki	1	1	1	1	
+169	kulturell	kultureller	kulturelle	kulturelles	kulturellen	3.66		0	kaikki	1	0	0	1	
+170	leer	leerer	leere	leeres	leeren	3.66	freq_shared:name	1	kaikki	1	1	0	1	
+171	scharf	scharfer	scharfe	scharfes	scharfen	3.66	freq_shared:name	0	kaikki	1	0	1	1	
+172	gesamt	gesamter	gesamte	gesamtes	gesamten	3.65		0	kaikki	0	0	0	1	attributive_only abstract
+173	grau	grauer	graue	graues	grauen	3.65	freq_shared:noun	0	kaikki	1	1	0	1	
+174	herrlich	herrlicher	herrliche	herrliches	herrlichen	3.65		0	kaikki	1	1	1	1	
+175	mobil	mobiler	mobile	mobiles	mobilen	3.65	freq_shared:noun	0	kaikki	1	0	0	1	
+176	sportlich	sportlicher	sportliche	sportliches	sportlichen	3.65		0	kaikki	1	1	1	1	
+177	edel	edler	edle	edles	edlen	3.64	partly_restricted:1/5	0	kaikki	1	0	0	1	
+178	knapp	knapper	knappe	knappes	knappen	3.64		0	kaikki	1	0	0	1	
+179	kreativ	kreativer	kreative	kreatives	kreativen	3.64		0	kaikki	1	1	1	1	
+180	schmal	schmaler	schmale	schmales	schmalen	3.64		0	kaikki	1	1	0	1	
+181	trocken	trockener	trockene	trockenes	trockenen	3.64		0	kaikki	1	1	0	1	
+182	vergangen	vergangener	vergangene	vergangenes	vergangenen	3.64		0	kaikki	1	0	0	1	
+183	bequem	bequemer	bequeme	bequemes	bequemen	3.63	partly_restricted:1/3	0	kaikki	1	1	1	1	
+184	froh	froher	frohe	frohes	frohen	3.63		1	kaikki	1	1	1	1	
+185	rechtlich	rechtlicher	rechtliche	rechtliches	rechtlichen	3.63		0	kaikki	0	0	0	1	jargon
+186	rund	runder	runde	rundes	runden	3.63	freq_shared:noun	0	kaikki	1	1	0	1	
+187	weich	weicher	weiche	weiches	weichen	3.63		0	kaikki	1	1	1	1	
+188	pur	purer	pure	pures	puren	3.62	partly_restricted:1/3	0	kaikki	1	0	0	1	
+189	streng	strenger	strenge	strenges	strengen	3.62		0	kaikki	1	0	1	1	
+190	gelungen	gelungener	gelungene	gelungenes	gelungenen	3.61		0	kaikki	1	0	0	1	
+191	westlich	westlicher	westliche	westliches	westlichen	3.61		0	kaikki	1	0	0	1	
+192	global	globaler	globale	globales	globalen	3.6		0	kaikki	1	0	0	1	
+193	locker	lockerer	lockere	lockeres	lockeren	3.6		0	kaikki	1	0	1	1	
+194	ewig	ewiger	ewige	ewiges	ewigen	3.59		0	kaikki	1	0	0	1	
+195	lebendig	lebendiger	lebendige	lebendiges	lebendigen	3.59		1	kaikki	1	1	0	1	
+196	matt	matter	matte	mattes	matten	3.59	freq_shared:noun	0	kaikki	1	0	0	1	
+197	spanisch	spanischer	spanische	spanisches	spanischen	3.58	freq_shared:name,noun	0	kaikki	0	0	0	1	nationality
+198	emotional	emotionaler	emotionale	emotionales	emotionalen	3.57		0	kaikki	1	0	1	1	
+199	extrem	extremer	extreme	extremes	extremen	3.57	freq_shared:noun	0	kaikki	1	0	0	1	
+200	friedlich	friedlicher	friedliche	friedliches	friedlichen	3.57		0	kaikki	1	1	1	1	
+201	scheu	scheuer	scheue	scheues	scheuen	3.57	freq_shared:noun	0	kaikki	1	1	1	1	
+202	aggressiv	aggressiver	aggressive	aggressives	aggressiven	3.56		0	kaikki	0	0	0	1	negative violence
+203	erneut	erneuter	erneute	erneutes	erneuten	3.56		0	kaikki	0	0	0	1	ugly_in_sentence
+204	gewaltig	gewaltiger	gewaltige	gewaltiges	gewaltigen	3.56		0	kaikki	1	0	0	1	
+205	mies	mieser	miese	mieses	miesen	3.56	freq_shared:name	0	kaikki	1	0	0	1	
+206	schwul	schwuler	schwule	schwules	schwulen	3.56	derogatory:1/2;colloquial	0	kaikki	0	0	0	1	sensitive
+207	klug	kluger	kluge	kluges	klugen	3.55		0	kaikki	1	1	1	1	
+208	lebend	lebender	lebende	lebendes	lebenden	3.55		0	kaikki	0	0	0	1	ugly_in_sentence
+209	vielfach	vielfacher	vielfache	vielfaches	vielfachen	3.55		0	kaikki	0	0	0	1	ugly_in_sentence
+210	weise	weiser	weise	weises	weisen	3.55	freq_shared:noun	0	kaikki	1	0	1	1	
+211	plan	planer	plane	planes	planen	3.54	partly_restricted:1/2;freq_shared:noun	0	kaikki	0	0	0	1	jargon
+212	beruflich	beruflicher	berufliche	berufliches	beruflichen	3.53		0	kaikki+olddict	1	0	0	1	
+213	geplant	geplanter	geplante	geplantes	geplanten	3.53		0	kaikki	1	0	0	1	
+214	grob	grober	grobe	grobes	groben	3.53		0	kaikki	1	0	0	1	
+215	real	realer	reale	reales	realen	3.53	freq_shared:noun	0	kaikki	1	0	0	1	
+216	treu	treuer	treue	treues	treuen	3.53	freq_shared:noun	0	kaikki	1	1	0	1	
+217	verdammt	verdammter	verdammte	verdammtes	verdammten	3.53	freq_shared:intj	0	kaikki	0	0	0	1	offensive
+218	achte	achter	achte	achtes	achten	3.52	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+219	blind	blinder	blinde	blindes	blinden	3.52		0	kaikki	0	0	0	1	sensitive disability
+220	geliebt	geliebter	geliebte	geliebtes	geliebten	3.52		0	kaikki	1	0	0	1	
+221	rege	reger	rege	reges	regen	3.52		0	kaikki	1	0	0	1	
+222	schick	schicker	schicke	schickes	schicken	3.52	freq_shared:noun	0	kaikki	1	0	0	1	
+223	vorhanden	vorhandener	vorhandene	vorhandenes	vorhandenen	3.52	nom_m_variants:vorhandener|vorhandner;nom_f_variants:vorhandene|vorhandne;nom_n_variants:vorhandenes|vorhandnes;acc_m_variants:vorhandenen|vorhandnen	0	kaikki	0	0	0	1	ugly_in_sentence
+224	flach	flacher	flache	flaches	flachen	3.51		0	kaikki	1	1	0	1	
+225	gerecht	gerechter	gerechte	gerechtes	gerechten	3.51		0	kaikki	1	0	1	1	
+226	mehrfach	mehrfacher	mehrfache	mehrfaches	mehrfachen	3.51		0	kaikki	0	0	0	1	ugly_in_sentence
+227	polnisch	polnischer	polnische	polnisches	polnischen	3.51	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+228	verwandt	verwandter	verwandte	verwandtes	verwandten	3.51		0	kaikki	0	0	0	1	ugly_in_sentence
+229	feucht	feuchter	feuchte	feuchtes	feuchten	3.5	vulgar:1/2;freq_shared:name	0	kaikki	0	0	0	1	offensive sexual connotation
+230	flexibel	flexibler	flexible	flexibles	flexiblen	3.5		0	kaikki	1	0	1	1	
+231	inner	innerer	innere	inneres	inneren	3.5	no_predicative_form;freq_shared:contraction,prep	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+232	mau	mauer	maue	maues	mauen	3.5	colloquial	0	kaikki	0	0	0	1	colloquial regional
+233	mutig	mutiger	mutige	mutiges	mutigen	3.5		1	kaikki	1	1	1	1	
+234	wert	werter	werte	wertes	werten	3.5	freq_shared:noun	0	kaikki	0	0	0	1	predicative_only ambiguous
+235	eindeutig	eindeutiger	eindeutige	eindeutiges	eindeutigen	3.49		0	kaikki	1	0	0	1	
+236	enorm	enormer	enorme	enormes	enormen	3.49		0	kaikki	1	0	0	1	
+237	ideal	idealer	ideale	ideales	idealen	3.49	freq_shared:noun	0	kaikki	1	0	0	1	
+238	liberal	liberaler	liberale	liberales	liberalen	3.49		0	kaikki	0	0	0	1	sensitive politics
+239	nass	nasser	nasse	nasses	nassen	3.49	vulgar:1/2;freq_shared:noun	1	kaikki	1	1	0	1	
+240	dringend	dringender	dringende	dringendes	dringenden	3.48		0	kaikki	1	0	0	1	
+241	einmalig	einmaliger	einmalige	einmaliges	einmaligen	3.48		0	kaikki	1	0	0	1	
+242	kriminell	krimineller	kriminelle	kriminelles	kriminellen	3.48		0	kaikki	0	0	0	1	sensitive crime
+243	moralisch	moralischer	moralische	moralisches	moralischen	3.48		0	kaikki	0	0	0	1	abstract
+244	notwendig	notwendiger	notwendige	notwendiges	notwendigen	3.48		0	kaikki	1	0	0	1	
+245	sanft	sanfter	sanfte	sanftes	sanften	3.48		0	kaikki	1	1	1	1	
+246	solide	solider	solide	solides	soliden	3.48	alt_of:solid	0	kaikki	1	0	1	1	
+247	stehend	stehender	stehende	stehendes	stehenden	3.48		0	kaikki	0	0	0	1	ugly_in_sentence
+248	anerkannt	anerkannter	anerkannte	anerkanntes	anerkannten	3.47		0	kaikki	1	0	0	1	
+249	angeblich	angeblicher	angebliche	angebliches	angeblichen	3.47		0	kaikki	0	0	0	1	ugly_in_sentence
+250	arabisch	arabischer	arabische	arabisches	arabischen	3.47	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+251	bewusst	bewusster	bewusste	bewusstes	bewussten	3.47		0	kaikki	1	0	1	1	
+252	genannt	genannter	genannte	genanntes	genannten	3.47		0	kaikki	0	0	0	1	function_word
+253	genial	genialer	geniale	geniales	genialen	3.47		0	kaikki	1	0	1	1	
+254	intern	interner	interne	internes	internen	3.47		0	kaikki	1	0	0	1	
+255	laufend	laufender	laufende	laufendes	laufenden	3.47		0	kaikki	0	0	0	1	ugly_in_sentence
+256	verdient	verdienter	verdiente	verdientes	verdienten	3.47		0	kaikki	1	0	0	1	
+257	wirksam	wirksamer	wirksame	wirksames	wirksamen	3.47		0	kaikki	1	0	0	1	
+258	absehbar	absehbarer	absehbare	absehbares	absehbaren	3.46		0	kaikki	0	0	0	1	ugly_in_sentence
+259	erfahren	erfahrener	erfahrene	erfahrenes	erfahrenen	3.46		0	kaikki	1	0	0	1	
+260	lau	lauer	laue	laues	lauen	3.46	freq_shared:name	0	kaikki+olddict	1	0	0	1	
+261	sechste	sechster	sechste	sechstes	sechsten	3.46	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+262	radikal	radikaler	radikale	radikales	radikalen	3.45	freq_shared:noun	0	kaikki	0	0	0	1	sensitive politics
+263	schlicht	schlichter	schlichte	schlichtes	schlichten	3.45		0	kaikki	1	0	0	1	
+264	vertraut	vertrauter	vertraute	vertrautes	vertrauten	3.45		0	kaikki	1	0	0	1	
+265	brutal	brutaler	brutale	brutales	brutalen	3.44		0	kaikki	0	0	0	1	sensitive violence
+266	neutral	neutraler	neutrale	neutrales	neutralen	3.44	partly_restricted:1/7	0	kaikki	1	0	0	1	
+267	mild	milder	milde	mildes	milden	3.43		0	kaikki	1	0	0	1	
+268	taub	tauber	taube	taubes	tauben	3.43		0	kaikki	0	0	0	1	sensitive disability
+269	weltweit	weltweiter	weltweite	weltweites	weltweiten	3.43		0	kaikki	1	0	0	1	
+270	akut	akuter	akute	akutes	akuten	3.42	freq_shared:noun	0	kaikki	0	0	0	1	jargon medical
+271	beliebig	beliebiger	beliebige	beliebiges	beliebigen	3.41	derogatory:1/3;partly_restricted:1/3	0	kaikki	1	0	0	1	
+272	ernsthaft	ernsthafter	ernsthafte	ernsthaftes	ernsthaften	3.41		0	kaikki	1	0	0	1	
+273	jahrelang	jahrelanger	jahrelange	jahrelanges	jahrelangen	3.41		1	kaikki	0	0	0	1	ugly_in_sentence
+274	schief	schiefer	schiefe	schiefes	schiefen	3.41		0	kaikki	1	1	1	1	
+275	betrunken	betrunkener	betrunkene	betrunkenes	betrunkenen	3.4		0	kaikki	0	0	0	1	sensitive drugs
+276	chemisch	chemischer	chemische	chemisches	chemischen	3.4		0	kaikki	1	0	0	1	
+277	gelehrt	gelehrter	gelehrte	gelehrtes	gelehrten	3.4		0	kaikki	0	0	0	1	archaic
+278	logisch	logischer	logische	logisches	logischen	3.4		0	kaikki	1	0	1	1	
+279	magisch	magischer	magische	magisches	magischen	3.4		0	kaikki	1	1	0	1	
+280	sichtbar	sichtbarer	sichtbare	sichtbares	sichtbaren	3.4		0	kaikki	1	0	0	1	
+281	derartig	derartiger	derartige	derartiges	derartigen	3.39		0	kaikki	0	0	0	1	function_word
+282	maximal	maximaler	maximale	maximales	maximalen	3.39		0	kaikki	1	0	0	1	
+283	bar	barer	bare	bares	baren	3.38	freq_shared:det,noun,prep	0	kaikki	0	0	0	1	ambiguous
+284	behindert	behinderter	behinderte	behindertes	behinderten	3.38	offensive:2/3	0	kaikki	0	0	0	1	offensive
+285	dreckig	dreckiger	dreckige	dreckiges	dreckigen	3.38		0	kaikki	1	1	0	1	
+286	gemein	gemeiner	gemeine	gemeines	gemeinen	3.38	partly_restricted:3/4	0	kaikki	1	0	0	1	
+287	korrekt	korrekter	korrekte	korrektes	korrekten	3.38		0	kaikki	1	0	1	1	
+288	steigend	steigender	steigende	steigendes	steigenden	3.38		0	kaikki	0	0	0	1	ugly_in_sentence
+289	bewaffnet	bewaffneter	bewaffnete	bewaffnetes	bewaffneten	3.37		0	kaikki	0	0	0	1	sensitive weapons
+290	einsam	einsamer	einsame	einsames	einsamen	3.37		0	kaikki	1	0	0	1	
+291	erstere	ersterer	erstere	ersteres	ersteren	3.37	no_predicative_form	0	kaikki	0	0	0	0	function_word lemma_e
+292	prominent	prominenter	prominente	prominentes	prominenten	3.37		0	kaikki	1	0	0	1	
+293	nackt	nackter	nackte	nacktes	nackten	3.36		0	kaikki	0	0	0	1	embarrassing
+294	relevant	relevanter	relevante	relevantes	relevanten	3.36		0	kaikki	1	0	0	1	
+295	schlank	schlanker	schlanke	schlankes	schlanken	3.36		0	kaikki	1	0	0	1	
+296	tragisch	tragischer	tragische	tragisches	tragischen	3.36		0	kaikki	0	0	0	1	negative
+297	exklusiv	exklusiver	exklusive	exklusives	exklusiven	3.35		0	kaikki	1	0	0	1	
+298	autonom	autonomer	autonome	autonomes	autonomen	3.34		0	kaikki	0	0	0	1	politics jargon
+299	gefangen	gefangener	gefangene	gefangenes	gefangenen	3.34		0	kaikki	0	0	0	1	sensitive crime
+300	peinlich	peinlicher	peinliche	peinliches	peinlichen	3.34	partly_restricted:3/6	0	kaikki	1	0	0	1	
+301	gemischt	gemischter	gemischte	gemischtes	gemischten	3.33		0	kaikki	1	0	0	1	
+302	rasch	rascher	rasche	rasches	raschen	3.33		0	kaikki	1	0	1	1	
+303	spontan	spontaner	spontane	spontanes	spontanen	3.33		0	kaikki	1	0	1	1	
+304	aufregend	aufregender	aufregende	aufregendes	aufregenden	3.32		0	kaikki	1	0	0	1	
+305	betroffen	betroffener	betroffene	betroffenes	betroffenen	3.32		0	kaikki	0	0	0	1	ugly_in_sentence
+306	blond	blonder	blonde	blondes	blonden	3.32	offensive:1/3	0	kaikki	1	1	0	1	
+307	dauerhaft	dauerhafter	dauerhafte	dauerhaftes	dauerhaften	3.32		0	kaikki	1	0	0	1	
+308	faul	fauler	faule	faules	faulen	3.32		0	kaikki	1	0	0	1	
+309	gebraucht	gebrauchter	gebrauchte	gebrauchtes	gebrauchten	3.32		0	kaikki	1	0	0	1	
+310	sensibel	sensibler	sensible	sensibles	sensiblen	3.32		0	kaikki	1	0	0	1	
+311	blutig	blutiger	blutige	blutiges	blutigen	3.31		0	kaikki	0	0	0	1	sensitive violence
+312	engagiert	engagierter	engagierte	engagiertes	engagierten	3.31		0	kaikki	1	0	0	1	
+313	furchtbar	furchtbarer	furchtbare	furchtbares	furchtbaren	3.31		0	kaikki	0	0	0	1	negative
+314	glatt	glatter	glatte	glattes	glatten	3.31	partly_restricted:2/9	0	kaikki	1	1	0	1	
+315	irre	irrer	irre	irres	irren	3.31	freq_shared:noun	0	kaikki	0	0	0	1	offensive mental
+316	produktiv	produktiver	produktive	produktives	produktiven	3.31		0	kaikki	1	0	1	1	
+317	britisch	britischer	britische	britisches	britischen	3.3	relational	0	kaikki	0	0	0	1	nationality
+318	chronisch	chronischer	chronische	chronisches	chronischen	3.3		0	kaikki	0	0	0	1	sensitive disease
+319	elegant	eleganter	elegante	elegantes	eleganten	3.3	freq_shared:noun	0	kaikki	1	0	1	1	
+320	innovativ	innovativer	innovative	innovatives	innovativen	3.3		0	kaikki	1	0	0	1	
+321	abstrakt	abstrakter	abstrakte	abstraktes	abstrakten	3.29		0	kaikki	1	0	1	1	
+322	bitter	bitterer	bittere	bitteres	bitteren	3.29	nom_m_variants:bitterer|bittrer;nom_f_variants:bittere|bittre;nom_n_variants:bitteres|bittres;acc_m_variants:bitteren|bittren;freq_shared:noun	0	kaikki	1	0	0	1	
+323	generell	genereller	generelle	generelles	generellen	3.29		0	kaikki+olddict	0	0	0	1	abstract adverbial
+324	optisch	optischer	optische	optisches	optischen	3.29		0	kaikki	0	0	0	1	jargon
+325	passiv	passiver	passive	passives	passiven	3.29	freq_shared:noun	0	kaikki	1	0	0	1	
+326	verloren	verlorener	verlorene	verlorenes	verlorenen	3.29		0	kaikki	1	0	0	1	
+327	gegeben	gegebener	gegebene	gegebenes	gegebenen	3.28		0	kaikki	0	0	0	1	function_word
+328	geltend	geltender	geltende	geltendes	geltenden	3.28		0	kaikki	0	0	0	1	jargon
+329	kommend	kommender	kommende	kommendes	kommenden	3.28		0	kaikki	0	0	0	1	ugly_in_sentence
+330	sauer	saurer	saure	saures	sauren	3.28	freq_shared:name	0	kaikki	1	1	0	1	
+331	brauchbar	brauchbarer	brauchbare	brauchbares	brauchbaren	3.27		0	kaikki	1	0	0	1	
+332	heil	heiler	heile	heiles	heilen	3.27	freq_shared:name,noun	0	kaikki	0	0	0	1	sensitive Nazi_greeting
+333	reif	reifer	reife	reifes	reifen	3.27	freq_shared:noun	0	kaikki	1	1	0	1	
+334	virtuell	virtueller	virtuelle	virtuelles	virtuellen	3.27		0	kaikki	1	0	0	1	
+335	widerlich	widerlicher	widerliche	widerliches	widerlichen	3.27		0	kaikki	0	0	0	1	negative
+336	aufwendig	aufwendiger	aufwendige	aufwendiges	aufwendigen	3.25		0	kaikki	1	0	0	1	
+337	fertig	fertiger	fertige	fertiges	fertigen	3.25		1	kaikki	1	1	0	1	
+338	geschickt	geschickter	geschickte	geschicktes	geschickten	3.25		0	kaikki	1	0	1	1	
+339	harmlos	harmloser	harmlose	harmloses	harmlosen	3.25		0	kaikki	1	0	0	1	
+340	oberer	oberer	obere	oberes	oberen	3.25	no_predicative_form	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+341	objektiv	objektiver	objektive	objektives	objektiven	3.25	freq_shared:noun	0	kaikki	1	0	0	1	
+342	roh	roher	rohe	rohes	rohen	3.25		0	kaikki	1	0	0	1	
+343	subjektiv	subjektiver	subjektive	subjektives	subjektiven	3.25		0	kaikki	1	0	0	1	
+344	brav	braver	brave	braves	braven	3.24	partly_restricted:3/5	0	kaikki	1	1	1	1	
+345	extern	externer	externe	externes	externen	3.24		0	kaikki	1	0	0	1	
+346	konstant	konstanter	konstante	konstantes	konstanten	3.24		0	kaikki	1	0	0	1	
+347	simpel	simpler	simple	simples	simplen	3.24	freq_shared:noun	0	kaikki	1	0	0	1	
+348	analog	analoger	analoge	analoges	analogen	3.23		0	kaikki	1	0	0	1	
+349	ander	anderer	andere	anderes	anderen	3.23	partly_restricted:1/2	0	kaikki	0	0	0	1	function_word
+350	clever	cleverer	clevere	cleveres	cleveren	3.23		0	kaikki	1	0	1	1	
+351	grausam	grausamer	grausame	grausames	grausamen	3.23		0	kaikki	0	0	0	1	negative violence
+352	kaputt	kaputter	kaputte	kaputtes	kaputten	3.23		0	kaikki	1	1	0	1	
+353	liebevoll	liebevoller	liebevolle	liebevolles	liebevollen	3.23		0	kaikki	1	1	1	1	
+354	optimal	optimaler	optimale	optimales	optimalen	3.23		0	kaikki	1	0	0	1	
+355	sachlich	sachlicher	sachliche	sachliches	sachlichen	3.23		0	kaikki	1	0	0	1	
+356	strahlend	strahlender	strahlende	strahlendes	strahlenden	3.23		0	kaikki	1	0	0	1	
+357	wund	wunder	wunde	wundes	wunden	3.23		0	kaikki	0	0	0	1	injury; nom_m wunder ambiguous
+358	anhaltend	anhaltender	anhaltende	anhaltendes	anhaltenden	3.22		0	kaikki	0	0	0	1	ugly_in_sentence
+359	asiatisch	asiatischer	asiatische	asiatisches	asiatischen	3.22	relational	0	kaikki	0	0	0	1	ethnicity
+360	besagt	besagter	besagte	besagtes	besagten	3.22		0	kaikki	0	0	0	1	function_word
+361	gelernt	gelernter	gelernte	gelerntes	gelernten	3.22		0	kaikki	0	0	0	1	ugly_in_sentence
+362	gerade	gerader	gerade	gerades	geraden	3.22	homographs:2;freq_shared:noun	1	kaikki	1	1	0	1	
+363	geteilt	geteilter	geteilte	geteiltes	geteilten	3.22		0	kaikki	1	0	0	1	
+364	kirchlich	kirchlicher	kirchliche	kirchliches	kirchlichen	3.22		0	kaikki	0	0	0	1	sensitive religion
+365	kompetent	kompetenter	kompetente	kompetentes	kompetenten	3.22		0	kaikki	1	0	0	1	
+366	dreifach	dreifacher	dreifache	dreifaches	dreifachen	3.21		0	kaikki	1	0	0	1	
+367	erhalten	erhaltener	erhaltene	erhaltenes	erhaltenen	3.21	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+368	erotisch	erotischer	erotische	erotisches	erotischen	3.21		0	kaikki	0	0	0	1	offensive sexual
+369	farbig	farbiger	farbige	farbiges	farbigen	3.21	partly_restricted:1/3	0	kaikki	0	0	0	1	sensitive ethnicity
+370	feindlich	feindlicher	feindliche	feindliches	feindlichen	3.21		0	kaikki	0	0	0	1	negative
+371	marin	mariner	marine	marines	marinen	3.21		0	kaikki	0	0	0	1	jargon
+372	organisch	organischer	organische	organisches	organischen	3.21		0	kaikki	1	0	0	1	
+373	preiswert	preiswerter	preiswerte	preiswertes	preiswerten	3.21		0	kaikki	1	0	0	1	
+374	ungarisch	ungarischer	ungarische	ungarisches	ungarischen	3.21	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+375	gebildet	gebildeter	gebildete	gebildetes	gebildeten	3.2		0	kaikki	1	0	0	1	
+376	gebrochen	gebrochener	gebrochene	gebrochenes	gebrochenen	3.2		0	kaikki	0	0	0	1	negative
+377	islamisch	islamischer	islamische	islamisches	islamischen	3.2	relational	0	kaikki	0	0	0	1	sensitive religion
+378	sonnig	sonniger	sonnige	sonniges	sonnigen	3.2		0	kaikki	1	1	0	1	
+379	taktisch	taktischer	taktische	taktisches	taktischen	3.2		0	kaikki	0	0	0	1	jargon
+380	tierisch	tierischer	tierische	tierisches	tierischen	3.2		0	kaikki	1	0	0	1	
+381	unterer	unterer	untere	unteres	unteren	3.2	no_predicative_form	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+382	amtlich	amtlicher	amtliche	amtliches	amtlichen	3.18		0	kaikki	0	0	0	1	jargon
+383	grandios	grandioser	grandiose	grandioses	grandiosen	3.18		0	kaikki	1	0	0	1	
+384	kollektiv	kollektiver	kollektive	kollektives	kollektiven	3.18	freq_shared:noun	0	kaikki	1	0	0	1	
+385	liegend	liegender	liegende	liegendes	liegenden	3.18		0	kaikki	0	0	0	1	ugly_in_sentence
+386	siebte	siebter	siebte	siebtes	siebten	3.18	no_predicative_form	1	kaikki	0	0	0	0	ordinal_lemma_e
+387	umgekehrt	umgekehrter	umgekehrte	umgekehrtes	umgekehrten	3.18		0	kaikki	1	0	0	1	
+388	verboten	verbotener	verbotene	verbotenes	verbotenen	3.18	freq_shared:noun	0	kaikki	1	0	0	1	
+389	dual	dualer	duale	duales	dualen	3.17	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+390	ethisch	ethischer	ethische	ethisches	ethischen	3.17		0	kaikki	1	0	0	1	
+391	fies	fieser	fiese	fieses	fiesen	3.17	partly_restricted:1/4	0	kaikki	1	0	0	1	
+392	sinnlos	sinnloser	sinnlose	sinnloses	sinnlosen	3.17		0	kaikki	1	0	0	1	
+393	unsicher	unsicherer	unsichere	unsicheres	unsicheren	3.17		0	kaikki	1	0	0	1	
+394	brennend	brennender	brennende	brennendes	brennenden	3.16		0	kaikki	0	0	0	1	ugly_in_sentence
+395	defekt	defekter	defekte	defektes	defekten	3.16	freq_shared:noun	0	kaikki	1	0	0	1	
+396	gelegen	gelegener	gelegene	gelegenes	gelegenen	3.16	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+397	kompakt	kompakter	kompakte	kompaktes	kompakten	3.16		0	kaikki	1	0	0	1	
+398	permanent	permanenter	permanente	permanentes	permanenten	3.16		0	kaikki	1	0	0	1	
+399	steil	steiler	steile	steiles	steilen	3.16		0	kaikki	1	1	0	1	
+400	gewohnt	gewohnter	gewohnte	gewohntes	gewohnten	3.15		0	kaikki	1	0	0	1	
+401	materiell	materieller	materielle	materielles	materiellen	3.15		0	kaikki	1	0	0	1	
+402	pervers	perverser	perverse	perverses	perversen	3.15		0	kaikki	0	0	0	1	offensive
+403	neunte	neunter	neunte	neuntes	neunten	3.14	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+404	angelegt	angelegter	angelegte	angelegtes	angelegten	3.13		0	kaikki	0	0	0	1	ugly_in_sentence
+405	flott	flotter	flotte	flottes	flotten	3.13		0	kaikki	1	0	1	1	
+406	fromm	frommer	fromme	frommes	frommen	3.13	partly_restricted:1/2	0	kaikki	0	0	0	1	sensitive religion
+407	heimisch	heimischer	heimische	heimisches	heimischen	3.13		0	kaikki	1	0	0	1	
+408	kommunal	kommunaler	kommunale	kommunales	kommunalen	3.13		0	kaikki	0	0	0	1	jargon politics
+409	operativ	operativer	operative	operatives	operativen	3.13		0	kaikki	0	0	0	1	jargon
+410	versteckt	versteckter	versteckte	verstecktes	versteckten	3.13		0	kaikki	1	1	0	1	
+411	absurd	absurder	absurde	absurdes	absurden	3.12		0	kaikki	1	0	0	1	
+412	einseitig	einseitiger	einseitige	einseitiges	einseitigen	3.12		0	kaikki	1	0	0	1	
+413	frech	frecher	freche	freches	frechen	3.12		0	kaikki	1	1	1	1	
+414	hessisch	hessischer	hessische	hessisches	hessischen	3.12		0	kaikki	0	0	0	1	place
+415	monatlich	monatlicher	monatliche	monatliches	monatlichen	3.12		0	kaikki	0	0	0	1	ugly_in_sentence
+416	rau	rauer	raue	raues	rauen	3.12	partly_restricted:1/2;freq_shared:name	0	kaikki	1	0	0	1	
+417	uralt	uralter	uralte	uraltes	uralten	3.12		0	kaikki	1	1	0	1	
+418	vereinigt	vereinigter	vereinigte	vereinigtes	vereinigten	3.12		0	kaikki	0	0	0	1	ugly_in_sentence
+419	fachlich	fachlicher	fachliche	fachliches	fachlichen	3.11		0	kaikki+olddict	0	0	0	1	jargon
+420	final	finaler	finale	finales	finalen	3.11	partly_restricted:1/3;freq_shared:noun	0	kaikki	0	0	0	1	loanword jargon
+421	gescheit	gescheiter	gescheite	gescheites	gescheiten	3.11	partly_restricted:1/2	0	kaikki	0	0	0	1	regional
+422	klinisch	klinischer	klinische	klinisches	klinischen	3.11		0	kaikki	0	0	0	1	jargon medical
+423	relativ	relativer	relative	relatives	relativen	3.11		0	kaikki	0	0	0	1	abstract adverbial
+424	bedeutsam	bedeutsamer	bedeutsame	bedeutsames	bedeutsamen	3.1		0	kaikki	1	0	0	1	
+425	leuchtend	leuchtender	leuchtende	leuchtendes	leuchtenden	3.1		0	kaikki	1	1	0	1	
+426	naiv	naiver	naive	naives	naiven	3.1		0	kaikki	1	0	0	1	
+427	eingehend	eingehender	eingehende	eingehendes	eingehenden	3.09		0	kaikki	0	0	0	1	ugly_in_sentence
+428	ethnisch	ethnischer	ethnische	ethnisches	ethnischen	3.09		0	kaikki	0	0	0	1	sensitive ethnicity
+429	fix	fixer	fixe	fixes	fixen	3.09	partly_restricted:2/6	0	kaikki	1	0	1	1	
+430	gepflegt	gepflegter	gepflegte	gepflegtes	gepflegten	3.09		0	kaikki	1	0	0	1	
+431	kostbar	kostbarer	kostbare	kostbares	kostbaren	3.09		0	kaikki	1	0	0	1	
+432	kurios	kurioser	kuriose	kurioses	kuriosen	3.09		0	kaikki	1	0	0	1	
+433	medial	medialer	mediale	mediales	medialen	3.09		0	kaikki	0	0	0	1	jargon
+434	minimal	minimaler	minimale	minimales	minimalen	3.09		0	kaikki	1	0	0	1	
+435	sparsam	sparsamer	sparsame	sparsames	sparsamen	3.09		0	kaikki	1	0	1	1	
+436	variabel	variabler	variable	variables	variablen	3.09		0	kaikki	0	0	0	1	jargon
+437	angesehen	angesehener	angesehene	angesehenes	angesehenen	3.08		0	kaikki	1	0	0	1	
+438	divers	diverser	diverse	diverses	diversen	3.08		0	kaikki	0	0	0	1	ambiguous sensitive
+439	entfernt	entfernter	entfernte	entferntes	entfernten	3.08		0	kaikki	1	0	0	1	
+440	indisch	indischer	indische	indisches	indischen	3.08	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+441	separat	separater	separate	separates	separaten	3.08		0	kaikki	1	0	0	1	
+442	antik	antiker	antike	antikes	antiken	3.07		0	kaikki	1	0	0	1	
+443	genetisch	genetischer	genetische	genetisches	genetischen	3.07		0	kaikki	0	0	0	1	jargon
+444	giftig	giftiger	giftige	giftiges	giftigen	3.07		0	kaikki	0	0	0	1	negative
+445	treffend	treffender	treffende	treffendes	treffenden	3.07		0	kaikki	0	0	0	1	ugly_in_sentence
+446	fossil	fossiler	fossile	fossiles	fossilen	3.06	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+447	heimlich	heimlicher	heimliche	heimliches	heimlichen	3.06	partly_restricted:3/4	0	kaikki	1	1	1	1	
+448	hilfreich	hilfreicher	hilfreiche	hilfreiches	hilfreichen	3.06		0	kaikki	1	0	0	1	
+449	rational	rationaler	rationale	rationales	rationalen	3.06		0	kaikki	1	0	0	1	
+450	gestaltet	gestalteter	gestaltete	gestaltetes	gestalteten	3.05		0	kaikki	0	0	0	1	ugly_in_sentence
+451	heiter	heiterer	heitere	heiteres	heiteren	3.05	nom_m_variants:heiterer|heitrer;nom_f_variants:heitere|heitre;nom_n_variants:heiteres|heitres;acc_m_variants:heiteren|heitren	0	kaikki	1	0	0	1	
+452	herb	herber	herbe	herbes	herben	3.05		0	kaikki	1	0	0	1	
+453	himmlisch	himmlischer	himmlische	himmlisches	himmlischen	3.05		0	kaikki	1	0	0	1	
+454	lebhaft	lebhafter	lebhafte	lebhaftes	lebhaften	3.05		0	kaikki	1	0	1	1	
+455	linear	linearer	lineare	lineares	linearen	3.05		0	kaikki	0	0	0	1	jargon
+456	robust	robuster	robuste	robustes	robusten	3.05		0	kaikki	1	0	0	1	
+457	episch	epischer	epische	episches	epischen	3.04		0	kaikki	1	0	0	1	
+458	intim	intimer	intime	intimes	intimen	3.04		0	kaikki	0	0	0	1	offensive sexual
+459	legal	legaler	legale	legales	legalen	3.04		0	kaikki	0	0	0	1	sensitive crime
+460	lukrativ	lukrativer	lukrative	lukratives	lukrativen	3.04		0	kaikki	1	0	0	1	
+461	wirr	wirrer	wirre	wirres	wirren	3.04		0	kaikki	1	0	0	1	
+462	beweglich	beweglicher	bewegliche	bewegliches	beweglichen	3.03	partly_restricted:1/4	0	kaikki	1	0	0	1	
+463	elementar	elementarer	elementare	elementares	elementaren	3.03		0	kaikki	0	0	0	1	abstract
+464	elend	elender	elende	elendes	elenden	3.03	freq_shared:noun	0	kaikki	0	0	0	1	negative
+465	indirekt	indirekter	indirekte	indirektes	indirekten	3.03		0	kaikki	1	0	0	1	
+466	lind	linder	linde	lindes	linden	3.03		0	kaikki	0	0	0	1	archaic
+467	originell	origineller	originelle	originelles	originellen	3.03		0	kaikki	1	0	1	1	
+468	seelisch	seelischer	seelische	seelisches	seelischen	3.03		0	kaikki	0	0	0	1	abstract sensitive
+469	stumpf	stumpfer	stumpfe	stumpfes	stumpfen	3.03	derogatory:1/4;freq_shared:noun	0	kaikki	1	0	0	1	
+470	bergisch	bergischer	bergische	bergisches	bergischen	3.02	partly_restricted:1/3;freq_shared:name	0	kaikki	0	0	0	1	place
+471	exotisch	exotischer	exotische	exotisches	exotischen	3.02		0	kaikki	1	0	0	1	
+472	formal	formaler	formale	formales	formalen	3.02		0	kaikki	0	0	0	1	jargon
+473	bewegt	bewegter	bewegte	bewegtes	bewegten	3.01		0	kaikki	1	0	0	1	
+474	charmant	charmanter	charmante	charmantes	charmanten	3.01		0	kaikki	1	0	1	1	
+475	definiert	definierter	definierte	definiertes	definierten	3.01		0	kaikki	0	0	0	1	ugly_in_sentence
+476	greifbar	greifbarer	greifbare	greifbares	greifbaren	3.01		0	kaikki	1	0	0	1	
+477	legitim	legitimer	legitime	legitimes	legitimen	3.01		0	kaikki	0	0	0	1	abstract
+478	personal	personaler	personale	personales	personalen	3.01	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+479	traumhaft	traumhafter	traumhafte	traumhaftes	traumhaften	3.01		0	kaikki	1	0	0	1	
+480	visuell	visueller	visuelle	visuelles	visuellen	3.01		0	kaikki	0	0	0	1	jargon
+481	ekelhaft	ekelhafter	ekelhafte	ekelhaftes	ekelhaften	3.0		0	kaikki	0	0	0	1	negative
+482	eventuell	eventueller	eventuelle	eventuelles	eventuellen	3.0		0	kaikki	0	0	0	1	function_word
+483	gefunden	gefundener	gefundene	gefundenes	gefundenen	3.0		0	kaikki	0	0	0	1	ugly_in_sentence
+484	markant	markanter	markante	markantes	markanten	3.0		0	kaikki	1	0	0	1	
+485	obdachlos	obdachloser	obdachlose	obdachloses	obdachlosen	3.0		0	kaikki	0	0	0	1	sensitive
+486	primitiv	primitiver	primitive	primitives	primitiven	3.0		0	kaikki	0	0	0	1	offensive
+487	unendlich	unendlicher	unendliche	unendliches	unendlichen	3.0		0	kaikki	1	0	0	1	
+488	begabt	begabter	begabte	begabtes	begabten	2.99		0	kaikki	1	0	0	1	
+489	brillant	brillanter	brillante	brillantes	brillanten	2.99	freq_shared:noun	0	kaikki	1	0	1	1	
+490	gebunden	gebundener	gebundene	gebundenes	gebundenen	2.99		0	kaikki	0	0	0	1	ugly_in_sentence
+491	geworden	gewordener	gewordene	gewordenes	gewordenen	2.99		0	kaikki	0	0	0	1	function_word
+492	identisch	identischer	identische	identisches	identischen	2.99		0	kaikki	1	0	0	1	
+493	klamm	klammer	klamme	klammes	klammen	2.99	freq_shared:noun	0	kaikki	0	0	0	1	obscure
+494	niedlich	niedlicher	niedliche	niedliches	niedlichen	2.99		0	kaikki	1	1	0	1	
+495	platt	platter	platte	plattes	platten	2.99	freq_shared:noun	0	kaikki	1	1	0	1	
+496	stetig	stetiger	stetige	stetiges	stetigen	2.99		0	kaikki	0	0	0	1	ugly_in_sentence
+497	verwirrt	verwirrter	verwirrte	verwirrtes	verwirrten	2.99		0	kaikki	1	0	0	1	
+498	arrogant	arroganter	arrogante	arrogantes	arroganten	2.98		0	kaikki	1	0	0	1	
+499	beteiligt	beteiligter	beteiligte	beteiligtes	beteiligten	2.98		0	kaikki	0	0	0	1	ugly_in_sentence
+500	bewegend	bewegender	bewegende	bewegendes	bewegenden	2.98		0	kaikki	1	0	0	1	
+501	blass	blasser	blasse	blasses	blassen	2.98		0	kaikki	1	0	0	1	
+502	etabliert	etablierter	etablierte	etabliertes	etablierten	2.98		0	kaikki	0	0	0	1	ugly_in_sentence
+503	fit	fitter	fitte	fittes	fitten	2.98		0	kaikki	1	1	0	1	
+504	gefragt	gefragter	gefragte	gefragtes	gefragten	2.98		0	kaikki	1	0	0	1	
+505	geregelt	geregelter	geregelte	geregeltes	geregelten	2.98		0	kaikki	0	0	0	1	ugly_in_sentence
+506	nervig	nerviger	nervige	nerviges	nervigen	2.98		0	kaikki	1	0	0	1	
+507	aufrecht	aufrechter	aufrechte	aufrechtes	aufrechten	2.97		0	kaikki	1	0	1	1	
+508	besorgt	besorgter	besorgte	besorgtes	besorgten	2.97		0	kaikki	1	0	0	1	
+509	blank	blanker	blanke	blankes	blanken	2.97	partly_restricted:1/6	0	kaikki	1	0	0	1	
+510	drastisch	drastischer	drastische	drastisches	drastischen	2.97		0	kaikki	1	0	0	1	
+511	forsch	forscher	forsche	forsches	forschen	2.97		0	kaikki	1	0	1	1	
+512	gehoben	gehobener	gehobene	gehobenes	gehobenen	2.97		0	kaikki	1	0	0	1	
+513	gruselig	gruseliger	gruselige	gruseliges	gruseligen	2.97		0	kaikki	1	0	0	1	
+514	riskant	riskanter	riskante	riskantes	riskanten	2.97		0	kaikki	1	0	0	1	
+515	strikt	strikter	strikte	striktes	strikten	2.97		0	kaikki	1	0	0	1	
+516	gelassen	gelassener	gelassene	gelassenes	gelassenen	2.96	freq_shared:noun	0	kaikki	1	0	1	1	
+517	korrupt	korrupter	korrupte	korruptes	korrupten	2.96		0	kaikki	0	0	0	1	sensitive crime
+518	selig	seliger	selige	seliges	seligen	2.96		0	kaikki	0	0	0	1	sensitive religion
+519	tapfer	tapferer	tapfere	tapferes	tapferen	2.96		0	kaikki	1	1	1	1	
+520	unerlaubt	unerlaubter	unerlaubte	unerlaubtes	unerlaubten	2.96		0	kaikki	0	0	0	1	ugly_in_sentence
+521	verehrt	verehrter	verehrte	verehrtes	verehrten	2.96		0	kaikki	0	0	0	1	ugly_in_sentence
+522	vorder	vorderer	vordere	vorderes	vorderen	2.96	no_predicative_form;freq_shared:prep	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+523	dreist	dreister	dreiste	dreistes	dreisten	2.95		0	kaikki	1	0	0	1	
+524	fiktiv	fiktiver	fiktive	fiktives	fiktiven	2.95		0	kaikki	1	0	0	1	
+525	kurdisch	kurdischer	kurdische	kurdisches	kurdischen	2.95	relational;freq_shared:name	0	kaikki	0	0	0	1	ethnicity
+526	freudig	freudiger	freudige	freudiges	freudigen	2.94		0	kaikki	1	0	1	1	
+527	gebaut	gebauter	gebaute	gebautes	gebauten	2.94		0	kaikki	0	0	0	1	ugly_in_sentence
+528	gesellig	geselliger	gesellige	geselliges	geselligen	2.94		0	kaikki	1	0	0	1	
+529	original	originaler	originale	originales	originalen	2.94	freq_shared:noun	0	kaikki	1	0	0	1	
+530	subtil	subtiler	subtile	subtiles	subtilen	2.94		0	kaikki	1	0	0	1	
+531	verbunden	verbundener	verbundene	verbundenes	verbundenen	2.94	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+532	vergessen	vergessener	vergessene	vergessenes	vergessenen	2.94	freq_shared:noun	1	kaikki	1	0	0	1	
+533	akustisch	akustischer	akustische	akustisches	akustischen	2.93		0	kaikki	0	0	0	1	jargon
+534	doof	doofer	doofe	doofes	doofen	2.93	colloquial;freq_shared:noun	0	kaikki	1	0	0	1	
+535	eisern	eiserner	eiserne	eisernes	eisernen	2.93		0	kaikki	1	0	0	1	
+536	feige	feiger	feige	feiges	feigen	2.93	freq_shared:noun	0	kaikki	1	0	0	1	
+537	fundiert	fundierter	fundierte	fundiertes	fundierten	2.93		0	kaikki	0	0	0	1	jargon
+538	nieder	niederer	niedere	niederes	niederen	2.93		0	kaikki	0	0	0	1	archaic
+539	poetisch	poetischer	poetische	poetisches	poetischen	2.93		0	kaikki	1	0	0	1	
+540	wechselnd	wechselnder	wechselnde	wechselndes	wechselnden	2.93		0	kaikki	0	0	0	1	ugly_in_sentence
+541	andauernd	andauernder	andauernde	andauerndes	andauernden	2.92	colloquial	0	kaikki	0	0	0	1	ugly_in_sentence
+542	angepasst	angepasster	angepasste	angepasstes	angepassten	2.92		0	kaikki	1	0	0	1	
+543	eiskalt	eiskalter	eiskalte	eiskaltes	eiskalten	2.92		0	kaikki	1	1	0	1	
+544	fatal	fataler	fatale	fatales	fatalen	2.92	partly_restricted:1/2	0	kaikki	0	0	0	1	negative
+545	mental	mentaler	mentale	mentales	mentalen	2.92		0	kaikki	0	0	0	1	jargon sensitive
+546	rheinisch	rheinischer	rheinische	rheinisches	rheinischen	2.92	no_predicative_form;relational;freq_shared:name	0	kaikki	0	0	0	1	place
+547	sinnlich	sinnlicher	sinnliche	sinnliches	sinnlichen	2.92		0	kaikki	0	0	0	1	offensive sexual
+548	statisch	statischer	statische	statisches	statischen	2.92		0	kaikki	0	0	0	1	jargon
+549	veraltet	veralteter	veraltete	veraltetes	veralteten	2.92		0	kaikki	1	0	0	1	
+550	verwendet	verwendeter	verwendete	verwendetes	verwendeten	2.92		0	kaikki	0	0	0	1	ugly_in_sentence
+551	belegt	belegter	belegte	belegtes	belegten	2.91		0	kaikki	0	0	0	1	ambiguous
+552	eklig	ekliger	eklige	ekliges	ekligen	2.91		0	kaikki	1	0	0	1	
+553	endlos	endloser	endlose	endloses	endlosen	2.91		0	kaikki	1	0	0	1	
+554	heikel	heikler	heikle	heikles	heiklen	2.91	partly_restricted:1/2;nom_m_variants:heikler|heikeler;nom_f_variants:heikle|heikele;nom_n_variants:heikles|heikeles;acc_m_variants:heiklen|heikelen	0	kaikki	1	0	0	1	
+555	isoliert	isolierter	isolierte	isoliertes	isolierten	2.91		0	kaikki	0	0	0	1	ugly_in_sentence
+556	rar	rarer	rare	rares	raren	2.91	partly_restricted:1/2	0	kaikki	1	0	0	1	
+557	stumm	stummer	stumme	stummes	stummen	2.91	freq_shared:name	0	kaikki	0	0	0	1	sensitive disability
+558	elfte	elfter	elfte	elftes	elften	2.9	no_predicative_form	0	kaikki	0	0	0	0	ordinal_lemma_e
+559	gemeint	gemeinter	gemeinte	gemeintes	gemeinten	2.9	no_predicative_form	0	kaikki	0	0	0	1	ugly_in_sentence
+560	homogen	homogener	homogene	homogenes	homogenen	2.9		0	kaikki	0	0	0	1	jargon
+561	irisch	irischer	irische	irisches	irischen	2.9	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+562	ungut	unguter	ungute	ungutes	unguten	2.9		0	kaikki	0	0	0	1	obscure
+563	dumpf	dumpfer	dumpfe	dumpfes	dumpfen	2.89		0	kaikki	1	0	0	1	
+564	exakt	exakter	exakte	exaktes	exakten	2.89		0	kaikki	1	0	1	1	
+565	geordnet	geordneter	geordnete	geordnetes	geordneten	2.89		0	kaikki	1	0	0	1	
+566	ironisch	ironischer	ironische	ironisches	ironischen	2.89		0	kaikki	1	0	0	1	
+567	moderat	moderater	moderate	moderates	moderaten	2.89		0	kaikki	1	0	0	1	
+568	verdeckt	verdeckter	verdeckte	verdecktes	verdeckten	2.89		0	kaikki	1	0	0	1	
+569	verfickt	verfickter	verfickte	verficktes	verfickten	2.89	vulgar:1/1;freq_shared:intj	0	kaikki	0	0	0	1	offensive vulgar
+570	dankbar	dankbarer	dankbare	dankbares	dankbaren	2.88		0	kaikki	1	0	0	1	
+571	elastisch	elastischer	elastische	elastisches	elastischen	2.88		0	kaikki	1	0	0	1	
+572	energisch	energischer	energische	energisches	energischen	2.88		0	kaikki	1	0	1	1	
+573	manuell	manueller	manuelle	manuelles	manuellen	2.88		0	kaikki	1	0	0	1	
+574	safe	safer	safe	safes	safen	2.88	freq_shared:noun	0	kaikki	0	0	0	0	loanword wrong_form
+575	saftig	saftiger	saftige	saftiges	saftigen	2.88		0	kaikki	1	1	0	1	
+576	urban	urbaner	urbane	urbanes	urbanen	2.88		0	kaikki	0	0	0	1	loanword jargon
+577	vertikal	vertikaler	vertikale	vertikales	vertikalen	2.88		0	kaikki	0	0	0	1	jargon
+578	bedingt	bedingter	bedingte	bedingtes	bedingten	2.87	partly_restricted:1/3	0	kaikki	0	0	0	1	ugly_in_sentence
+579	getrennt	getrennter	getrennte	getrenntes	getrennten	2.87		0	kaikki	0	0	0	1	ugly_in_sentence
+580	kraftvoll	kraftvoller	kraftvolle	kraftvolles	kraftvollen	2.87		0	kaikki	1	0	1	1	
+581	unwichtig	unwichtiger	unwichtige	unwichtiges	unwichtigen	2.87		0	kaikki	1	0	0	1	
+582	verbal	verbaler	verbale	verbales	verbalen	2.87		0	kaikki	0	0	0	1	jargon
+583	feierlich	feierlicher	feierliche	feierliches	feierlichen	2.86		0	kaikki	1	0	1	1	
+584	human	humaner	humane	humanes	humanen	2.86		0	kaikki	0	0	0	1	jargon
+585	karg	karger	karge	karges	kargen	2.86		0	kaikki	1	0	0	1	
+586	straff	straffer	straffe	straffes	straffen	2.86		0	kaikki	1	0	0	1	
+587	tolerant	toleranter	tolerante	tolerantes	toleranten	2.86		0	kaikki	1	0	0	1	
+588	vermisst	vermisster	vermisste	vermisstes	vermissten	2.86		0	kaikki+olddict	0	0	0	1	negative
+589	finster	finsterer	finstere	finsteres	finsteren	2.85		0	kaikki	1	0	0	1	
+590	lesbisch	lesbischer	lesbische	lesbisches	lesbischen	2.85		0	kaikki	0	0	0	1	sensitive
+591	silbern	silberner	silberne	silbernes	silbernen	2.85		0	kaikki	1	1	0	1	
+592	smart	smarter	smarte	smartes	smarten	2.85		0	kaikki	1	0	0	1	
+593	bang	banger	bange	banges	bangen	2.84		0	kaikki	0	0	0	1	archaic
+594	barock	barocker	barocke	barockes	barocken	2.84	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+595	besoffen	besoffener	besoffene	besoffenes	besoffenen	2.84		0	kaikki	0	0	0	1	sensitive drugs
+596	broke	broker	broke	brokes	broken	2.84		0	kaikki	0	0	0	0	loanword wrong_form
+597	festlich	festlicher	festliche	festliches	festlichen	2.84		0	kaikki	1	0	0	1	
+598	gebraten	gebratener	gebratene	gebratenes	gebratenen	2.84		0	kaikki	1	1	0	1	
+599	hohl	hohler	hohle	hohles	hohlen	2.84		0	kaikki	1	0	0	1	
+600	teilweise	teilweiser	teilweise	teilweises	teilweisen	2.84	no_predicative_form	0	kaikki	0	0	0	0	adverb_not_adjective
+601	ungewohnt	ungewohnter	ungewohnte	ungewohntes	ungewohnten	2.84		0	kaikki	1	0	0	1	
+602	unklar	unklarer	unklare	unklares	unklaren	2.84		0	kaikki	1	0	0	1	
+603	vermischt	vermischter	vermischte	vermischtes	vermischten	2.84		0	kaikki	0	0	0	1	ugly_in_sentence
+604	ambulant	ambulanter	ambulante	ambulantes	ambulanten	2.83	relational	0	kaikki	0	0	0	1	jargon medical
+605	beratend	beratender	beratende	beratendes	beratenden	2.83		0	kaikki	0	0	0	1	ugly_in_sentence
+606	gewonnen	gewonnener	gewonnene	gewonnenes	gewonnenen	2.83		0	kaikki	0	0	0	1	ugly_in_sentence
+607	modisch	modischer	modische	modisches	modischen	2.83		0	kaikki	1	0	0	1	
+608	offensiv	offensiver	offensive	offensives	offensiven	2.83		0	kaikki	1	0	1	1	
+609	seitlich	seitlicher	seitliche	seitliches	seitlichen	2.83		0	kaikki	1	0	0	1	
+610	albern	alberner	alberne	albernes	albernen	2.82		0	kaikki	1	0	0	1	
+611	belastend	belastender	belastende	belastendes	belastenden	2.82		0	kaikki	0	0	0	1	negative
+612	gestellt	gestellter	gestellte	gestelltes	gestellten	2.82		0	kaikki	0	0	0	1	ugly_in_sentence
+613	kindlich	kindlicher	kindliche	kindliches	kindlichen	2.82		0	kaikki	1	0	0	1	
+614	neugierig	neugieriger	neugierige	neugieriges	neugierigen	2.82		0	kaikki	1	1	1	1	
+615	plastisch	plastischer	plastische	plastisches	plastischen	2.82		0	kaikki	0	0	0	1	jargon
+616	starr	starrer	starre	starres	starren	2.82		0	kaikki	1	0	0	1	
+617	begehrt	begehrter	begehrte	begehrtes	begehrten	2.81		0	kaikki	1	0	0	1	
+618	depressiv	depressiver	depressive	depressives	depressiven	2.81		0	kaikki	0	0	0	1	sensitive disease
+619	empirisch	empirischer	empirische	empirisches	empirischen	2.81		0	kaikki	0	0	0	1	jargon
+620	fruchtbar	fruchtbarer	fruchtbare	fruchtbares	fruchtbaren	2.81		0	kaikki	1	0	0	1	
+621	gehalten	gehaltener	gehaltene	gehaltenes	gehaltenen	2.81	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+622	gewaltsam	gewaltsamer	gewaltsame	gewaltsames	gewaltsamen	2.81		0	kaikki	0	0	0	1	sensitive violence
+623	immens	immenser	immense	immenses	immensen	2.81		0	kaikki	1	0	0	1	
+624	rasant	rasanter	rasante	rasantes	rasanten	2.81		0	kaikki	1	0	1	1	
+625	satirisch	satirischer	satirische	satirisches	satirischen	2.81		0	kaikki	1	0	0	1	
+626	steif	steifer	steife	steifes	steifen	2.81	freq_shared:name	0	kaikki	1	0	0	1	
+627	verlassen	verlassener	verlassene	verlassenes	verlassenen	2.81	freq_shared:noun	0	kaikki	1	0	0	1	
+628	vermehrt	vermehrter	vermehrte	vermehrtes	vermehrten	2.81		0	kaikki	0	0	0	1	ugly_in_sentence
+629	eben	ebener	ebene	ebenes	ebenen	2.8	nom_m_variants:ebener|ebner;nom_f_variants:ebene|ebne;nom_n_variants:ebenes|ebnes;acc_m_variants:ebenen|ebnen;freq_shared:intj	0	kaikki	0	0	0	1	ambiguous
+630	erkennbar	erkennbarer	erkennbare	erkennbares	erkennbaren	2.8		0	kaikki	0	0	0	1	ugly_in_sentence
+631	finnisch	finnischer	finnische	finnisches	finnischen	2.8	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+632	gefallen	gefallener	gefallene	gefallenes	gefallenen	2.8	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous death
+633	mager	magerer	magere	mageres	mageren	2.8		0	kaikki	1	0	0	1	
+634	unfassbar	unfassbarer	unfassbare	unfassbares	unfassbaren	2.8		0	kaikki	1	0	0	1	
+635	ungleich	ungleicher	ungleiche	ungleiches	ungleichen	2.8		0	kaikki	1	0	0	1	
+636	agil	agiler	agile	agiles	agilen	2.79		0	kaikki	1	0	0	1	
+637	eifrig	eifriger	eifrige	eifriges	eifrigen	2.79		0	kaikki	1	0	1	1	
+638	eisig	eisiger	eisige	eisiges	eisigen	2.79		0	kaikki	1	0	0	1	
+639	nice	nicer	nice	nices	nicen	2.79	colloquial	0	kaikki	0	0	0	0	loanword wrong_form
+640	satt	satter	satte	sattes	satten	2.79		1	kaikki	1	1	0	1	
+641	stramm	strammer	stramme	strammes	strammen	2.79		0	kaikki	1	0	0	1	
+642	wach	wacher	wache	waches	wachen	2.79		0	kaikki	1	1	0	1	
+643	baulich	baulicher	bauliche	bauliches	baulichen	2.78		0	kaikki	0	0	0	1	jargon
+644	dauernd	dauernder	dauernde	dauerndes	dauernden	2.78		0	kaikki	0	0	0	1	ugly_in_sentence
+645	gesondert	gesonderter	gesonderte	gesondertes	gesonderten	2.78		0	kaikki	0	0	0	1	ugly_in_sentence
+646	knackig	knackiger	knackige	knackiges	knackigen	2.78		0	kaikki	1	1	0	1	
+647	verlogen	verlogener	verlogene	verlogenes	verlogenen	2.78		0	kaikki	0	0	0	1	negative
+648	angewandt	angewandter	angewandte	angewandtes	angewandten	2.77		0	kaikki	0	0	0	1	jargon
+649	banal	banaler	banale	banales	banalen	2.77		0	kaikki	1	0	0	1	
+650	bleich	bleicher	bleiche	bleiches	bleichen	2.77		0	kaikki	1	0	0	1	
+651	diffus	diffuser	diffuse	diffuses	diffusen	2.77		0	kaikki	0	0	0	1	jargon
+652	formell	formeller	formelle	formelles	formellen	2.77		0	kaikki	1	0	0	1	
+653	hinterer	hinterer	hintere	hinteres	hinteren	2.77	nom_m_variants:hinterer|hintrer;nom_f_variants:hintere|hintre;nom_n_variants:hinteres|hintres;acc_m_variants:hinteren|hintren;no_predicative_form	0	kaikki	0	0	0	0	lemma_not_base attributive_only
+654	kognitiv	kognitiver	kognitive	kognitives	kognitiven	2.77		0	kaikki	0	0	0	1	jargon
+655	stammend	stammender	stammende	stammendes	stammenden	2.77		0	kaikki	0	0	0	1	ugly_in_sentence
+656	verborgen	verborgener	verborgene	verborgenes	verborgenen	2.77	freq_shared:noun	0	kaikki	1	0	0	1	
+657	verfolgt	verfolgter	verfolgte	verfolgtes	verfolgten	2.77		0	kaikki	0	0	0	1	sensitive crime
+658	befristet	befristeter	befristete	befristetes	befristeten	2.76		0	kaikki	0	0	0	1	jargon
+659	brisant	brisanter	brisante	brisantes	brisanten	2.76		0	kaikki	1	0	0	1	
+660	denkend	denkender	denkende	denkendes	denkenden	2.76		0	kaikki	0	0	0	1	ugly_in_sentence
+661	erhaben	erhabener	erhabene	erhabenes	erhabenen	2.76		0	kaikki	1	0	0	1	
+662	imposant	imposanter	imposante	imposantes	imposanten	2.76		0	kaikki	1	0	0	1	
+663	miserabel	miserabler	miserable	miserables	miserablen	2.76		0	kaikki	1	0	0	1	
+664	persisch	persischer	persische	persisches	persischen	2.76	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+665	plump	plumper	plumpe	plumpes	plumpen	2.76		0	kaikki	1	0	0	1	
+666	unbequem	unbequemer	unbequeme	unbequemes	unbequemen	2.76		0	kaikki	1	0	0	1	
+667	biblisch	biblischer	biblische	biblisches	biblischen	2.75		0	kaikki	0	0	0	1	sensitive religion
+668	diskret	diskreter	diskrete	diskretes	diskreten	2.75		0	kaikki	1	0	1	1	
+669	essbar	essbarer	essbare	essbares	essbaren	2.75		0	kaikki	1	0	0	1	
+670	malerisch	malerischer	malerische	malerisches	malerischen	2.75		0	kaikki	1	0	0	1	
+671	nordisch	nordischer	nordische	nordisches	nordischen	2.75	relational	0	kaikki	0	0	0	1	ethnicity
+672	pink	pinker	pinke	pinkes	pinken	2.75	freq_shared:noun	0	kaikki	1	1	0	1	
+673	stimmig	stimmiger	stimmige	stimmiges	stimmigen	2.75		0	kaikki	1	0	0	1	
+674	bestanden	bestandener	bestandene	bestandenes	bestandenen	2.74	partly_restricted:1/2	0	kaikki	0	0	0	1	ugly_in_sentence
+675	dominant	dominanter	dominante	dominantes	dominanten	2.74		0	kaikki	1	0	0	1	
+676	gell	geller	gelle	gelles	gellen	2.74	freq_shared:particle	0	kaikki	0	0	0	0	function_word particle
+677	gewachsen	gewachsener	gewachsene	gewachsenes	gewachsenen	2.74		0	kaikki	0	0	0	1	ugly_in_sentence
+678	kahl	kahler	kahle	kahles	kahlen	2.74		0	kaikki	1	0	0	1	
+679	mulmig	mulmiger	mulmige	mulmiges	mulmigen	2.74	partly_restricted:1/3	0	kaikki	1	0	0	1	
+680	nuklear	nuklearer	nukleare	nukleares	nuklearen	2.74		0	kaikki	0	0	0	1	sensitive weapons
+681	rasend	rasender	rasende	rasendes	rasenden	2.74		0	kaikki	1	0	0	1	
+682	ungeheuer	ungeheurer	ungeheure	ungeheures	ungeheuren	2.74	freq_shared:noun	0	kaikki	1	0	0	1	
+683	ausgiebig	ausgiebiger	ausgiebige	ausgiebiges	ausgiebigen	2.73		0	kaikki	1	0	1	1	
+684	basiert	basierter	basierte	basiertes	basierten	2.73		0	kaikki	0	0	0	1	ugly_in_sentence
+685	dekorativ	dekorativer	dekorative	dekoratives	dekorativen	2.73		0	kaikki	1	0	0	1	
+686	erfunden	erfundener	erfundene	erfundenes	erfundenen	2.73		0	kaikki	1	0	0	1	
+687	geduldig	geduldiger	geduldige	geduldiges	geduldigen	2.73		0	kaikki	1	1	1	1	
+688	geistlich	geistlicher	geistliche	geistliches	geistlichen	2.73		0	kaikki	0	0	0	1	sensitive religion
+689	knallhart	knallharter	knallharte	knallhartes	knallharten	2.73		0	kaikki	1	0	0	1	
+690	luftig	luftiger	luftige	luftiges	luftigen	2.73		0	kaikki	1	0	0	1	
+691	personell	personeller	personelle	personelles	personellen	2.73		0	kaikki	0	0	0	1	jargon
+692	selektiv	selektiver	selektive	selektives	selektiven	2.73		0	kaikki	0	0	0	1	jargon
+693	skeptisch	skeptischer	skeptische	skeptisches	skeptischen	2.73		0	kaikki	1	0	1	1	
+694	steinig	steiniger	steinige	steiniges	steinigen	2.73		0	kaikki	1	0	0	1	
+695	tragbar	tragbarer	tragbare	tragbares	tragbaren	2.73		0	kaikki	1	0	0	1	
+696	unsinnig	unsinniger	unsinnige	unsinniges	unsinnigen	2.73		0	kaikki	1	0	0	1	
+697	armselig	armseliger	armselige	armseliges	armseligen	2.72		0	kaikki	0	0	0	1	negative
+698	chaotisch	chaotischer	chaotische	chaotisches	chaotischen	2.72		0	kaikki	1	0	0	1	
+699	gespannt	gespannter	gespannte	gespanntes	gespannten	2.72		0	kaikki	1	0	1	1	
+700	gewagt	gewagter	gewagte	gewagtes	gewagten	2.72		0	kaikki	1	0	0	1	
+701	skurril	skurriler	skurrile	skurriles	skurrilen	2.72		0	kaikki	1	0	0	1	
+702	thermisch	thermischer	thermische	thermisches	thermischen	2.72		0	kaikki	0	0	0	1	jargon
+703	unruhig	unruhiger	unruhige	unruhiges	unruhigen	2.72		0	kaikki	1	0	0	1	
+704	doll	doller	dolle	dolles	dollen	2.71	colloquial	0	kaikki	0	0	0	1	colloquial regional
+705	lohnend	lohnender	lohnende	lohnendes	lohnenden	2.71		0	kaikki	1	0	0	1	
+706	schrill	schriller	schrille	schrilles	schrillen	2.71		0	kaikki	1	0	0	1	
+707	vornehm	vornehmer	vornehme	vornehmes	vornehmen	2.71		0	kaikki	1	0	0	1	
+708	aufgeregt	aufgeregter	aufgeregte	aufgeregtes	aufgeregten	2.7		0	kaikki	1	1	1	1	
+709	bedroht	bedrohter	bedrohte	bedrohtes	bedrohten	2.7		0	kaikki	0	0	0	1	negative
+710	erbittert	erbitterter	erbitterte	erbittertes	erbitterten	2.7		0	kaikki	0	0	0	1	negative
+711	fad	fader	fade	fades	faden	2.7		0	kaikki	0	0	0	1	regional
+712	gespalten	gespaltener	gespaltene	gespaltenes	gespaltenen	2.7		0	kaikki+olddict	0	0	0	1	ugly_in_sentence
+713	informell	informeller	informelle	informelles	informellen	2.7		0	kaikki	1	0	0	1	
+714	orthodox	orthodoxer	orthodoxe	orthodoxes	orthodoxen	2.7		0	kaikki	0	0	0	1	sensitive religion
+715	ungesund	ungesunder	ungesunde	ungesundes	ungesunden	2.7	partly_restricted:1/3	0	kaikki	1	0	0	1	
+716	verliebt	verliebter	verliebte	verliebtes	verliebten	2.7		0	kaikki	1	0	0	1	
+717	hilflos	hilfloser	hilflose	hilfloses	hilflosen	2.69		0	kaikki	0	0	0	1	negative
+718	intakt	intakter	intakte	intaktes	intakten	2.69		0	kaikki	1	0	0	1	
+719	munter	munterer	muntere	munteres	munteren	2.69		0	kaikki	1	1	1	1	
+720	nobel	nobler	noble	nobles	noblen	2.69		0	kaikki	1	0	0	1	
+721	stattlich	stattlicher	stattliche	stattliches	stattlichen	2.69		0	kaikki	1	0	0	1	
+722	strafbar	strafbarer	strafbare	strafbares	strafbaren	2.69		0	kaikki	0	0	0	1	sensitive crime
+723	tragend	tragender	tragende	tragendes	tragenden	2.69		0	kaikki	0	0	0	1	ugly_in_sentence
+724	vollendet	vollendeter	vollendete	vollendetes	vollendeten	2.69		0	kaikki	0	0	0	1	ugly_in_sentence
+725	belanglos	belangloser	belanglose	belangloses	belanglosen	2.68		0	kaikki	1	0	0	1	
+726	erfolglos	erfolgloser	erfolglose	erfolgloses	erfolglosen	2.68		0	kaikki	1	0	0	1	
+727	erwartet	erwarteter	erwartete	erwartetes	erwarteten	2.68		0	kaikki	0	0	0	1	ugly_in_sentence
+728	feurig	feuriger	feurige	feuriges	feurigen	2.68		0	kaikki	1	0	0	1	
+729	innig	inniger	innige	inniges	innigen	2.68		0	kaikki	1	0	0	1	
+730	instabil	instabiler	instabile	instabiles	instabilen	2.68		0	kaikki	1	0	0	1	
+731	lieblich	lieblicher	liebliche	liebliches	lieblichen	2.68	partly_restricted:2/3	0	kaikki	1	0	0	1	
+732	momentan	momentaner	momentane	momentanes	momentanen	2.68		0	kaikki	0	0	0	1	ugly_in_sentence
+733	stilvoll	stilvoller	stilvolle	stilvolles	stilvollen	2.68		0	kaikki	1	0	1	1	
+734	toxisch	toxischer	toxische	toxisches	toxischen	2.68		0	kaikki	0	0	0	1	negative
+735	bekloppt	bekloppter	bekloppte	beklopptes	bekloppten	2.67	colloquial	0	kaikki	0	0	0	1	offensive
+736	betrieben	betriebener	betriebene	betriebenes	betriebenen	2.67	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+737	gefroren	gefrorener	gefrorene	gefrorenes	gefrorenen	2.67		0	kaikki	1	1	0	1	
+738	hungrig	hungriger	hungrige	hungriges	hungrigen	2.67		1	kaikki	1	1	0	1	
+739	maritim	maritimer	maritime	maritimes	maritimen	2.67		0	kaikki	0	0	0	1	jargon
+740	oral	oraler	orale	orales	oralen	2.67	relational	0	kaikki	0	0	0	1	offensive sexual
+741	serbisch	serbischer	serbische	serbisches	serbischen	2.67	relational;freq_shared:name	0	kaikki	0	0	0	1	nationality
+742	wertlos	wertloser	wertlose	wertloses	wertlosen	2.67		0	kaikki	1	0	0	1	
+743	arg	arger	arge	arges	argen	2.66	freq_shared:noun	0	kaikki	0	0	0	1	archaic
+744	defensiv	defensiver	defensive	defensives	defensiven	2.66		0	kaikki	1	0	1	1	
+745	derb	derber	derbe	derbes	derben	2.66		0	kaikki	1	0	0	1	
+746	geladen	geladener	geladene	geladenes	geladenen	2.66		0	kaikki	0	0	0	1	ambiguous weapons
+747	humorvoll	humorvoller	humorvolle	humorvolles	humorvollen	2.66		0	kaikki	1	0	0	1	
+748	intuitiv	intuitiver	intuitive	intuitives	intuitiven	2.66		0	kaikki	1	0	1	1	
+749	versaut	versauter	versaute	versautes	versauten	2.66		0	kaikki	0	0	0	1	offensive vulgar
+750	wachsend	wachsender	wachsende	wachsendes	wachsenden	2.66		0	kaikki	0	0	0	1	ugly_in_sentence
+751	angeboren	angeborener	angeborene	angeborenes	angeborenen	2.65		0	kaikki	0	0	0	1	jargon
+752	explosiv	explosiver	explosive	explosives	explosiven	2.65	freq_shared:noun	0	kaikki	0	0	0	1	sensitive weapons
+753	grafisch	grafischer	grafische	grafisches	grafischen	2.65		0	kaikki	0	0	0	1	jargon
+754	undankbar	undankbarer	undankbare	undankbares	undankbaren	2.65		0	kaikki	1	0	0	1	
+755	vorrangig	vorrangiger	vorrangige	vorrangiges	vorrangigen	2.65		0	kaikki	0	0	0	1	ugly_in_sentence
+756	drohend	drohender	drohende	drohendes	drohenden	2.64		0	kaikki	0	0	0	1	negative
+757	endlich	endlicher	endliche	endliches	endlichen	2.64		1	kaikki	0	0	0	1	ambiguous adverb_finally
+758	fanatisch	fanatischer	fanatische	fanatisches	fanatischen	2.64		0	kaikki	0	0	0	1	sensitive
+759	gesegnet	gesegneter	gesegnete	gesegnetes	gesegneten	2.64		0	kaikki	0	0	0	1	sensitive religion
+760	nativ	nativer	native	natives	nativen	2.64		0	kaikki	0	0	0	1	jargon
+761	verteilt	verteilter	verteilte	verteiltes	verteilten	2.64		0	kaikki	0	0	0	1	ugly_in_sentence
+762	anregend	anregender	anregende	anregendes	anregenden	2.63		0	kaikki	1	0	0	1	
+763	brandneu	brandneuer	brandneue	brandneues	brandneuen	2.63	colloquial	0	kaikki	1	0	0	1	
+764	haltbar	haltbarer	haltbare	haltbares	haltbaren	2.63		0	kaikki	1	0	0	1	
+765	hektisch	hektischer	hektische	hektisches	hektischen	2.63		0	kaikki	1	0	0	1	
+766	oval	ovaler	ovale	ovales	ovalen	2.63	freq_shared:noun	0	kaikki+olddict	1	1	0	1	
+767	plausibel	plausibler	plausible	plausibles	plausiblen	2.63		0	kaikki	1	0	0	1	
+768	schonend	schonender	schonende	schonendes	schonenden	2.63		0	kaikki	0	0	0	1	ugly_in_sentence
+769	verdorben	verdorbener	verdorbene	verdorbenes	verdorbenen	2.63		0	kaikki	0	0	0	1	negative
+770	vereint	vereinter	vereinte	vereintes	vereinten	2.63		0	kaikki	0	0	0	1	ugly_in_sentence
+771	gesteuert	gesteuerter	gesteuerte	gesteuertes	gesteuerten	2.62		0	kaikki	0	0	0	1	ugly_in_sentence
+772	grotesk	grotesker	groteske	groteskes	grotesken	2.62		0	kaikki	1	0	0	1	
+773	lehrreich	lehrreicher	lehrreiche	lehrreiches	lehrreichen	2.62		0	kaikki	1	0	0	1	
+774	parallel	paralleler	parallele	paralleles	parallelen	2.62		0	kaikki	1	0	0	1	
+775	turbulent	turbulenter	turbulente	turbulentes	turbulenten	2.62		0	kaikki	1	0	0	1	
+776	ungewollt	ungewollter	ungewollte	ungewolltes	ungewollten	2.62		0	kaikki	0	0	0	1	ugly_in_sentence
+777	unpassend	unpassender	unpassende	unpassendes	unpassenden	2.62		0	kaikki	1	0	0	1	
+778	weltoffen	weltoffener	weltoffene	weltoffenes	weltoffenen	2.62		0	kaikki	0	0	0	1	politics
+779	alpin	alpiner	alpine	alpines	alpinen	2.61		0	kaikki	0	0	0	1	jargon
+780	deftig	deftiger	deftige	deftiges	deftigen	2.61	partly_restricted:1/3	0	kaikki	1	0	0	1	
+781	dringlich	dringlicher	dringliche	dringliches	dringlichen	2.61		0	kaikki	0	0	0	1	ugly_in_sentence
+782	glaubhaft	glaubhafter	glaubhafte	glaubhaftes	glaubhaften	2.61		0	kaikki	1	0	0	1	
+783	krankhaft	krankhafter	krankhafte	krankhaftes	krankhaften	2.61	relational	0	kaikki	0	0	0	1	sensitive disease
+784	namenlos	namenloser	namenlose	namenloses	namenlosen	2.61		0	kaikki	1	0	0	1	
+785	neuerlich	neuerlicher	neuerliche	neuerliches	neuerlichen	2.61		0	kaikki	0	0	0	1	ugly_in_sentence
+786	badisch	badischer	badische	badisches	badischen	2.6	relational	0	kaikki	0	0	0	1	place
+787	fettig	fettiger	fettige	fettiges	fettigen	2.6		0	kaikki	1	0	0	1	
+788	gestreift	gestreifter	gestreifte	gestreiftes	gestreiften	2.6		0	kaikki	1	1	0	1	
+789	kindisch	kindischer	kindische	kindisches	kindischen	2.6		0	kaikki	1	0	0	1	
+790	unbewusst	unbewusster	unbewusste	unbewusstes	unbewussten	2.6		0	kaikki	1	0	0	1	
+791	ungerecht	ungerechter	ungerechte	ungerechtes	ungerechten	2.6		0	kaikki	1	0	0	1	
+792	vital	vitaler	vitale	vitales	vitalen	2.6		0	kaikki	1	0	0	1	
+793	alleinig	alleiniger	alleinige	alleiniges	alleinigen	2.59		0	kaikki	0	0	0	1	ugly_in_sentence
+794	erstellt	erstellter	erstellte	erstelltes	erstellten	2.59		0	kaikki	0	0	0	1	ugly_in_sentence
+795	fesselnd	fesselnder	fesselnde	fesselndes	fesselnden	2.59		0	kaikki	1	0	0	1	
+796	gedeckt	gedeckter	gedeckte	gedecktes	gedeckten	2.59		0	kaikki	1	0	0	1	
+797	gierig	gieriger	gierige	gieriges	gierigen	2.59		0	kaikki	1	0	0	1	
+798	kraus	krauser	krause	krauses	krausen	2.59	freq_shared:name	0	kaikki	1	0	0	1	
+799	prall	praller	pralle	pralles	prallen	2.59		0	kaikki	1	0	0	1	
+800	schuldig	schuldiger	schuldige	schuldiges	schuldigen	2.59		0	kaikki	0	0	0	1	sensitive crime
+801	sonderbar	sonderbarer	sonderbare	sonderbares	sonderbaren	2.59		0	kaikki	1	0	1	1	
+802	stressig	stressiger	stressige	stressiges	stressigen	2.59		0	kaikki	1	0	0	1	
+803	tropisch	tropischer	tropische	tropisches	tropischen	2.59		0	kaikki	1	0	0	1	
+804	unbefugt	unbefugter	unbefugte	unbefugtes	unbefugten	2.59		0	kaikki	0	0	0	1	jargon
+805	utopisch	utopischer	utopische	utopisches	utopischen	2.59		0	kaikki	1	0	0	1	
+806	vage	vager	vage	vages	vagen	2.59		0	kaikki	1	0	1	1	
+807	willig	williger	willige	williges	willigen	2.59	vulgar:1/2	0	kaikki	0	0	0	1	ambiguous
+808	bleibend	bleibender	bleibende	bleibendes	bleibenden	2.58		0	kaikki	0	0	0	1	ugly_in_sentence
+809	fabelhaft	fabelhafter	fabelhafte	fabelhaftes	fabelhaften	2.58		0	kaikki	1	0	1	1	
+810	grell	greller	grelle	grelles	grellen	2.58		0	kaikki	1	0	1	1	
+811	unbedingt	unbedingter	unbedingte	unbedingtes	unbedingten	2.58	partly_restricted:1/2	0	kaikki	0	0	0	1	ambiguous
+812	versiert	versierter	versierte	versiertes	versierten	2.58		0	kaikki	1	0	0	1	
+813	belgisch	belgischer	belgische	belgisches	belgischen	2.57	relational	0	kaikki	0	0	0	1	sensitive
+814	gefeiert	gefeierter	gefeierte	gefeiertes	gefeierten	2.57		0	kaikki	1	0	0	1	
+815	gefertigt	gefertigter	gefertigte	gefertigtes	gefertigten	2.57		0	kaikki	0	0	0	1	ugly_in_sentence
+816	lauter	lauterer	lautere	lauteres	lauteren	2.57	nom_m_variants:lauterer|lautrer;nom_f_variants:lautere|lautre;nom_n_variants:lauteres|lautres;acc_m_variants:lauteren|lautren	0	kaikki	0	0	0	1	archaic
+817	verkauft	verkaufter	verkaufte	verkauftes	verkauften	2.57		0	kaikki	0	0	0	1	ugly_in_sentence
+818	archaisch	archaischer	archaische	archaisches	archaischen	2.56		0	kaikki	1	0	0	1	
+819	artig	artiger	artige	artiges	artigen	2.56		0	kaikki	1	1	1	1	
+820	faktisch	faktischer	faktische	faktisches	faktischen	2.56		0	kaikki	0	0	0	1	ugly_in_sentence
+821	lahm	lahmer	lahme	lahmes	lahmen	2.56	derogatory:2/3;freq_shared:name	1	kaikki	1	1	1	1	
+822	notorisch	notorischer	notorische	notorisches	notorischen	2.56		0	kaikki	1	0	0	1	
+823	pauschal	pauschaler	pauschale	pauschales	pauschalen	2.56		0	kaikki	0	0	0	1	ugly_in_sentence
+824	pikant	pikanter	pikante	pikantes	pikanten	2.56		0	kaikki	1	0	1	1	
+825	sterbend	sterbender	sterbende	sterbendes	sterbenden	2.56		0	kaikki	0	0	0	1	sensitive
+826	sterblich	sterblicher	sterbliche	sterbliches	sterblichen	2.56		0	kaikki	0	0	0	1	sensitive
+827	teuflisch	teuflischer	teuflische	teuflisches	teuflischen	2.56		0	kaikki	0	0	0	1	sensitive
+828	wachsam	wachsamer	wachsame	wachsames	wachsamen	2.56		0	kaikki	1	1	1	1	
+829	aufgebaut	aufgebauter	aufgebaute	aufgebautes	aufgebauten	2.55		0	kaikki	0	0	0	1	ugly_in_sentence
+830	eklatant	eklatanter	eklatante	eklatantes	eklatanten	2.55		0	kaikki	0	0	0	1	obscure
+831	haarig	haariger	haarige	haariges	haarigen	2.55		0	kaikki	1	1	0	1	
+832	militant	militanter	militante	militantes	militanten	2.55		0	kaikki	0	0	0	1	sensitive
+833	ultimativ	ultimativer	ultimative	ultimatives	ultimativen	2.55		0	kaikki	1	0	0	1	
+834	verhalten	verhaltener	verhaltene	verhaltenes	verhaltenen	2.55	freq_shared:noun	0	kaikki	1	0	1	1	
+835	violett	violetter	violette	violettes	violetten	2.55	freq_shared:noun	0	kaikki	1	1	0	1	
+836	welk	welker	welke	welkes	welken	2.55		0	kaikki	1	0	0	1	
+837	weltlich	weltlicher	weltliche	weltliches	weltlichen	2.55		0	kaikki	0	0	0	1	sensitive
+838	bissig	bissiger	bissige	bissiges	bissigen	2.54		0	kaikki	1	0	1	1	
+839	drahtlos	drahtloser	drahtlose	drahtloses	drahtlosen	2.54		0	kaikki	1	0	0	1	
+840	heterogen	heterogener	heterogene	heterogenes	heterogenen	2.54		0	kaikki	0	0	0	1	jargon
+841	reichlich	reichlicher	reichliche	reichliches	reichlichen	2.54		0	kaikki	1	0	1	1	
+842	schwanger	schwangerer	schwangere	schwangeres	schwangeren	2.54		0	kaikki	0	0	0	1	sensitive
+843	verfasst	verfasster	verfasste	verfasstes	verfassten	2.54		0	kaikki	0	0	0	1	ugly_in_sentence
+844	versehen	versehener	versehene	versehenes	versehenen	2.54	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+845	vierfach	vierfacher	vierfache	vierfaches	vierfachen	2.54		0	kaikki	0	0	0	1	ugly_in_sentence
+846	viral	viraler	virale	virales	viralen	2.54		0	kaikki	0	0	0	1	sensitive
+847	gefasst	gefasster	gefasste	gefasstes	gefassten	2.53		0	kaikki	1	0	1	1	
+848	geraten	geratener	geratene	geratenes	geratenen	2.53		0	kaikki	0	0	0	1	ugly_in_sentence
+849	melodisch	melodischer	melodische	melodisches	melodischen	2.53		0	kaikki	1	0	1	1	
+850	verflucht	verfluchter	verfluchte	verfluchtes	verfluchten	2.53		0	kaikki	0	0	0	1	offensive
+851	wuchtig	wuchtiger	wuchtige	wuchtiges	wuchtigen	2.53		0	kaikki	1	0	1	1	
+852	hip	hipper	hippe	hippes	hippen	2.52	colloquial	0	kaikki	1	0	0	1	
+853	numerisch	numerischer	numerische	numerisches	numerischen	2.52		0	kaikki	0	0	0	1	jargon
+854	romanisch	romanischer	romanische	romanisches	romanischen	2.52	relational;freq_shared:noun	0	kaikki	0	0	0	1	sensitive
+855	schulisch	schulischer	schulische	schulisches	schulischen	2.52		0	kaikki	0	0	0	1	ugly_in_sentence
+856	traut	trauter	traute	trautes	trauten	2.52		0	kaikki	0	0	0	1	archaic
+857	belastet	belasteter	belastete	belastetes	belasteten	2.51		0	kaikki	0	0	0	1	negative
+858	clean	cleaner	cleane	cleanes	cleanen	2.51	colloquial	0	kaikki	0	0	0	1	loanword; drug slang
+859	dubios	dubioser	dubiose	dubioses	dubiosen	2.51		0	kaikki	1	0	0	1	
+860	ehrenvoll	ehrenvoller	ehrenvolle	ehrenvolles	ehrenvollen	2.51		0	kaikki	1	0	0	1	
+861	ergeben	ergebener	ergebene	ergebenes	ergebenen	2.51		0	kaikki	0	0	0	1	ambiguous
+862	fahrend	fahrender	fahrende	fahrendes	fahrenden	2.51		0	kaikki	0	0	0	1	ugly_in_sentence
+863	ideell	ideeller	ideelle	ideelles	ideellen	2.51		0	kaikki	0	0	0	1	jargon
+864	jeweilig	jeweiliger	jeweilige	jeweiliges	jeweiligen	2.51		0	kaikki	0	0	0	1	function_word
+865	latent	latenter	latente	latentes	latenten	2.51		0	kaikki	0	0	0	1	jargon
+866	modular	modularer	modulare	modulares	modularen	2.51		0	kaikki	0	0	0	1	jargon
+867	schmierig	schmieriger	schmierige	schmieriges	schmierigen	2.51		0	kaikki	1	0	0	1	
+868	unehelich	unehelicher	uneheliche	uneheliches	unehelichen	2.51		0	kaikki	0	0	0	1	sensitive
+869	vehement	vehementer	vehemente	vehementes	vehementen	2.51		0	kaikki	1	0	1	1	
+870	vergoldet	vergoldeter	vergoldete	vergoldetes	vergoldeten	2.51		0	kaikki	1	1	0	1	
+871	werdend	werdender	werdende	werdendes	werdenden	2.51		0	kaikki	0	0	0	1	ugly_in_sentence
+872	abnehmend	abnehmender	abnehmende	abnehmendes	abnehmenden	2.5		0	kaikki	0	0	0	1	ugly_in_sentence
+873	befreit	befreiter	befreite	befreites	befreiten	2.5		0	kaikki	1	0	1	1	
+874	erhoben	erhobener	erhobene	erhobenes	erhobenen	2.5		0	kaikki	0	0	0	1	ugly_in_sentence
+875	farblos	farbloser	farblose	farbloses	farblosen	2.5		0	kaikki	1	0	0	1	
+876	gediegen	gediegener	gediegene	gediegenes	gediegenen	2.5	partly_restricted:2/4	0	kaikki	1	0	0	1	
+877	polemisch	polemischer	polemische	polemisches	polemischen	2.5		0	kaikki	0	0	0	1	sensitive
+878	sagenhaft	sagenhafter	sagenhafte	sagenhaftes	sagenhaften	2.5		0	kaikki	1	0	1	1	
+879	ungenau	ungenauer	ungenaue	ungenaues	ungenauen	2.5		0	kaikki	1	0	1	1	
+880	unrichtig	unrichtiger	unrichtige	unrichtiges	unrichtigen	2.5		0	kaikki	0	0	0	1	ugly_in_sentence
+881	abgelegen	abgelegener	abgelegene	abgelegenes	abgelegenen	2.49		0	kaikki	1	0	0	1	
+882	animiert	animierter	animierte	animiertes	animierten	2.49		0	kaikki	0	0	0	1	ambiguous
+883	gestiegen	gestiegener	gestiegene	gestiegenes	gestiegenen	2.49		0	kaikki	0	0	0	1	ugly_in_sentence
+884	gnadenlos	gnadenloser	gnadenlose	gnadenloses	gnadenlosen	2.49		0	kaikki	1	0	1	1	
+885	kolonial	kolonialer	koloniale	koloniales	kolonialen	2.49	no_predicative_form	0	kaikki	0	0	0	1	sensitive
+886	kroatisch	kroatischer	kroatische	kroatisches	kroatischen	2.49	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+887	kuschelig	kuscheliger	kuschelige	kuscheliges	kuscheligen	2.49		0	kaikki	1	1	0	1	
+888	naturnah	naturnaher	naturnahe	naturnahes	naturnahen	2.49		0	kaikki	1	0	0	1	
+889	partiell	partieller	partielle	partielles	partiellen	2.49		0	kaikki	0	0	0	1	jargon
+890	resistent	resistenter	resistente	resistentes	resistenten	2.49		0	kaikki	0	0	0	1	jargon
+891	scheinbar	scheinbarer	scheinbare	scheinbares	scheinbaren	2.49	no_predicative_form	0	kaikki	0	0	0	1	function_word
+892	wirkend	wirkender	wirkende	wirkendes	wirkenden	2.49		0	kaikki	0	0	0	1	ugly_in_sentence
+893	feminin	femininer	feminine	feminines	femininen	2.48	partly_restricted:1/3	0	kaikki	0	0	0	1	sensitive
+894	idiotisch	idiotischer	idiotische	idiotisches	idiotischen	2.48		0	kaikki	0	0	0	1	offensive
+895	krumm	krummer	krumme	krummes	krummen	2.48	partly_restricted:1/2	0	kaikki	1	1	1	1	
+896	parteilos	parteiloser	parteilose	parteiloses	parteilosen	2.48		0	kaikki	0	0	0	1	sensitive
+897	perfide	perfider	perfide	perfides	perfiden	2.48		0	kaikki	0	0	0	1	obscure
+898	seicht	seichter	seichte	seichtes	seichten	2.48		0	kaikki	1	0	0	1	
+899	atomar	atomarer	atomare	atomares	atomaren	2.47		0	kaikki	0	0	0	1	sensitive
+900	belastbar	belastbarer	belastbare	belastbares	belastbaren	2.47		0	kaikki	0	0	0	1	jargon
+901	besonnen	besonnener	besonnene	besonnenes	besonnenen	2.47		0	kaikki	1	0	1	1	
+902	botanisch	botanischer	botanische	botanisches	botanischen	2.47		0	kaikki	0	0	0	1	ugly_in_sentence
+903	generisch	generischer	generische	generisches	generischen	2.47		0	kaikki	0	0	0	1	jargon
+904	kunstvoll	kunstvoller	kunstvolle	kunstvolles	kunstvollen	2.47		0	kaikki	1	0	1	1	
+905	umsichtig	umsichtiger	umsichtige	umsichtiges	umsichtigen	2.47		0	kaikki	1	0	1	1	
+906	unfair	unfairer	unfaire	unfaires	unfairen	2.47		0	kaikki	1	0	1	1	
+907	adlig	adliger	adlige	adliges	adligen	2.46		0	kaikki	1	0	0	1	
+908	fliegend	fliegender	fliegende	fliegendes	fliegenden	2.46		0	kaikki	1	1	0	1	
+909	keltisch	keltischer	keltische	keltisches	keltischen	2.46	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+910	lesbar	lesbarer	lesbare	lesbares	lesbaren	2.46		0	kaikki	1	0	0	1	
+911	monoton	monotoner	monotone	monotones	monotonen	2.46		0	kaikki	1	0	1	1	
+912	paranoid	paranoider	paranoide	paranoides	paranoiden	2.46		0	kaikki	0	0	0	1	sensitive
+913	saisonal	saisonaler	saisonale	saisonales	saisonalen	2.46		0	kaikki	1	0	0	1	
+914	senkrecht	senkrechter	senkrechte	senkrechtes	senkrechten	2.46		0	kaikki	1	1	1	1	
+915	vergiftet	vergifteter	vergiftete	vergiftetes	vergifteten	2.46		0	kaikki	0	0	0	1	sensitive
+916	abgelehnt	abgelehnter	abgelehnte	abgelehntes	abgelehnten	2.45		0	kaikki	0	0	0	1	ugly_in_sentence
+917	definitiv	definitiver	definitive	definitives	definitiven	2.45		0	kaikki	0	0	0	1	ambiguous
+918	duftend	duftender	duftende	duftendes	duftenden	2.45		0	kaikki	1	1	0	1	
+919	entdeckt	entdeckter	entdeckte	entdecktes	entdeckten	2.45		0	kaikki	0	0	0	1	ugly_in_sentence
+920	erlaubt	erlaubter	erlaubte	erlaubtes	erlaubten	2.45		0	kaikki	0	0	0	1	ugly_in_sentence
+921	gepresst	gepresster	gepresste	gepresstes	gepressten	2.45		0	kaikki	1	0	0	1	
+922	homophob	homophober	homophobe	homophobes	homophoben	2.45		0	kaikki	0	0	0	1	sensitive
+923	panisch	panischer	panische	panisches	panischen	2.45		0	kaikki	1	0	1	1	
+924	bindend	bindender	bindende	bindendes	bindenden	2.44		0	kaikki	0	0	0	1	jargon
+925	eitel	eitler	eitle	eitles	eitlen	2.44	partly_restricted:3/5;nom_m_variants:eitler|eiteler;nom_f_variants:eitle|eitele;nom_n_variants:eitles|eiteles;acc_m_variants:eitlen|eitelen	0	kaikki	1	0	0	1	
+926	glorreich	glorreicher	glorreiche	glorreiches	glorreichen	2.44		0	kaikki	1	0	0	1	
+927	grausig	grausiger	grausige	grausiges	grausigen	2.44		0	kaikki	0	0	0	1	negative
+928	heiser	heiserer	heisere	heiseres	heiseren	2.44		0	kaikki	1	0	1	1	
+929	hellblau	hellblauer	hellblaue	hellblaues	hellblauen	2.44	freq_shared:noun	0	kaikki	1	1	0	1	
+930	kantig	kantiger	kantige	kantiges	kantigen	2.44		0	kaikki	1	0	0	1	
+931	passabel	passabler	passable	passables	passablen	2.44		0	kaikki	1	0	1	1	
+932	unrein	unreiner	unreine	unreines	unreinen	2.44		0	kaikki	0	0	0	1	sensitive
+933	adelig	adeliger	adelige	adeliges	adeligen	2.43	alt_of:adlig	0	kaikki	0	0	0	1	variant of adlig
+934	arbeitend	arbeitender	arbeitende	arbeitendes	arbeitenden	2.43		0	kaikki	0	0	0	1	ugly_in_sentence
+935	brennbar	brennbarer	brennbare	brennbares	brennbaren	2.43		0	kaikki	0	0	0	1	ugly_in_sentence
+936	erblich	erblicher	erbliche	erbliches	erblichen	2.43		0	kaikki	0	0	0	1	sensitive
+937	flink	flinker	flinke	flinkes	flinken	2.43		0	kaikki	1	1	1	1	
+938	gebrannt	gebrannter	gebrannte	gebranntes	gebrannten	2.43		0	kaikki	1	0	0	1	
+939	gerissen	gerissener	gerissene	gerissenes	gerissenen	2.43		0	kaikki	1	0	0	1	
+940	handlich	handlicher	handliche	handliches	handlichen	2.43		0	kaikki	1	0	0	1	
+941	ignorant	ignoranter	ignorante	ignorantes	ignoranten	2.43	freq_shared:noun	0	kaikki	1	0	0	1	
+942	leitend	leitender	leitende	leitendes	leitenden	2.43		0	kaikki	0	0	0	1	ugly_in_sentence
+943	prickelnd	prickelnder	prickelnde	prickelndes	prickelnden	2.43		0	kaikki	1	0	0	1	
+944	unrecht	unrechter	unrechte	unrechtes	unrechten	2.43	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+945	virtuos	virtuoser	virtuose	virtuoses	virtuosen	2.43		0	kaikki	1	0	1	1	
+946	abartig	abartiger	abartige	abartiges	abartigen	2.42	derogatory:3/3	0	kaikki	0	0	0	1	offensive
+947	abrupt	abrupter	abrupte	abruptes	abrupten	2.42		0	kaikki	1	0	1	1	
+948	armenisch	armenischer	armenische	armenisches	armenischen	2.42	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+949	dehnbar	dehnbarer	dehnbare	dehnbares	dehnbaren	2.42		0	kaikki	1	0	0	1	
+950	exquisit	exquisiter	exquisite	exquisites	exquisiten	2.42		0	kaikki	1	0	0	1	
+951	griffig	griffiger	griffige	griffiges	griffigen	2.42		0	kaikki	1	0	0	1	
+952	harsch	harscher	harsche	harsches	harschen	2.42		0	kaikki	1	0	1	1	
+953	reell	reeller	reelle	reelles	reellen	2.42		0	kaikki	0	0	0	1	jargon
+954	stur	sturer	sture	stures	sturen	2.42		0	kaikki	1	1	1	1	
+955	unwissend	unwissender	unwissende	unwissendes	unwissenden	2.42		0	kaikki	0	0	0	1	ugly_in_sentence
+956	albanisch	albanischer	albanische	albanisches	albanischen	2.41	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+957	ehemalig	ehemaliger	ehemalige	ehemaliges	ehemaligen	2.41		0	kaikki	0	0	0	1	function_word
+958	eingelegt	eingelegter	eingelegte	eingelegtes	eingelegten	2.41		0	kaikki	1	0	0	1	
+959	ergiebig	ergiebiger	ergiebige	ergiebiges	ergiebigen	2.41		0	kaikki	1	0	0	1	
+960	fragil	fragiler	fragile	fragiles	fragilen	2.41		0	kaikki	1	0	0	1	
+961	getarnt	getarnter	getarnte	getarntes	getarnten	2.41		0	kaikki	1	0	0	1	
+962	gewichtig	gewichtiger	gewichtige	gewichtiges	gewichtigen	2.41		0	kaikki	1	0	0	1	
+963	gewollt	gewollter	gewollte	gewolltes	gewollten	2.41		0	kaikki	0	0	0	1	ugly_in_sentence
+964	gotisch	gotischer	gotische	gotisches	gotischen	2.41	relational;freq_shared:name,noun	0	kaikki	0	0	0	1	sensitive
+965	kausal	kausaler	kausale	kausales	kausalen	2.41		0	kaikki	0	0	0	1	jargon
+966	klebrig	klebriger	klebrige	klebriges	klebrigen	2.41		0	kaikki	1	1	0	1	
+967	langlebig	langlebiger	langlebige	langlebiges	langlebigen	2.41		0	kaikki	1	0	0	1	
+968	pfiffig	pfiffiger	pfiffige	pfiffiges	pfiffigen	2.4		0	kaikki	1	1	0	1	
+969	schallend	schallender	schallende	schallendes	schallenden	2.4		0	kaikki	1	0	1	1	
+970	schamlos	schamloser	schamlose	schamloses	schamlosen	2.4		0	kaikki	0	0	0	1	negative
+971	anwesend	anwesender	anwesende	anwesendes	anwesenden	2.39		0	kaikki	0	0	0	1	ugly_in_sentence
+972	arisch	arischer	arische	arisches	arischen	2.39	Nazism:1/2;partly_restricted:1/2;relational;freq_shared:name	0	kaikki	0	0	0	1	offensive
+973	dreieckig	dreieckiger	dreieckige	dreieckiges	dreieckigen	2.39		0	kaikki	1	1	0	1	
+974	erlesen	erlesener	erlesene	erlesenes	erlesenen	2.39		0	kaikki	1	0	0	1	
+975	fruchtig	fruchtiger	fruchtige	fruchtiges	fruchtigen	2.39		0	kaikki	1	1	0	1	
+976	graphisch	graphischer	graphische	graphisches	graphischen	2.39	alt_of:grafisch	0	kaikki	0	0	0	1	variant of grafisch
+977	invasiv	invasiver	invasive	invasives	invasiven	2.39		0	kaikki	0	0	0	1	jargon
+978	lupenrein	lupenreiner	lupenreine	lupenreines	lupenreinen	2.39		0	kaikki	1	0	0	1	
+979	normativ	normativer	normative	normatives	normativen	2.39		0	kaikki+olddict	0	0	0	1	jargon
+980	paradox	paradoxer	paradoxe	paradoxes	paradoxen	2.39	freq_shared:noun	0	kaikki	1	0	0	1	
+981	potent	potenter	potente	potentes	potenten	2.39		0	kaikki	0	0	0	1	sensitive
+982	schlaff	schlaffer	schlaffe	schlaffes	schlaffen	2.39		0	kaikki	1	0	0	1	
+983	schleimig	schleimiger	schleimige	schleimiges	schleimigen	2.39		0	kaikki	1	1	0	1	
+984	selbstlos	selbstloser	selbstlose	selbstloses	selbstlosen	2.39		0	kaikki	1	0	1	1	
+985	tauglich	tauglicher	taugliche	taugliches	tauglichen	2.39		0	kaikki	0	0	0	1	ugly_in_sentence
+986	wohlig	wohliger	wohlige	wohliges	wohligen	2.39		0	kaikki	1	0	1	1	
+987	wundersam	wundersamer	wundersame	wundersames	wundersamen	2.39		0	kaikki	1	0	0	1	
+988	beladen	beladener	beladene	beladenes	beladenen	2.38	freq_shared:noun	0	kaikki	1	0	0	1	
+989	belebt	belebter	belebte	belebtes	belebten	2.38		0	kaikki	1	0	0	1	
+990	ehrenwert	ehrenwerter	ehrenwerte	ehrenwertes	ehrenwerten	2.38		0	kaikki	1	0	0	1	
+991	flauschig	flauschiger	flauschige	flauschiges	flauschigen	2.38		0	kaikki	1	1	0	1	
+992	fulminant	fulminanter	fulminante	fulminantes	fulminanten	2.38		0	kaikki	1	0	0	1	
+993	getreu	getreuer	getreue	getreues	getreuen	2.38	freq_shared:prep	0	kaikki	0	0	0	1	archaic
+994	nagelneu	nagelneuer	nagelneue	nagelneues	nagelneuen	2.38	colloquial	0	kaikki	1	1	0	1	
+995	trostlos	trostloser	trostlose	trostloses	trostlosen	2.38		0	kaikki	1	0	0	1	
+996	behaart	behaarter	behaarte	behaartes	behaarten	2.37		0	kaikki	1	0	0	1	
+997	besessen	besessener	besessene	besessenes	besessenen	2.37		0	kaikki	0	0	0	1	sensitive
+998	ermordet	ermordeter	ermordete	ermordetes	ermordeten	2.37		0	kaikki	0	0	0	1	sensitive
+999	heroisch	heroischer	heroische	heroisches	heroischen	2.37		0	kaikki	1	0	1	1	
+1000	rockig	rockiger	rockige	rockiges	rockigen	2.37		0	kaikki	1	0	0	1	
+1001	slawisch	slawischer	slawische	slawisches	slawischen	2.37	relational	0	kaikki	0	0	0	1	sensitive
+1002	steril	steriler	sterile	steriles	sterilen	2.37		0	kaikki	1	0	0	1	
+1003	trist	trister	triste	tristes	tristen	2.37		0	kaikki	1	0	0	1	
+1004	trivial	trivialer	triviale	triviales	trivialen	2.37		0	kaikki	1	0	0	1	
+1005	bedruckt	bedruckter	bedruckte	bedrucktes	bedruckten	2.36		0	kaikki	1	0	0	1	
+1006	behaglich	behaglicher	behagliche	behagliches	behaglichen	2.36		0	kaikki	1	0	1	1	
+1007	bilateral	bilateraler	bilaterale	bilaterales	bilateralen	2.36		0	kaikki	0	0	0	1	sensitive
+1008	ehrenhaft	ehrenhafter	ehrenhafte	ehrenhaftes	ehrenhaften	2.36		0	kaikki	1	0	1	1	
+1009	gelblich	gelblicher	gelbliche	gelbliches	gelblichen	2.36		0	kaikki	1	0	0	1	
+1010	grimmig	grimmiger	grimmige	grimmiges	grimmigen	2.36		0	kaikki	1	0	1	1	
+1011	inaktiv	inaktiver	inaktive	inaktives	inaktiven	2.36		0	kaikki	0	0	0	1	jargon
+1012	makellos	makelloser	makellose	makelloses	makellosen	2.36		0	kaikki	1	0	0	1	
+1013	molekular	molekularer	molekulare	molekulares	molekularen	2.36	relational	0	kaikki	0	0	0	1	jargon
+1014	neuwertig	neuwertiger	neuwertige	neuwertiges	neuwertigen	2.36		0	kaikki	0	0	0	1	jargon
+1015	schattig	schattiger	schattige	schattiges	schattigen	2.36		0	kaikki	1	1	0	1	
+1016	sorglos	sorgloser	sorglose	sorgloses	sorglosen	2.36		0	kaikki	1	0	1	1	
+1017	geneigt	geneigter	geneigte	geneigtes	geneigten	2.35		0	kaikki	0	0	0	1	ambiguous
+1018	kabellos	kabelloser	kabellose	kabelloses	kabellosen	2.35		0	kaikki	1	0	0	1	
+1019	kariert	karierter	karierte	kariertes	karierten	2.35		0	kaikki	1	1	0	1	
+1020	kreisrund	kreisrunder	kreisrunde	kreisrundes	kreisrunden	2.35		0	kaikki	1	1	0	1	
+1021	lauwarm	lauwarmer	lauwarme	lauwarmes	lauwarmen	2.35		0	kaikki	1	1	0	1	
+1022	neuartig	neuartiger	neuartige	neuartiges	neuartigen	2.35		0	kaikki	1	0	0	1	
+1023	rentabel	rentabler	rentable	rentables	rentablen	2.35		0	kaikki	0	0	0	1	jargon
+1024	rundlich	rundlicher	rundliche	rundliches	rundlichen	2.35		0	kaikki	1	0	0	1	
+1025	tadellos	tadelloser	tadellose	tadelloses	tadellosen	2.35		0	kaikki	1	0	1	1	
+1026	unbeliebt	unbeliebter	unbeliebte	unbeliebtes	unbeliebten	2.35		0	kaikki+olddict	1	0	0	1	
+1027	vertieft	vertiefter	vertiefte	vertieftes	vertieften	2.35		0	kaikki+olddict	0	0	0	1	ambiguous
+1028	eckig	eckiger	eckige	eckiges	eckigen	2.34		0	kaikki	1	1	0	1	
+1029	erholsam	erholsamer	erholsame	erholsames	erholsamen	2.34		0	kaikki	1	0	0	1	
+1030	herrenlos	herrenloser	herrenlose	herrenloses	herrenlosen	2.34		0	kaikki	1	0	0	1	
+1031	labil	labiler	labile	labiles	labilen	2.34		0	kaikki	0	0	0	1	sensitive
+1032	litauisch	litauischer	litauische	litauisches	litauischen	2.34	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1033	messbar	messbarer	messbare	messbares	messbaren	2.34		0	kaikki	0	0	0	1	jargon
+1034	verspielt	verspielter	verspielte	verspieltes	verspielten	2.34		0	kaikki+olddict	1	1	0	1	
+1035	behandelt	behandelter	behandelte	behandeltes	behandelten	2.33		0	kaikki	0	0	0	1	ugly_in_sentence
+1036	melk	melker	melke	melkes	melken	2.33	freq_shared:name	0	kaikki	0	0	0	0	obscure
+1037	motorisch	motorischer	motorische	motorisches	motorischen	2.33		0	kaikki	0	0	0	1	jargon
+1038	provokant	provokanter	provokante	provokantes	provokanten	2.33		0	kaikki	1	0	1	1	
+1039	rigoros	rigoroser	rigorose	rigoroses	rigorosen	2.33		0	kaikki	1	0	1	1	
+1040	sperrig	sperriger	sperrige	sperriges	sperrigen	2.33		0	kaikki	1	0	0	1	
+1041	stechend	stechender	stechende	stechendes	stechenden	2.33		0	kaikki	1	0	0	1	
+1042	viereckig	viereckiger	viereckige	viereckiges	viereckigen	2.33	partly_restricted:1/2	0	kaikki	1	1	0	1	
+1043	automobil	automobiler	automobile	automobiles	automobilen	2.32	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1044	bosnisch	bosnischer	bosnische	bosnisches	bosnischen	2.32	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1045	filigran	filigraner	filigrane	filigranes	filigranen	2.32	freq_shared:noun	0	kaikki	1	0	0	1	
+1046	frittiert	frittierter	frittierte	frittiertes	frittierten	2.32		0	kaikki	1	1	0	1	
+1047	handfest	handfester	handfeste	handfestes	handfesten	2.32		0	kaikki	1	0	0	1	
+1048	knusprig	knuspriger	knusprige	knuspriges	knusprigen	2.32		0	kaikki	1	1	0	1	
+1049	profan	profaner	profane	profanes	profanen	2.32		0	kaikki	0	0	0	1	sensitive
+1050	schlagend	schlagender	schlagende	schlagendes	schlagenden	2.32		0	kaikki	0	0	0	1	sensitive
+1051	sinkend	sinkender	sinkende	sinkendes	sinkenden	2.32		0	kaikki	0	0	0	1	ugly_in_sentence
+1052	streitbar	streitbarer	streitbare	streitbares	streitbaren	2.32		0	kaikki	0	0	0	1	obscure
+1053	verfehlt	verfehlter	verfehlte	verfehltes	verfehlten	2.32		0	kaikki	0	0	0	1	ugly_in_sentence
+1054	vermutet	vermuteter	vermutete	vermutetes	vermuteten	2.32		0	kaikki	0	0	0	1	ugly_in_sentence
+1055	verordnet	verordneter	verordnete	verordnetes	verordneten	2.32		0	kaikki	0	0	0	1	ugly_in_sentence
+1056	windig	windiger	windige	windiges	windigen	2.32		0	kaikki	1	1	0	1	
+1057	annehmbar	annehmbarer	annehmbare	annehmbares	annehmbaren	2.31		0	kaikki	1	0	0	1	
+1058	behutsam	behutsamer	behutsame	behutsames	behutsamen	2.31		0	kaikki	1	0	1	1	
+1059	erregt	erregter	erregte	erregtes	erregten	2.31		0	kaikki	0	0	0	1	sensitive
+1060	heidnisch	heidnischer	heidnische	heidnisches	heidnischen	2.31		0	kaikki	0	0	0	1	sensitive
+1061	infantil	infantiler	infantile	infantiles	infantilen	2.31		0	kaikki	0	0	0	1	offensive
+1062	knifflig	kniffliger	knifflige	kniffliges	kniffligen	2.31	colloquial	0	kaikki	1	1	0	1	
+1063	konisch	konischer	konische	konisches	konischen	2.31		0	kaikki	0	0	0	1	jargon
+1064	metrisch	metrischer	metrische	metrisches	metrischen	2.31		0	kaikki	0	0	0	1	jargon
+1065	namhaft	namhafter	namhafte	namhaftes	namhaften	2.31		0	kaikki	1	0	0	1	
+1066	schaurig	schauriger	schaurige	schauriges	schaurigen	2.31		0	kaikki	1	0	0	1	
+1067	wendig	wendiger	wendige	wendiges	wendigen	2.31		0	kaikki	1	0	1	1	
+1068	blendend	blendender	blendende	blendendes	blendenden	2.3	colloquial	0	kaikki+olddict	1	0	1	1	
+1069	devot	devoter	devote	devotes	devoten	2.3		0	kaikki	0	0	0	1	sensitive
+1070	ehrbar	ehrbarer	ehrbare	ehrbares	ehrbaren	2.3		0	kaikki	0	0	0	1	archaic
+1071	handelnd	handelnder	handelnde	handelndes	handelnden	2.3		0	kaikki	0	0	0	1	ugly_in_sentence
+1072	lautstark	lautstarker	lautstarke	lautstarkes	lautstarken	2.3		0	kaikki	1	0	1	1	
+1073	oll	oller	olle	olles	ollen	2.3	derogatory:1/2;colloquial	0	kaikki	0	0	0	1	regional
+1074	peripher	peripherer	periphere	peripheres	peripheren	2.3		0	kaikki	0	0	0	1	jargon
+1075	rothaarig	rothaariger	rothaarige	rothaariges	rothaarigen	2.3		0	kaikki	1	1	0	1	
+1076	schier	schierer	schiere	schieres	schieren	2.3	homographs:2;freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1077	abgefuckt	abgefuckter	abgefuckte	abgefucktes	abgefuckten	2.29	colloquial	0	kaikki	0	0	0	1	offensive
+1078	begehbar	begehbarer	begehbare	begehbares	begehbaren	2.29		0	kaikki	0	0	0	1	jargon
+1079	bereit	bereiter	bereite	bereites	bereiten	2.29		0	kaikki	0	0	0	0	predicative only
+1080	greis	greiser	greise	greises	greisen	2.29	freq_shared:noun	0	kaikki	0	0	0	1	archaic
+1081	lustvoll	lustvoller	lustvolle	lustvolles	lustvollen	2.29		0	kaikki+olddict	0	0	0	1	sensitive
+1082	rustikal	rustikaler	rustikale	rustikales	rustikalen	2.29		0	kaikki	1	0	0	1	
+1083	stoisch	stoischer	stoische	stoisches	stoischen	2.29		0	kaikki	1	0	1	1	
+1084	bebaut	bebauter	bebaute	bebautes	bebauten	2.28		0	kaikki+olddict	0	0	0	1	ugly_in_sentence
+1085	bedeckt	bedeckter	bedeckte	bedecktes	bedeckten	2.28		0	kaikki	1	0	0	1	
+1086	hirnlos	hirnloser	hirnlose	hirnloses	hirnlosen	2.28	derogatory:1/1;colloquial	0	kaikki	0	0	0	1	offensive
+1087	ungewiss	ungewisser	ungewisse	ungewisses	ungewissen	2.28		0	kaikki	1	0	0	1	
+1088	unreif	unreifer	unreife	unreifes	unreifen	2.28		0	kaikki	1	1	0	1	
+1089	blumig	blumiger	blumige	blumiges	blumigen	2.27		0	kaikki	1	0	0	1	
+1090	enthalten	enthaltener	enthaltene	enthaltenes	enthaltenen	2.27	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+1091	feil	feiler	feile	feiles	feilen	2.27	derogatory:1/2;partly_restricted:1/2	0	kaikki	0	0	0	1	archaic
+1092	iranisch	iranischer	iranische	iranisches	iranischen	2.27	relational	0	kaikki	0	0	0	1	sensitive
+1093	optional	optionaler	optionale	optionales	optionalen	2.27		0	kaikki	0	0	0	1	jargon
+1094	unbewohnt	unbewohnter	unbewohnte	unbewohntes	unbewohnten	2.27		0	kaikki	1	0	0	1	
+1095	unlauter	unlauterer	unlautere	unlauteres	unlauteren	2.27		0	kaikki	0	0	0	1	jargon
+1096	valid	valider	valide	valides	validen	2.27		0	kaikki	0	0	0	1	jargon
+1097	achtsam	achtsamer	achtsame	achtsames	achtsamen	2.26		0	kaikki	1	0	1	1	
+1098	cremig	cremiger	cremige	cremiges	cremigen	2.26		0	kaikki	1	1	0	1	
+1099	drehbar	drehbarer	drehbare	drehbares	drehbaren	2.26		0	kaikki	0	0	0	1	ugly_in_sentence
+1100	entartet	entarteter	entartete	entartetes	entarteten	2.26		0	kaikki	0	0	0	1	offensive
+1101	erstmalig	erstmaliger	erstmalige	erstmaliges	erstmaligen	2.26	relational	0	kaikki	0	0	0	1	ugly_in_sentence
+1102	fahl	fahler	fahle	fahles	fahlen	2.26	partly_restricted:1/4	0	kaikki	1	0	0	1	
+1103	kitschig	kitschiger	kitschige	kitschiges	kitschigen	2.26		0	kaikki	1	0	0	1	
+1104	rostig	rostiger	rostige	rostiges	rostigen	2.26		0	kaikki	1	1	0	1	
+1105	siegreich	siegreicher	siegreiche	siegreiches	siegreichen	2.26		0	kaikki	1	0	0	1	
+1106	basisch	basischer	basische	basisches	basischen	2.25		0	kaikki	0	0	0	1	jargon
+1107	erbaut	erbauter	erbaute	erbautes	erbauten	2.25		0	kaikki	0	0	0	1	ugly_in_sentence
+1108	gewesen	gewesener	gewesene	gewesenes	gewesenen	2.25		0	kaikki+olddict	0	0	0	1	archaic
+1109	marode	maroder	marode	marodes	maroden	2.25	partly_restricted:1/2	0	kaikki	1	0	0	1	
+1110	sinnig	sinniger	sinnige	sinniges	sinnigen	2.25	partly_restricted:2/3	0	kaikki	0	0	0	1	obscure
+1111	torlos	torloser	torlose	torloses	torlosen	2.25		0	kaikki	0	0	0	1	jargon
+1112	universal	universaler	universale	universales	universalen	2.25		0	kaikki	0	0	0	1	jargon
+1113	verkehrt	verkehrter	verkehrte	verkehrtes	verkehrten	2.25		0	kaikki	1	0	1	1	
+1114	wertig	wertiger	wertige	wertiges	wertigen	2.25		0	kaikki	0	0	0	1	jargon
+1115	angeboten	angebotener	angebotene	angebotenes	angebotenen	2.24	freq_shared:noun	0	kaikki	0	0	0	1	ugly_in_sentence
+1116	anmutig	anmutiger	anmutige	anmutiges	anmutigen	2.24		0	kaikki	1	0	1	1	
+1117	aufbauend	aufbauender	aufbauende	aufbauendes	aufbauenden	2.24		0	kaikki	0	0	0	1	ugly_in_sentence
+1118	delikat	delikater	delikate	delikates	delikaten	2.24		0	kaikki	1	0	0	1	
+1119	gehorsam	gehorsamer	gehorsame	gehorsames	gehorsamen	2.24	freq_shared:noun	0	kaikki	1	0	1	1	
+1120	kanadisch	kanadischer	kanadische	kanadisches	kanadischen	2.24	relational	0	kaikki	0	0	0	1	sensitive
+1121	kollegial	kollegialer	kollegiale	kollegiales	kollegialen	2.24		0	kaikki	1	0	1	1	
+1122	mittelbar	mittelbarer	mittelbare	mittelbares	mittelbaren	2.24		0	kaikki	0	0	0	1	jargon
+1123	reaktiv	reaktiver	reaktive	reaktives	reaktiven	2.24		0	kaikki	0	0	0	1	jargon
+1124	senil	seniler	senile	seniles	senilen	2.24		0	kaikki	0	0	0	1	offensive
+1125	surreal	surrealer	surreale	surreales	surrealen	2.24		0	kaikki	1	0	0	1	
+1126	umgebaut	umgebauter	umgebaute	umgebautes	umgebauten	2.24		0	kaikki	0	0	0	1	ugly_in_sentence
+1127	verdreht	verdrehter	verdrehte	verdrehtes	verdrehten	2.24		0	kaikki	1	0	0	1	
+1128	bildend	bildender	bildende	bildendes	bildenden	2.23		0	kaikki	0	0	0	1	ugly_in_sentence
+1129	expressiv	expressiver	expressive	expressives	expressiven	2.23		0	kaikki	0	0	0	1	jargon
+1130	kinderlos	kinderloser	kinderlose	kinderloses	kinderlosen	2.23		0	kaikki	0	0	0	1	sensitive
+1131	machtvoll	machtvoller	machtvolle	machtvolles	machtvollen	2.23		0	kaikki	1	0	0	1	
+1132	qualvoll	qualvoller	qualvolle	qualvolles	qualvollen	2.23		0	kaikki	0	0	0	1	sensitive
+1133	subversiv	subversiver	subversive	subversives	subversiven	2.23		0	kaikki	0	0	0	1	sensitive
+1134	unecht	unechter	unechte	unechtes	unechten	2.23		0	kaikki	1	0	0	1	
+1135	unsauber	unsauberer	unsaubere	unsauberes	unsauberen	2.23		0	kaikki	1	0	1	1	
+1136	entlaufen	entlaufener	entlaufene	entlaufenes	entlaufenen	2.22		0	kaikki	1	0	0	1	
+1137	georgisch	georgischer	georgische	georgisches	georgischen	2.22	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1138	irdisch	irdischer	irdische	irdisches	irdischen	2.22		0	kaikki	0	0	0	1	sensitive
+1139	lass	lasser	lasse	lasses	lassen	2.22		0	kaikki	0	0	0	1	archaic
+1140	leistbar	leistbarer	leistbare	leistbares	leistbaren	2.22	partly_restricted:1/2	0	kaikki	0	0	0	1	regional
+1141	morsch	morscher	morsche	morsches	morschen	2.22		0	kaikki	1	0	0	1	
+1142	pointiert	pointierter	pointierte	pointiertes	pointierten	2.22		0	kaikki	0	0	0	1	obscure
+1143	schal	schaler	schale	schales	schalen	2.22	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1144	sorgsam	sorgsamer	sorgsame	sorgsames	sorgsamen	2.22		0	kaikki	1	0	1	1	
+1145	belebend	belebender	belebende	belebendes	belebenden	2.21		0	kaikki	1	0	0	1	
+1146	boshaft	boshafter	boshafte	boshaftes	boshaften	2.21		0	kaikki	1	0	1	1	
+1147	brach	bracher	brache	braches	brachen	2.21		0	kaikki	0	0	0	0	predicative only
+1148	fahrbar	fahrbarer	fahrbare	fahrbares	fahrbaren	2.21		0	kaikki	0	0	0	1	ugly_in_sentence
+1149	heilsam	heilsamer	heilsame	heilsames	heilsamen	2.21		0	kaikki	1	0	0	1	
+1150	sakral	sakraler	sakrale	sakrales	sakralen	2.21		0	kaikki	0	0	0	1	sensitive
+1151	saniert	sanierter	sanierte	saniertes	sanierten	2.21		0	kaikki	0	0	0	1	ugly_in_sentence
+1152	alkalisch	alkalischer	alkalische	alkalisches	alkalischen	2.2		0	kaikki	0	0	0	1	jargon
+1153	chillig	chilliger	chillige	chilliges	chilligen	2.2	partly_restricted:1/2;colloquial	0	kaikki	1	0	0	1	
+1154	einhellig	einhelliger	einhellige	einhelliges	einhelligen	2.2		0	kaikki	0	0	0	1	obscure
+1155	gekonnt	gekonnter	gekonnte	gekonntes	gekonnten	2.2		0	kaikki	1	0	1	1	
+1156	gereinigt	gereinigter	gereinigte	gereinigtes	gereinigten	2.2		0	kaikki	0	0	0	1	ugly_in_sentence
+1157	gottlos	gottloser	gottlose	gottloses	gottlosen	2.2	derogatory:2/3	0	kaikki	0	0	0	1	sensitive
+1158	listig	listiger	listige	listiges	listigen	2.2		0	kaikki+olddict	1	1	1	1	
+1159	metallen	metallener	metallene	metallenes	metallenen	2.2	nom_m_variants:metallener|metallner;nom_f_variants:metallene|metallne;nom_n_variants:metallenes|metallnes;acc_m_variants:metallenen|metallnen;freq_shared:noun	0	kaikki	0	0	0	1	obscure
+1160	rosig	rosiger	rosige	rosiges	rosigen	2.2		0	kaikki	1	1	0	1	
+1161	seriell	serieller	serielle	serielles	seriellen	2.2		0	kaikki	0	0	0	1	jargon
+1162	unbebaut	unbebauter	unbebaute	unbebautes	unbebauten	2.2		0	kaikki+olddict	0	0	0	1	jargon
+1163	akkurat	akkurater	akkurate	akkurates	akkuraten	2.19		0	kaikki+olddict	1	0	1	1	
+1164	angegeben	angegebener	angegebene	angegebenes	angegebenen	2.19		0	kaikki	0	0	0	1	ugly_in_sentence
+1165	gefordert	geforderter	geforderte	gefordertes	geforderten	2.19		0	kaikki	0	0	0	1	ugly_in_sentence
+1166	kanonisch	kanonischer	kanonische	kanonisches	kanonischen	2.19		0	kaikki	0	0	0	1	jargon
+1167	leblos	lebloser	leblose	lebloses	leblosen	2.19		0	kaikki	0	0	0	1	sensitive
+1168	leidig	leidiger	leidige	leidiges	leidigen	2.19		0	kaikki	0	0	0	1	obscure
+1169	repressiv	repressiver	repressive	repressives	repressiven	2.19		0	kaikki	0	0	0	1	sensitive
+1170	schwammig	schwammiger	schwammige	schwammiges	schwammigen	2.19		0	kaikki	1	0	0	1	
+1171	vergeben	vergebener	vergebene	vergebenes	vergebenen	2.19	freq_shared:noun	0	kaikki+olddict	0	0	0	1	ambiguous
+1172	verkommen	verkommener	verkommene	verkommenes	verkommenen	2.19	freq_shared:noun	0	kaikki	0	0	0	1	negative
+1173	anwendbar	anwendbarer	anwendbare	anwendbares	anwendbaren	2.18		0	kaikki	0	0	0	1	jargon
+1174	ehelich	ehelicher	eheliche	eheliches	ehelichen	2.18		0	kaikki	0	0	0	1	sensitive
+1175	eilig	eiliger	eilige	eiliges	eiligen	2.18		0	kaikki	1	0	1	1	
+1176	emsig	emsiger	emsige	emsiges	emsigen	2.18		0	kaikki	1	0	1	1	
+1177	gestanden	gestandener	gestandene	gestandenes	gestandenen	2.18		0	kaikki	0	0	0	1	ambiguous
+1178	impulsiv	impulsiver	impulsive	impulsives	impulsiven	2.18		0	kaikki	1	0	1	1	
+1179	massig	massiger	massige	massiges	massigen	2.18		0	kaikki	1	0	0	1	
+1180	nahrhaft	nahrhafter	nahrhafte	nahrhaftes	nahrhaften	2.18		0	kaikki	1	0	0	1	
+1181	staubig	staubiger	staubige	staubiges	staubigen	2.18		0	kaikki	1	1	0	1	
+1182	stet	steter	stete	stetes	steten	2.18		0	kaikki	0	0	0	1	archaic
+1183	umwerfend	umwerfender	umwerfende	umwerfendes	umwerfenden	2.18		0	kaikki	1	0	1	1	
+1184	verwegen	verwegener	verwegene	verwegenes	verwegenen	2.18		0	kaikki	1	0	1	1	
+1185	abwertend	abwertender	abwertende	abwertendes	abwertenden	2.17		0	kaikki	0	0	0	1	ugly_in_sentence
+1186	geachtet	geachteter	geachtete	geachtetes	geachteten	2.17		0	kaikki	0	0	0	1	ugly_in_sentence
+1187	gegossen	gegossener	gegossene	gegossenes	gegossenen	2.17		0	kaikki	0	0	0	1	ugly_in_sentence
+1188	induktiv	induktiver	induktive	induktives	induktiven	2.17		0	kaikki	0	0	0	1	jargon
+1189	maskulin	maskuliner	maskuline	maskulines	maskulinen	2.17	partly_restricted:1/3	0	kaikki	0	0	0	1	sensitive
+1190	sandig	sandiger	sandige	sandiges	sandigen	2.17		0	kaikki	1	1	0	1	
+1191	stockend	stockender	stockende	stockendes	stockenden	2.17		0	kaikki	0	0	0	1	ugly_in_sentence
+1192	abnehmbar	abnehmbarer	abnehmbare	abnehmbares	abnehmbaren	2.16		0	kaikki	0	0	0	1	ugly_in_sentence
+1193	anal	analer	anale	anales	analen	2.16		0	kaikki	0	0	0	1	sensitive
+1194	ausladend	ausladender	ausladende	ausladendes	ausladenden	2.16		0	kaikki	0	0	0	1	obscure
+1195	axial	axialer	axiale	axiales	axialen	2.16		0	kaikki	0	0	0	1	jargon
+1196	denkbar	denkbarer	denkbare	denkbares	denkbaren	2.16		0	kaikki	0	0	0	1	ugly_in_sentence
+1197	felsig	felsiger	felsige	felsiges	felsigen	2.16		0	kaikki	1	1	0	1	
+1198	gesinnt	gesinnter	gesinnte	gesinntes	gesinnten	2.16		0	kaikki	0	0	0	0	predicative only
+1199	gutartig	gutartiger	gutartige	gutartiges	gutartigen	2.16		0	kaikki	0	0	0	1	sensitive
+1200	hellbraun	hellbrauner	hellbraune	hellbraunes	hellbraunen	2.16	freq_shared:noun	0	kaikki	1	1	0	1	
+1201	kolossal	kolossaler	kolossale	kolossales	kolossalen	2.16		0	kaikki	1	0	0	1	
+1202	ledig	lediger	ledige	lediges	ledigen	2.16	partly_restricted:2/5	0	kaikki	0	0	0	1	sensitive
+1203	mollig	molliger	mollige	molliges	molligen	2.16		0	kaikki	1	0	0	1	
+1204	rotbraun	rotbrauner	rotbraune	rotbraunes	rotbraunen	2.16	freq_shared:noun	0	kaikki	1	1	0	1	
+1205	simuliert	simulierter	simulierte	simuliertes	simulierten	2.16		0	kaikki	0	0	0	1	ugly_in_sentence
+1206	strittig	strittiger	strittige	strittiges	strittigen	2.16		0	kaikki	0	0	0	1	ugly_in_sentence
+1207	wohltuend	wohltuender	wohltuende	wohltuendes	wohltuenden	2.16		0	kaikki	1	0	0	1	
+1208	besiedelt	besiedelter	besiedelte	besiedeltes	besiedelten	2.15		0	kaikki	0	0	0	1	ugly_in_sentence
+1209	extensiv	extensiver	extensive	extensives	extensiven	2.15		0	kaikki	0	0	0	1	jargon
+1210	friedvoll	friedvoller	friedvolle	friedvolles	friedvollen	2.15		0	kaikki	1	0	1	1	
+1211	galant	galanter	galante	galantes	galanten	2.15		0	kaikki	1	0	1	1	
+1212	heillos	heilloser	heillose	heilloses	heillosen	2.15		0	kaikki	0	0	0	1	ugly_in_sentence
+1213	mittellos	mittelloser	mittellose	mittelloses	mittellosen	2.15		0	kaikki	0	0	0	1	sensitive
+1214	schroff	schroffer	schroffe	schroffes	schroffen	2.15		0	kaikki	1	0	1	1	
+1215	tagelang	tagelanger	tagelange	tagelanges	tagelangen	2.15		0	kaikki	0	0	0	1	ugly_in_sentence
+1216	unscharf	unscharfer	unscharfe	unscharfes	unscharfen	2.15		0	kaikki	1	0	0	1	
+1217	verworren	verworrener	verworrene	verworrenes	verworrenen	2.15		0	kaikki	1	0	0	1	
+1218	akribisch	akribischer	akribische	akribisches	akribischen	2.14		0	kaikki	1	0	1	1	
+1219	autofrei	autofreier	autofreie	autofreies	autofreien	2.14		0	kaikki	0	0	0	1	ugly_in_sentence
+1220	betont	betonter	betonte	betontes	betonten	2.14		0	kaikki	0	0	0	1	ambiguous
+1221	fehlend	fehlender	fehlende	fehlendes	fehlenden	2.14		0	kaikki	0	0	0	1	ugly_in_sentence
+1222	flau	flauer	flaue	flaues	flauen	2.14		0	kaikki	1	0	0	1	
+1223	geldwert	geldwerter	geldwerte	geldwertes	geldwerten	2.14	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+1224	gerieben	geriebener	geriebene	geriebenes	geriebenen	2.14		0	kaikki	1	0	0	1	
+1225	irakisch	irakischer	irakische	irakisches	irakischen	2.14	relational	0	kaikki	0	0	0	1	sensitive
+1226	lockig	lockiger	lockige	lockiges	lockigen	2.14		0	kaikki	1	1	0	1	
+1227	manifest	manifester	manifeste	manifestes	manifesten	2.14	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+1228	obskur	obskurer	obskure	obskures	obskuren	2.14		0	kaikki	1	0	0	1	
+1229	vorgelegt	vorgelegter	vorgelegte	vorgelegtes	vorgelegten	2.14		0	kaikki	0	0	0	1	ugly_in_sentence
+1230	abstrus	abstruser	abstruse	abstruses	abstrusen	2.13	partly_restricted:1/2	0	kaikki	0	0	0	1	obscure
+1231	angeregt	angeregter	angeregte	angeregtes	angeregten	2.13		0	kaikki	1	0	1	1	
+1232	bieder	biederer	biedere	biederes	biederen	2.13	derogatory:2/4;partly_restricted:1/4	0	kaikki	1	0	0	1	
+1233	bildlich	bildlicher	bildliche	bildliches	bildlichen	2.13		0	kaikki	0	0	0	1	ugly_in_sentence
+1234	dienend	dienender	dienende	dienendes	dienenden	2.13		0	kaikki	0	0	0	1	ugly_in_sentence
+1235	feudal	feudaler	feudale	feudales	feudalen	2.13		0	kaikki	0	0	0	1	sensitive
+1236	fraglich	fraglicher	fragliche	fragliches	fraglichen	2.13		0	kaikki	0	0	0	1	ugly_in_sentence
+1237	gewandt	gewandter	gewandte	gewandtes	gewandten	2.13		0	kaikki	1	0	1	1	
+1238	heilend	heilender	heilende	heilendes	heilenden	2.13		0	kaikki	1	0	0	1	
+1239	lesend	lesender	lesende	lesendes	lesenden	2.13		0	kaikki	1	0	0	1	
+1240	pastoral	pastoraler	pastorale	pastorales	pastoralen	2.13		0	kaikki	0	0	0	1	sensitive
+1241	penetrant	penetranter	penetrante	penetrantes	penetranten	2.13		0	kaikki	1	0	1	1	
+1242	schadhaft	schadhafter	schadhafte	schadhaftes	schadhaften	2.13		0	kaikki	0	0	0	1	jargon
+1243	unbedacht	unbedachter	unbedachte	unbedachtes	unbedachten	2.13	partly_restricted:1/2	0	kaikki	1	0	1	1	
+1244	unhaltbar	unhaltbarer	unhaltbare	unhaltbares	unhaltbaren	2.13		0	kaikki	0	0	0	1	ugly_in_sentence
+1245	unwahr	unwahrer	unwahre	unwahres	unwahren	2.13		0	kaikki	0	0	0	1	ugly_in_sentence
+1246	verfallen	verfallener	verfallene	verfallenes	verfallenen	2.13	freq_shared:noun	0	kaikki	1	0	0	1	
+1247	additiv	additiver	additive	additives	additiven	2.12	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+1248	beredt	beredter	beredte	beredtes	beredten	2.12		0	kaikki	0	0	0	1	obscure
+1249	gelaunt	gelaunter	gelaunte	gelauntes	gelaunten	2.12		0	kaikki	0	0	0	0	needs modifier (gut gelaunt)
+1250	gemeldet	gemeldeter	gemeldete	gemeldetes	gemeldeten	2.12		0	kaikki	0	0	0	1	ugly_in_sentence
+1251	konform	konformer	konforme	konformes	konformen	2.12		0	kaikki	0	0	0	1	jargon
+1252	kundig	kundiger	kundige	kundiges	kundigen	2.12		0	kaikki	0	0	0	1	obscure
+1253	notariell	notarieller	notarielle	notarielles	notariellen	2.12		0	kaikki	0	0	0	1	jargon
+1254	ruppig	ruppiger	ruppige	ruppiges	ruppigen	2.12		0	kaikki	1	0	1	1	
+1255	solar	solarer	solare	solares	solaren	2.12		0	kaikki	0	0	0	1	jargon
+1256	abgedreht	abgedrehter	abgedrehte	abgedrehtes	abgedrehten	2.11	partly_restricted:1/2;colloquial	0	kaikki	1	0	0	1	
+1257	abwegig	abwegiger	abwegige	abwegiges	abwegigen	2.11		0	kaikki	0	0	0	1	ugly_in_sentence
+1258	angesagt	angesagter	angesagte	angesagtes	angesagten	2.11		0	kaikki	1	0	0	1	
+1259	frivol	frivoler	frivole	frivoles	frivolen	2.11	partly_restricted:1/2	0	kaikki	0	0	0	1	sensitive
+1260	gangbar	gangbarer	gangbare	gangbares	gangbaren	2.11		0	kaikki	0	0	0	1	obscure
+1261	gestresst	gestresster	gestresste	gestresstes	gestressten	2.11		0	kaikki	1	0	1	1	
+1262	kubisch	kubischer	kubische	kubisches	kubischen	2.11		0	kaikki	0	0	0	1	jargon
+1263	lausig	lausiger	lausige	lausiges	lausigen	2.11		0	kaikki	1	0	0	1	
+1264	schlampig	schlampiger	schlampige	schlampiges	schlampigen	2.11		0	kaikki	1	0	1	1	
+1265	steirisch	steirischer	steirische	steirisches	steirischen	2.11	relational	0	kaikki	0	0	0	1	regional
+1266	unlustig	unlustiger	unlustige	unlustiges	unlustigen	2.11		0	kaikki	1	0	1	1	
+1267	verklemmt	verklemmter	verklemmte	verklemmtes	verklemmten	2.11		0	kaikki	0	0	0	1	sensitive
+1268	widrig	widriger	widrige	widriges	widrigen	2.11		0	kaikki	0	0	0	1	ugly_in_sentence
+1269	biegsam	biegsamer	biegsame	biegsames	biegsamen	2.1		0	kaikki	1	0	0	1	
+1270	existent	existenter	existente	existentes	existenten	2.1		0	kaikki	0	0	0	1	jargon
+1271	famos	famoser	famose	famoses	famosen	2.1	colloquial	0	kaikki	1	0	1	1	
+1272	fettarm	fettarmer	fettarme	fettarmes	fettarmen	2.1		0	kaikki	1	0	0	1	
+1273	holprig	holpriger	holprige	holpriges	holprigen	2.1		0	kaikki	1	0	1	1	
+1274	kosmisch	kosmischer	kosmische	kosmisches	kosmischen	2.1		0	kaikki	1	0	0	1	
+1275	rassig	rassiger	rassige	rassiges	rassigen	2.1		0	kaikki	0	0	0	1	sensitive
+1276	rigide	rigider	rigide	rigides	rigiden	2.1		0	kaikki	0	0	0	1	jargon
+1277	verirrt	verirrter	verirrte	verirrtes	verirrten	2.1		0	kaikki	1	0	0	1	
+1278	atemlos	atemloser	atemlose	atemloses	atemlosen	2.09		0	kaikki	1	0	1	1	
+1279	brachial	brachialer	brachiale	brachiales	brachialen	2.09		0	kaikki	0	0	0	1	sensitive
+1280	fiktional	fiktionaler	fiktionale	fiktionales	fiktionalen	2.09		0	kaikki	0	0	0	1	jargon
+1281	formlos	formloser	formlose	formloses	formlosen	2.09		0	kaikki	0	0	0	1	ugly_in_sentence
+1282	furios	furioser	furiose	furioses	furiosen	2.09		0	kaikki+olddict	1	0	1	1	
+1283	getroffen	getroffener	getroffene	getroffenes	getroffenen	2.09		0	kaikki	0	0	0	1	ugly_in_sentence
+1284	prunkvoll	prunkvoller	prunkvolle	prunkvolles	prunkvollen	2.09		0	kaikki	1	0	0	1	
+1285	sehnlich	sehnlicher	sehnliche	sehnliches	sehnlichen	2.09		0	kaikki	0	0	0	1	obscure
+1286	begnadet	begnadeter	begnadete	begnadetes	begnadeten	2.08		0	kaikki	1	0	0	1	
+1287	bereinigt	bereinigter	bereinigte	bereinigtes	bereinigten	2.08		0	kaikki	0	0	0	1	jargon
+1288	empfohlen	empfohlener	empfohlene	empfohlenes	empfohlenen	2.08		0	kaikki	0	0	0	1	ugly_in_sentence
+1289	gedrungen	gedrungener	gedrungene	gedrungenes	gedrungenen	2.08		0	kaikki	1	0	0	1	
+1290	hehr	hehrer	hehre	hehres	hehren	2.08		0	kaikki	0	0	0	1	archaic
+1291	lame	lamer	lame	lames	lamen	2.08	colloquial	0	kaikki	0	0	0	0	loanword; wrong_form
+1292	renoviert	renovierter	renovierte	renoviertes	renovierten	2.08		0	kaikki	1	0	0	1	
+1293	sichtlich	sichtlicher	sichtliche	sichtliches	sichtlichen	2.08		0	kaikki	0	0	0	1	ugly_in_sentence
+1294	wehrlos	wehrloser	wehrlose	wehrloses	wehrlosen	2.08		0	kaikki	0	0	0	1	negative
+1295	astrein	astreiner	astreine	astreines	astreinen	2.07	partly_restricted:1/2	0	kaikki	1	0	0	1	
+1296	berufen	berufener	berufene	berufenes	berufenen	2.07	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1297	koscher	koscherer	koschere	koscheres	koscheren	2.07		0	kaikki	0	0	0	1	sensitive
+1298	mutwillig	mutwilliger	mutwillige	mutwilliges	mutwilligen	2.07		0	kaikki	0	0	0	1	negative
+1299	tibetisch	tibetischer	tibetische	tibetisches	tibetischen	2.07	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1300	unehrlich	unehrlicher	unehrliche	unehrliches	unehrlichen	2.07		0	kaikki	1	0	0	1	
+1301	ungerade	ungerader	ungerade	ungerades	ungeraden	2.07		0	kaikki	1	0	0	1	
+1302	verkohlt	verkohlter	verkohlte	verkohltes	verkohlten	2.07		0	kaikki	1	0	0	1	
+1303	verrucht	verruchter	verruchte	verruchtes	verruchten	2.07		0	kaikki	0	0	0	1	sensitive
+1304	basal	basaler	basale	basales	basalen	2.06		0	kaikki	0	0	0	1	jargon
+1305	bewaldet	bewaldeter	bewaldete	bewaldetes	bewaldeten	2.06		0	kaikki	1	0	0	1	
+1306	garstig	garstiger	garstige	garstiges	garstigen	2.06		0	kaikki	1	0	1	1	
+1307	gesittet	gesitteter	gesittete	gesittetes	gesitteten	2.06		0	kaikki	1	0	1	1	
+1308	lettisch	lettischer	lettische	lettisches	lettischen	2.06	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1309	plakativ	plakativer	plakative	plakatives	plakativen	2.06		0	kaikki	0	0	0	1	jargon
+1310	punktuell	punktueller	punktuelle	punktuelles	punktuellen	2.06		0	kaikki	0	0	0	1	jargon
+1311	rastlos	rastloser	rastlose	rastloses	rastlosen	2.06		0	kaikki	1	0	1	1	
+1312	redlich	redlicher	redliche	redliches	redlichen	2.06		0	kaikki	1	0	1	1	
+1313	sinnfrei	sinnfreier	sinnfreie	sinnfreies	sinnfreien	2.06		0	kaikki	0	0	0	1	ugly_in_sentence
+1314	unbemannt	unbemannter	unbemannte	unbemanntes	unbemannten	2.06		0	kaikki	0	0	0	1	jargon
+1315	undicht	undichter	undichte	undichtes	undichten	2.06		0	kaikki	1	0	0	1	
+1316	waghalsig	waghalsiger	waghalsige	waghalsiges	waghalsigen	2.06		0	kaikki	1	0	1	1	
+1317	bildhaft	bildhafter	bildhafte	bildhaftes	bildhaften	2.05		0	kaikki	0	0	0	1	ugly_in_sentence
+1318	datiert	datierter	datierte	datiertes	datierten	2.05		0	kaikki	0	0	0	1	ugly_in_sentence
+1319	dunkelrot	dunkelroter	dunkelrote	dunkelrotes	dunkelroten	2.05	freq_shared:noun	0	kaikki	1	1	0	1	
+1320	fragend	fragender	fragende	fragendes	fragenden	2.05		0	kaikki+olddict	1	0	1	1	
+1321	frostig	frostiger	frostige	frostiges	frostigen	2.05		0	kaikki	1	1	0	1	
+1322	kapital	kapitaler	kapitale	kapitales	kapitalen	2.05	freq_shared:name,noun	0	kaikki	0	0	0	1	ambiguous
+1323	mause	mauser	mause	mauses	mausen	2.05		0	kaikki	0	0	0	0	wrong_form; not an attributive adjective
+1324	nahtlos	nahtloser	nahtlose	nahtloses	nahtlosen	2.05		0	kaikki	1	0	0	1	
+1325	rauchig	rauchiger	rauchige	rauchiges	rauchigen	2.05		0	kaikki	1	0	0	1	
+1326	sensitiv	sensitiver	sensitive	sensitives	sensitiven	2.05		0	kaikki	0	0	0	1	jargon
+1327	arglistig	arglistiger	arglistige	arglistiges	arglistigen	2.04		0	kaikki	0	0	0	1	jargon
+1328	beruhend	beruhender	beruhende	beruhendes	beruhenden	2.04		0	kaikki	0	0	0	1	ugly_in_sentence
+1329	fleischig	fleischiger	fleischige	fleischiges	fleischigen	2.04		0	kaikki	1	0	0	1	
+1330	glasklar	glasklarer	glasklare	glasklares	glasklaren	2.04		0	kaikki	1	0	0	1	
+1331	leger	legerer	legere	legeres	legeren	2.04	freq_shared:noun	0	kaikki	1	0	1	1	
+1332	musisch	musischer	musische	musisches	musischen	2.04	relational	0	kaikki	0	0	0	1	obscure
+1333	notgeil	notgeiler	notgeile	notgeiles	notgeilen	2.04	vulgar:1/1;derogatory:1/1;colloquial	0	kaikki	0	0	0	1	offensive
+1334	redundant	redundanter	redundante	redundantes	redundanten	2.04		0	kaikki	0	0	0	1	jargon
+1335	sorbisch	sorbischer	sorbische	sorbisches	sorbischen	2.04	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1336	spielbar	spielbarer	spielbare	spielbares	spielbaren	2.04		0	kaikki	0	0	0	1	ugly_in_sentence
+1337	trefflich	trefflicher	treffliche	treffliches	trefflichen	2.04		0	kaikki	0	0	0	1	archaic
+1338	unstet	unsteter	unstete	unstetes	unsteten	2.04	partly_restricted:1/2	0	kaikki	0	0	0	1	obscure
+1339	ablehnend	ablehnender	ablehnende	ablehnendes	ablehnenden	2.03		0	kaikki	0	0	0	1	ugly_in_sentence
+1340	dampfend	dampfender	dampfende	dampfendes	dampfenden	2.03		0	kaikki	1	1	0	1	
+1341	dotiert	dotierter	dotierte	dotiertes	dotierten	2.03		0	kaikki	0	0	0	1	jargon
+1342	durstig	durstiger	durstige	durstiges	durstigen	2.03		1	kaikki	1	1	0	1	
+1343	ebenerdig	ebenerdiger	ebenerdige	ebenerdiges	ebenerdigen	2.03		0	kaikki	0	0	0	1	jargon
+1344	erdig	erdiger	erdige	erdiges	erdigen	2.03		0	kaikki	1	0	0	1	
+1345	gemessen	gemessener	gemessene	gemessenes	gemessenen	2.03		0	kaikki	0	0	0	1	ambiguous
+1346	gewellt	gewellter	gewellte	gewelltes	gewellten	2.03		0	kaikki	1	0	0	1	
+1347	seelenlos	seelenloser	seelenlose	seelenloses	seelenlosen	2.03		0	kaikki	0	0	0	1	negative
+1348	weltfremd	weltfremder	weltfremde	weltfremdes	weltfremden	2.03		0	kaikki	1	0	0	1	
+1349	abgegeben	abgegebener	abgegebene	abgegebenes	abgegebenen	2.02		0	kaikki	0	0	0	1	ugly_in_sentence
+1350	erbaulich	erbaulicher	erbauliche	erbauliches	erbaulichen	2.02		0	kaikki	0	0	0	1	archaic
+1351	gefleckt	gefleckter	gefleckte	geflecktes	gefleckten	2.02		0	kaikki	1	1	0	1	
+1352	gekoppelt	gekoppelter	gekoppelte	gekoppeltes	gekoppelten	2.02		0	kaikki	0	0	0	1	jargon
+1353	geliefert	gelieferter	gelieferte	geliefertes	gelieferten	2.02		0	kaikki+olddict	0	0	0	1	ugly_in_sentence
+1354	irrsinnig	irrsinniger	irrsinnige	irrsinniges	irrsinnigen	2.02		0	kaikki	0	0	0	1	sensitive
+1355	jiddisch	jiddischer	jiddische	jiddisches	jiddischen	2.02	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1356	krude	kruder	krude	krudes	kruden	2.02		0	kaikki	0	0	0	1	obscure
+1357	unbeugsam	unbeugsamer	unbeugsame	unbeugsames	unbeugsamen	2.02		0	kaikki	1	0	0	1	
+1358	untot	untoter	untote	untotes	untoten	2.02		0	kaikki	0	0	0	1	sensitive
+1359	verhasst	verhasster	verhasste	verhasstes	verhassten	2.02		0	kaikki	0	0	0	1	negative
+1360	verwaist	verwaister	verwaiste	verwaistes	verwaisten	2.02		0	kaikki	0	0	0	1	sensitive
+1361	bilingual	bilingualer	bilinguale	bilinguales	bilingualen	2.01		0	kaikki	0	0	0	1	jargon
+1362	feuerfest	feuerfester	feuerfeste	feuerfestes	feuerfesten	2.01		0	kaikki	1	0	0	1	
+1363	furchtlos	furchtloser	furchtlose	furchtloses	furchtlosen	2.01		0	kaikki	1	1	1	1	
+1364	hellgrau	hellgrauer	hellgraue	hellgraues	hellgrauen	2.01	freq_shared:noun	0	kaikki	1	1	0	1	
+1365	knallrot	knallroter	knallrote	knallrotes	knallroten	2.01		0	kaikki	1	1	0	1	
+1366	kopflos	kopfloser	kopflose	kopfloses	kopflosen	2.01		0	kaikki	1	0	1	1	
+1367	mickrig	mickriger	mickrige	mickriges	mickrigen	2.01		0	kaikki	1	0	0	1	
+1368	museal	musealer	museale	museales	musealen	2.01	relational	0	kaikki	0	0	0	1	jargon
+1369	stupide	stupider	stupide	stupides	stupiden	2.01		0	kaikki	0	0	0	1	negative
+1370	wohnlich	wohnlicher	wohnliche	wohnliches	wohnlichen	2.01		0	kaikki	1	0	0	1	
+1371	abnormal	abnormaler	abnormale	abnormales	abnormalen	2.0		0	kaikki	0	0	0	1	sensitive
+1372	eloquent	eloquenter	eloquente	eloquentes	eloquenten	2.0		0	kaikki	1	0	1	1	
+1373	polar	polarer	polare	polares	polaren	2.0		0	kaikki	0	0	0	1	ambiguous
+1374	sogenannt	sogenannter	sogenannte	sogenanntes	sogenannten	2.0		0	kaikki	0	0	0	1	function_word
+1375	stier	stierer	stiere	stieres	stieren	2.0	freq_shared:name,noun	0	kaikki	0	0	0	1	regional
+1376	sumpfig	sumpfiger	sumpfige	sumpfiges	sumpfigen	2.0		0	kaikki	1	1	0	1	
+1377	versunken	versunkener	versunkene	versunkenes	versunkenen	2.0		0	kaikki	1	0	0	1	
+1378	vorlaut	vorlauter	vorlaute	vorlautes	vorlauten	2.0		0	kaikki	1	0	0	1	
+1379	willenlos	willenloser	willenlose	willenloses	willenlosen	2.0		0	kaikki	0	0	0	1	negative
+1380	abgehoben	abgehobener	abgehobene	abgehobenes	abgehobenen	1.99	derogatory:1/1	0	kaikki	0	0	0	1	negative
+1381	entstellt	entstellter	entstellte	entstelltes	entstellten	1.99		0	kaikki	0	0	0	1	sensitive
+1382	farblich	farblicher	farbliche	farbliches	farblichen	1.99	relational	0	kaikki	0	0	0	1	ugly_in_sentence
+1383	fassbar	fassbarer	fassbare	fassbares	fassbaren	1.99		0	kaikki	0	0	0	1	ugly_in_sentence
+1384	findig	findiger	findige	findiges	findigen	1.99		0	kaikki	1	0	0	1	
+1385	hastig	hastiger	hastige	hastiges	hastigen	1.99		0	kaikki	1	0	1	1	
+1386	heimelig	heimeliger	heimelige	heimeliges	heimeligen	1.99		0	kaikki+olddict	1	0	0	1	
+1387	leiblich	leiblicher	leibliche	leibliches	leiblichen	1.99		0	kaikki	0	0	0	1	ugly_in_sentence
+1388	marginal	marginaler	marginale	marginales	marginalen	1.99		0	kaikki	0	0	0	1	jargon
+1389	proaktiv	proaktiver	proaktive	proaktives	proaktiven	1.99		0	kaikki	0	0	0	1	jargon
+1390	rabiat	rabiater	rabiate	rabiates	rabiaten	1.99		0	kaikki	0	0	0	1	negative
+1391	temporal	temporaler	temporale	temporales	temporalen	1.99		0	kaikki	0	0	0	1	jargon
+1392	vaginal	vaginaler	vaginale	vaginales	vaginalen	1.99	no_predicative_form	0	kaikki	0	0	0	1	sensitive
+1393	adult	adulter	adulte	adultes	adulten	1.98		0	kaikki	0	0	0	1	jargon
+1394	affin	affiner	affine	affines	affinen	1.98		0	kaikki	0	0	0	1	jargon
+1395	bairisch	bairischer	bairische	bairisches	bairischen	1.98	partly_restricted:1/3;freq_shared:name	0	kaikki	0	0	0	1	regional
+1396	beleidigt	beleidigter	beleidigte	beleidigtes	beleidigten	1.98		0	kaikki	1	0	1	1	
+1397	goldig	goldiger	goldige	goldiges	goldigen	1.98		0	kaikki	1	1	0	1	
+1398	lautlos	lautloser	lautlose	lautloses	lautlosen	1.98		0	kaikki	1	1	1	1	
+1399	manisch	manischer	manische	manisches	manischen	1.98		0	kaikki	0	0	0	1	sensitive
+1400	tradiert	tradierter	tradierte	tradiertes	tradierten	1.98		0	kaikki	0	0	0	1	jargon
+1401	unheilbar	unheilbarer	unheilbare	unheilbares	unheilbaren	1.98		0	kaikki	0	0	0	1	sensitive
+1402	untreu	untreuer	untreue	untreues	untreuen	1.98		0	kaikki	0	0	0	1	sensitive
+1403	beritten	berittener	berittene	berittenes	berittenen	1.97		0	kaikki	0	0	0	1	obscure
+1404	betagt	betagter	betagte	betagtes	betagten	1.97		0	kaikki	1	0	0	1	
+1405	ermittelt	ermittelter	ermittelte	ermitteltes	ermittelten	1.97		0	kaikki	0	0	0	1	ugly_in_sentence
+1406	geartet	gearteter	geartete	geartetes	gearteten	1.97		0	kaikki	0	0	0	0	needs modifier
+1407	geruchlos	geruchloser	geruchlose	geruchloses	geruchlosen	1.97		0	kaikki	1	0	0	1	
+1408	gewieft	gewiefter	gewiefte	gewieftes	gewieften	1.97		0	kaikki	1	0	0	1	
+1409	haltlos	haltloser	haltlose	haltloses	haltlosen	1.97		0	kaikki	0	0	0	1	ugly_in_sentence
+1410	innerlich	innerlicher	innerliche	innerliches	innerlichen	1.97		0	kaikki	0	0	0	1	ugly_in_sentence
+1411	invers	inverser	inverse	inverses	inversen	1.97		0	kaikki	0	0	0	1	jargon
+1412	kantonal	kantonaler	kantonale	kantonales	kantonalen	1.97		0	kaikki	0	0	0	1	regional
+1413	keck	kecker	kecke	keckes	kecken	1.97		0	kaikki	1	0	1	1	
+1414	kongenial	kongenialer	kongeniale	kongeniales	kongenialen	1.97		0	kaikki	0	0	0	1	obscure
+1415	patent	patenter	patente	patentes	patenten	1.97	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1416	radial	radialer	radiale	radiales	radialen	1.97		0	kaikki	0	0	0	1	jargon
+1417	seiden	seidener	seidene	seidenes	seidenen	1.97	nom_m_variants:seidener|seidner;nom_f_variants:seidene|seidne;nom_n_variants:seidenes|seidnes;acc_m_variants:seidenen|seidnen;freq_shared:noun	0	kaikki	0	0	0	1	obscure
+1418	vegetativ	vegetativer	vegetative	vegetatives	vegetativen	1.97		0	kaikki	0	0	0	1	jargon
+1419	verstopft	verstopfter	verstopfte	verstopftes	verstopften	1.97		0	kaikki+olddict	0	0	0	1	embarrassing
+1420	wahrhaft	wahrhafter	wahrhafte	wahrhaftes	wahrhaften	1.97		0	kaikki	0	0	0	1	archaic
+1421	asketisch	asketischer	asketische	asketisches	asketischen	1.96		0	kaikki	0	0	0	1	obscure
+1422	ererbt	ererbter	ererbte	ererbtes	ererbten	1.96		0	kaikki	0	0	0	1	archaic
+1423	fidel	fideler	fidele	fideles	fidelen	1.96	freq_shared:noun	0	kaikki	1	0	0	1	
+1424	tunesisch	tunesischer	tunesische	tunesisches	tunesischen	1.96	relational	0	kaikki	0	0	0	1	sensitive
+1425	ungeahnt	ungeahnter	ungeahnte	ungeahntes	ungeahnten	1.96		0	kaikki	1	0	0	1	
+1426	verlegt	verlegter	verlegte	verlegtes	verlegten	1.96		0	kaikki	0	0	0	1	ugly_in_sentence
+1427	adaptiv	adaptiver	adaptive	adaptives	adaptiven	1.95		0	kaikki	0	0	0	1	jargon
+1428	bergig	bergiger	bergige	bergiges	bergigen	1.95		0	kaikki	1	1	0	1	
+1429	dekadent	dekadenter	dekadente	dekadentes	dekadenten	1.95		0	kaikki	1	0	0	1	
+1430	gebracht	gebrachter	gebrachte	gebrachtes	gebrachten	1.95		0	kaikki	0	0	0	1	ugly_in_sentence
+1431	gefesselt	gefesselter	gefesselte	gefesseltes	gefesselten	1.95		0	kaikki	0	0	0	1	sensitive
+1432	konvex	konvexer	konvexe	konvexes	konvexen	1.95		0	kaikki	0	0	0	1	jargon
+1433	merklich	merklicher	merkliche	merkliches	merklichen	1.95		0	kaikki	0	0	0	1	ugly_in_sentence
+1434	reiflich	reiflicher	reifliche	reifliches	reiflichen	1.95		0	kaikki	0	0	0	1	obscure
+1435	schneidig	schneidiger	schneidige	schneidiges	schneidigen	1.95		0	kaikki	1	0	0	1	
+1436	stringent	stringenter	stringente	stringentes	stringenten	1.95		0	kaikki+olddict	0	0	0	1	jargon
+1437	trendig	trendiger	trendige	trendiges	trendigen	1.95		0	kaikki	1	0	0	1	
+1438	unfehlbar	unfehlbarer	unfehlbare	unfehlbares	unfehlbaren	1.95		0	kaikki	0	0	0	1	sensitive
+1439	belesen	belesener	belesene	belesenes	belesenen	1.94	nom_m_variants:belesener|belesner;nom_f_variants:belesene|belesne;nom_n_variants:belesenes|belesnes;acc_m_variants:belesenen|belesnen	0	kaikki	1	0	0	1	
+1440	blutrot	blutroter	blutrote	blutrotes	blutroten	1.94	freq_shared:noun	0	kaikki	1	0	0	1	
+1441	faltbar	faltbarer	faltbare	faltbares	faltbaren	1.94		0	kaikki	1	0	0	1	
+1442	geworfen	geworfener	geworfene	geworfenes	geworfenen	1.94		0	kaikki	0	0	0	1	ugly_in_sentence
+1443	grundlos	grundloser	grundlose	grundloses	grundlosen	1.94	partly_restricted:1/2	0	kaikki	0	0	0	1	ugly_in_sentence
+1444	halbnackt	halbnackter	halbnackte	halbnacktes	halbnackten	1.94		0	kaikki	0	0	0	1	sensitive
+1445	lateral	lateraler	laterale	laterales	lateralen	1.94	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+1446	morbid	morbider	morbide	morbides	morbiden	1.94		0	kaikki	0	0	0	1	sensitive
+1447	obig	obiger	obige	obiges	obigen	1.94		0	kaikki	0	0	0	1	function_word
+1448	quirlig	quirliger	quirlige	quirliges	quirligen	1.94		0	kaikki	1	0	1	1	
+1449	weh	weher	wehe	wehes	wehen	1.94	freq_shared:intj,noun	0	kaikki	0	0	0	0	wrong_form
+1450	wolkenlos	wolkenloser	wolkenlose	wolkenloses	wolkenlosen	1.94		0	kaikki	1	1	0	1	
+1451	abwesend	abwesender	abwesende	abwesendes	abwesenden	1.93		0	kaikki	0	0	0	1	ugly_in_sentence
+1452	attisch	attischer	attische	attisches	attischen	1.93	relational	0	kaikki	0	0	0	1	obscure
+1453	drollig	drolliger	drollige	drolliges	drolligen	1.93		0	kaikki	1	1	0	1	
+1454	hager	hagerer	hagere	hageres	hageren	1.93		0	kaikki	1	0	0	1	
+1455	konfus	konfuser	konfuse	konfuses	konfusen	1.93		0	kaikki	1	0	1	1	
+1456	lakonisch	lakonischer	lakonische	lakonisches	lakonischen	1.93		0	kaikki	1	0	1	1	
+1457	riechend	riechender	riechende	riechendes	riechenden	1.93		0	kaikki	0	0	0	1	ugly_in_sentence
+1458	satanisch	satanischer	satanische	satanisches	satanischen	1.93		0	kaikki	0	0	0	1	sensitive
+1459	standhaft	standhafter	standhafte	standhaftes	standhaften	1.93		0	kaikki	1	0	1	1	
+1460	todsicher	todsicherer	todsichere	todsicheres	todsicheren	1.93		0	kaikki	0	0	0	1	sensitive
+1461	treulos	treuloser	treulose	treuloses	treulosen	1.93		0	kaikki	0	0	0	1	negative
+1462	unachtsam	unachtsamer	unachtsame	unachtsames	unachtsamen	1.93		0	kaikki	1	0	1	1	
+1463	verbrieft	verbriefter	verbriefte	verbrieftes	verbrieften	1.93		0	kaikki	0	0	0	1	jargon
+1464	wehrhaft	wehrhafter	wehrhafte	wehrhaftes	wehrhaften	1.93		0	kaikki	0	0	0	1	sensitive
+1465	diebisch	diebischer	diebische	diebisches	diebischen	1.92		0	kaikki	0	0	0	1	sensitive
+1466	einfarbig	einfarbiger	einfarbige	einfarbiges	einfarbigen	1.92		0	kaikki	1	1	0	1	
+1467	estnisch	estnischer	estnische	estnisches	estnischen	1.92	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1468	frontal	frontaler	frontale	frontales	frontalen	1.92		0	kaikki	0	0	0	1	ugly_in_sentence
+1469	gefiedert	gefiederter	gefiederte	gefiedertes	gefiederten	1.92		0	kaikki	1	1	0	1	
+1470	kubanisch	kubanischer	kubanische	kubanisches	kubanischen	1.92	relational	0	kaikki	0	0	0	1	sensitive
+1471	launig	launiger	launige	launiges	launigen	1.92		0	kaikki	1	0	1	1	
+1472	launisch	launischer	launische	launisches	launischen	1.92		0	kaikki	1	0	0	1	
+1473	nasal	nasaler	nasale	nasales	nasalen	1.92	freq_shared:noun	0	kaikki	0	0	0	1	jargon
+1474	neblig	nebliger	neblige	nebliges	nebligen	1.92		0	kaikki	1	1	0	1	
+1475	steuerbar	steuerbarer	steuerbare	steuerbares	steuerbaren	1.92		0	kaikki	0	0	0	1	jargon
+1476	todkrank	todkranker	todkranke	todkrankes	todkranken	1.92		0	kaikki	0	0	0	1	sensitive
+1477	volatil	volatiler	volatile	volatiles	volatilen	1.92		0	kaikki	0	0	0	1	jargon
+1478	voreilig	voreiliger	voreilige	voreiliges	voreiligen	1.92		0	kaikki	1	0	1	1	
+1479	bisexuell	bisexueller	bisexuelle	bisexuelles	bisexuellen	1.91		0	kaikki	0	0	0	1	sensitive
+1480	erbracht	erbrachter	erbrachte	erbrachtes	erbrachten	1.91		0	kaikki	0	0	0	1	ugly_in_sentence
+1481	erschwert	erschwerter	erschwerte	erschwertes	erschwerten	1.91		0	kaikki	0	0	0	1	ugly_in_sentence
+1482	gefahrlos	gefahrloser	gefahrlose	gefahrloses	gefahrlosen	1.91		0	kaikki	1	0	1	1	
+1483	goldgelb	goldgelber	goldgelbe	goldgelbes	goldgelben	1.91		0	kaikki	1	1	0	1	
+1484	mittig	mittiger	mittige	mittiges	mittigen	1.91		0	kaikki	0	0	0	1	ugly_in_sentence
+1485	sechsfach	sechsfacher	sechsfache	sechsfaches	sechsfachen	1.91		0	kaikki	0	0	0	1	ugly_in_sentence
+1486	taubstumm	taubstummer	taubstumme	taubstummes	taubstummen	1.91	offensive:1/1	0	kaikki	0	0	0	1	offensive
+1487	trinkbar	trinkbarer	trinkbare	trinkbares	trinkbaren	1.91		0	kaikki	0	0	0	1	ugly_in_sentence
+1488	unwohl	unwohler	unwohle	unwohles	unwohlen	1.91		0	kaikki	0	0	0	0	predicative only
+1489	urig	uriger	urige	uriges	urigen	1.91		0	kaikki	1	0	0	1	
+1490	verlegen	verlegener	verlegene	verlegenes	verlegenen	1.91	partly_restricted:1/3;freq_shared:noun	0	kaikki	1	0	1	1	
+1491	bemannt	bemannter	bemannte	bemanntes	bemannten	1.9		0	kaikki	0	0	0	1	jargon
+1492	betreten	betretener	betretene	betretenes	betretenen	1.9	freq_shared:noun	0	kaikki	0	0	0	1	ambiguous
+1493	heutig	heutiger	heutige	heutiges	heutigen	1.9		0	kaikki	0	0	0	1	function_word
+1494	klangvoll	klangvoller	klangvolle	klangvolles	klangvollen	1.9		0	kaikki	1	0	0	1	
+1495	kleinlich	kleinlicher	kleinliche	kleinliches	kleinlichen	1.9		0	kaikki	1	0	0	1	
+1496	kultisch	kultischer	kultische	kultisches	kultischen	1.9		0	kaikki	0	0	0	1	sensitive
+1497	lauschig	lauschiger	lauschige	lauschiges	lauschigen	1.9		0	kaikki	1	0	0	1	
+1498	nichtig	nichtiger	nichtige	nichtiges	nichtigen	1.9		0	kaikki	0	0	0	1	obscure
+1499	nuanciert	nuancierter	nuancierte	nuanciertes	nuancierten	1.9		0	kaikki	0	0	0	1	obscure
+1500	nussig	nussiger	nussige	nussiges	nussigen	1.9		0	kaikki	1	0	0	1	
+1501	praxisnah	praxisnaher	praxisnahe	praxisnahes	praxisnahen	1.9		0	kaikki	0	0	0	1	jargon
+1502	sonstig	sonstiger	sonstige	sonstiges	sonstigen	1.9		0	kaikki	0	0	0	1	function_word
+1503	steinern	steinerner	steinerne	steinernes	steinernen	1.9	relational	0	kaikki	1	0	0	1	
+1504	wackelig	wackeliger	wackelige	wackeliges	wackeligen	1.9		0	kaikki	1	1	0	1	
+1505	behauptet	behaupteter	behauptete	behauptetes	behaupteten	1.89		0	kaikki	0	0	0	1	ugly_in_sentence
+1506	beinhart	beinharter	beinharte	beinhartes	beinharten	1.89		0	kaikki	1	0	0	1	
+1507	diagonal	diagonaler	diagonale	diagonales	diagonalen	1.89		0	kaikki	1	0	0	1	
+1508	fluffig	fluffiger	fluffige	fluffiges	fluffigen	1.89		0	kaikki	1	1	0	1	
+1509	gallisch	gallischer	gallische	gallisches	gallischen	1.89	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1510	planlos	planloser	planlose	planloses	planlosen	1.89		0	kaikki	1	0	1	1	
+1511	ruhmreich	ruhmreicher	ruhmreiche	ruhmreiches	ruhmreichen	1.89		0	kaikki	1	0	0	1	
+1512	stufenlos	stufenloser	stufenlose	stufenloses	stufenlosen	1.89		0	kaikki	0	0	0	1	jargon
+1513	uneben	unebener	unebene	unebenes	unebenen	1.89		0	kaikki	1	0	0	1	
+1514	unfrei	unfreier	unfreie	unfreies	unfreien	1.89		0	kaikki	0	0	0	1	sensitive
+1515	unlogisch	unlogischer	unlogische	unlogisches	unlogischen	1.89		0	kaikki	1	0	0	1	
+1516	wartend	wartender	wartende	wartendes	wartenden	1.89		0	kaikki	1	0	0	1	
+1517	abweisend	abweisender	abweisende	abweisendes	abweisenden	1.88		0	kaikki	1	0	1	1	
+1518	achtbar	achtbarer	achtbare	achtbares	achtbaren	1.88		0	kaikki	0	0	0	1	archaic
+1519	besiegt	besiegter	besiegte	besiegtes	besiegten	1.88		0	kaikki	0	0	0	1	negative
+1520	bipolar	bipolarer	bipolare	bipolares	bipolaren	1.88		0	kaikki	0	0	0	1	sensitive
+1521	friesisch	friesischer	friesische	friesisches	friesischen	1.88	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1522	queer	queerer	queere	queeres	queeren	1.88	colloquial;homographs:2;freq_shared:noun	0	kaikki	0	0	0	1	sensitive
+1523	ratlos	ratloser	ratlose	ratloses	ratlosen	1.88		0	kaikki	1	0	1	1	
+1524	saudisch	saudischer	saudische	saudisches	saudischen	1.88	relational	0	kaikki	0	0	0	1	sensitive
+1525	unbedarft	unbedarfter	unbedarfte	unbedarftes	unbedarften	1.88		0	kaikki	0	0	0	1	obscure
+1526	ungeteilt	ungeteilter	ungeteilte	ungeteiltes	ungeteilten	1.88		0	kaikki	0	0	0	1	ugly_in_sentence
+1527	bockig	bockiger	bockige	bockiges	bockigen	1.87		0	kaikki	1	1	0	1	
+1528	erledigt	erledigter	erledigte	erledigtes	erledigten	1.87		0	kaikki	0	0	0	1	ambiguous
+1529	floral	floraler	florale	florales	floralen	1.87		0	kaikki	1	0	0	1	
+1530	gefiltert	gefilterter	gefilterte	gefiltertes	gefilterten	1.87		0	kaikki	1	0	0	1	
+1531	generiert	generierter	generierte	generiertes	generierten	1.87		0	kaikki	0	0	0	1	jargon
+1532	genormt	genormter	genormte	genormtes	genormten	1.87		0	kaikki	0	0	0	1	jargon
+1533	lax	laxer	laxe	laxes	laxen	1.87		0	kaikki	0	0	0	1	obscure
+1534	milchig	milchiger	milchige	milchiges	milchigen	1.87		0	kaikki	1	0	0	1	
+1535	offenbar	offenbarer	offenbare	offenbares	offenbaren	1.87		0	kaikki	0	0	0	1	function_word
+1536	reflexiv	reflexiver	reflexive	reflexives	reflexiven	1.87		0	kaikki	0	0	0	1	jargon
+1537	rosarot	rosaroter	rosarote	rosarotes	rosaroten	1.87		0	kaikki	1	1	0	1	
+1538	verliehen	verliehener	verliehene	verliehenes	verliehenen	1.87		0	kaikki	0	0	0	1	ugly_in_sentence
+1539	autark	autarker	autarke	autarkes	autarken	1.86		0	kaikki	0	0	0	1	jargon
+1540	diskursiv	diskursiver	diskursive	diskursives	diskursiven	1.86		0	kaikki	0	0	0	1	jargon
+1541	erstarrt	erstarrter	erstarrte	erstarrtes	erstarrten	1.86		0	kaikki	1	0	0	1	
+1542	etwaig	etwaiger	etwaige	etwaiges	etwaigen	1.86		0	kaikki	0	0	0	1	function_word
+1543	haptisch	haptischer	haptische	haptisches	haptischen	1.86		0	kaikki	0	0	0	1	jargon
+1544	hellgelb	hellgelber	hellgelbe	hellgelbes	hellgelben	1.86	freq_shared:noun	0	kaikki	1	1	0	1	
+1545	lasch	lascher	lasche	lasches	laschen	1.86	partly_restricted:1/3	0	kaikki	1	0	0	1	
+1546	misslich	misslicher	missliche	missliches	misslichen	1.86		0	kaikki	0	0	0	1	obscure
+1547	rasiert	rasierter	rasierte	rasiertes	rasierten	1.86		0	kaikki	1	0	0	1	
+1548	veranlagt	veranlagter	veranlagte	veranlagtes	veranlagten	1.86		0	kaikki+olddict	0	0	0	0	needs modifier
+1549	veredelt	veredelter	veredelte	veredeltes	veredelten	1.86		0	kaikki	0	0	0	1	jargon
+1550	abbaubar	abbaubarer	abbaubare	abbaubares	abbaubaren	1.85		0	kaikki	0	0	0	1	jargon
+1551	baltisch	baltischer	baltische	baltisches	baltischen	1.85	relational;freq_shared:noun	0	kaikki	0	0	0	1	sensitive
+1552	bodenlos	bodenloser	bodenlose	bodenloses	bodenlosen	1.85		0	kaikki	0	0	0	1	ugly_in_sentence
+1553	geborgen	geborgener	geborgene	geborgenes	geborgenen	1.85		0	kaikki	1	0	1	1	
+1554	karitativ	karitativer	karitative	karitatives	karitativen	1.85		0	kaikki	0	0	0	1	jargon
+1555	obligat	obligater	obligate	obligates	obligaten	1.85		0	kaikki	0	0	0	1	jargon
+1556	ruhelos	ruheloser	ruhelose	ruheloses	ruhelosen	1.85		0	kaikki	1	0	1	1	
+1557	seidig	seidiger	seidige	seidiges	seidigen	1.85		0	kaikki	1	1	0	1	
+1558	achteckig	achteckiger	achteckige	achteckiges	achteckigen	1.84		0	kaikki	1	0	0	1	
+1559	biogen	biogener	biogene	biogenes	biogenen	1.84		0	kaikki	0	0	0	1	jargon
+1560	buschig	buschiger	buschige	buschiges	buschigen	1.84		0	kaikki	1	1	0	1	
+1561	erlangt	erlangter	erlangte	erlangtes	erlangten	1.84		0	kaikki	0	0	0	1	ugly_in_sentence
+1562	erwartend	erwartender	erwartende	erwartendes	erwartenden	1.84		0	kaikki	0	0	0	1	ugly_in_sentence
+1563	geruhsam	geruhsamer	geruhsame	geruhsames	geruhsamen	1.84		0	kaikki	1	0	1	1	
+1564	verrostet	verrosteter	verrostete	verrostetes	verrosteten	1.84		0	kaikki	1	1	0	1	
+1565	abnorm	abnormer	abnorme	abnormes	abnormen	1.83		0	kaikki	0	0	0	1	sensitive
+1566	bewiesen	bewiesener	bewiesene	bewiesenes	bewiesenen	1.83		0	kaikki	0	0	0	1	ugly_in_sentence
+1567	bleifrei	bleifreier	bleifreie	bleifreies	bleifreien	1.83		0	kaikki	0	0	0	1	jargon
+1568	heimatlos	heimatloser	heimatlose	heimatloses	heimatlosen	1.83		0	kaikki	0	0	0	1	sensitive
+1569	ikonisch	ikonischer	ikonische	ikonisches	ikonischen	1.83		0	kaikki	1	0	0	1	
+1570	lehrend	lehrender	lehrende	lehrendes	lehrenden	1.83		0	kaikki	0	0	0	1	ugly_in_sentence
+1571	schlapp	schlapper	schlappe	schlappes	schlappen	1.83		0	kaikki	1	0	0	1	
+1572	situativ	situativer	situative	situatives	situativen	1.83		0	kaikki	0	0	0	1	jargon
+1573	umgehend	umgehender	umgehende	umgehendes	umgehenden	1.83		0	kaikki	0	0	0	1	ugly_in_sentence
+1574	unteilbar	unteilbarer	unteilbare	unteilbares	unteilbaren	1.83		0	kaikki	0	0	0	1	jargon
+1575	vererbt	vererbter	vererbte	vererbtes	vererbten	1.83		0	kaikki	0	0	0	1	ugly_in_sentence
+1576	wagemutig	wagemutiger	wagemutige	wagemutiges	wagemutigen	1.83		0	kaikki	1	0	1	1	
+1577	wandelnd	wandelnder	wandelnde	wandelndes	wandelnden	1.83		0	kaikki	0	0	0	1	ugly_in_sentence
+1578	ekelig	ekeliger	ekelige	ekeliges	ekeligen	1.82	alt_of:eklig	0	kaikki	0	0	0	1	variant of eklig
+1579	kess	kesser	kesse	kesses	kessen	1.82		0	kaikki	1	0	1	1	
+1580	koptisch	koptischer	koptische	koptisches	koptischen	1.82	relational;freq_shared:name	0	kaikki	0	0	0	1	sensitive
+1581	machbar	machbarer	machbare	machbares	machbaren	1.82		0	kaikki	0	0	0	1	ugly_in_sentence
+1582	nominal	nominaler	nominale	nominales	nominalen	1.82		0	kaikki	0	0	0	1	jargon
+1583	profund	profunder	profunde	profundes	profunden	1.82		0	kaikki	0	0	0	1	obscure
+1584	unheilig	unheiliger	unheilige	unheiliges	unheiligen	1.82		0	kaikki	0	0	0	1	sensitive
+1585	baugleich	baugleicher	baugleiche	baugleiches	baugleichen	1.81		0	kaikki	0	0	0	1	jargon
+1586	genuin	genuiner	genuine	genuines	genuinen	1.81		0	kaikki	0	0	0	1	obscure
+1587	halbstark	halbstarker	halbstarke	halbstarkes	halbstarken	1.81	derogatory:1/1;colloquial	0	kaikki	0	0	0	1	offensive
+1588	haltig	haltiger	haltige	haltiges	haltigen	1.81		0	kaikki	0	0	0	0	wrong_form; only as suffix (-haltig)
+1589	hexagonal	hexagonaler	hexagonale	hexagonales	hexagonalen	1.81		0	kaikki	0	0	0	1	jargon
+1590	klagend	klagender	klagende	klagendes	klagenden	1.81		0	kaikki	0	0	0	1	ugly_in_sentence
+1591	osmanisch	osmanischer	osmanische	osmanisches	osmanischen	1.81	relational	0	kaikki	0	0	0	1	sensitive
+1592	passgenau	passgenauer	passgenaue	passgenaues	passgenauen	1.81		0	kaikki	0	0	0	1	jargon
+1593	penibel	penibler	penible	penibles	peniblen	1.81		0	kaikki	1	0	1	1	
+1594	prompt	prompter	prompte	promptes	prompten	1.81	freq_shared:noun	0	kaikki	1	0	1	1	
+1595	rutschig	rutschiger	rutschige	rutschiges	rutschigen	1.81		0	kaikki	1	1	0	1	
+1596	simultan	simultaner	simultane	simultanes	simultanen	1.81		0	kaikki	0	0	0	1	jargon
+1597	suggestiv	suggestiver	suggestive	suggestives	suggestiven	1.81		0	kaikki	0	0	0	1	jargon
+1598	tonal	tonaler	tonale	tonales	tonalen	1.81		0	kaikki	0	0	0	1	jargon
+1599	unbenannt	unbenannter	unbenannte	unbenanntes	unbenannten	1.81		0	kaikki	0	0	0	1	ugly_in_sentence
+1600	anteilig	anteiliger	anteilige	anteiliges	anteiligen	1.8		0	kaikki	0	0	0	1	jargon
+1601	atmend	atmender	atmende	atmendes	atmenden	1.8		0	kaikki	0	0	0	1	participle; ugly_in_sentence
+1602	beengt	beengter	beengte	beengtes	beengten	1.8		0	kaikki	0	0	0	1	ugly_in_sentence; mostly predicative
+1603	epochal	epochaler	epochale	epochales	epochalen	1.8		0	kaikki	0	0	0	1	obscure
+1604	hochfest	hochfester	hochfeste	hochfestes	hochfesten	1.8		0	kaikki	0	0	0	1	jargon
+1605	infam	infamer	infame	infames	infamen	1.8		0	kaikki	0	0	1	1	negative
+1606	korpulent	korpulenter	korpulente	korpulentes	korpulenten	1.8		0	kaikki	0	0	0	1	sensitive
+1607	lieblos	liebloser	lieblose	liebloses	lieblosen	1.8		0	kaikki	0	0	1	1	negative
+1608	ratsam	ratsamer	ratsame	ratsames	ratsamen	1.8		0	kaikki	0	0	0	1	ugly_in_sentence; predicative only
+1609	stimmlos	stimmloser	stimmlose	stimmloses	stimmlosen	1.8		0	kaikki	0	0	0	1	jargon
+1610	untragbar	untragbarer	untragbare	untragbares	untragbaren	1.8		0	kaikki	0	0	0	1	negative
+1611	wollig	wolliger	wollige	wolliges	wolligen	1.8		0	kaikki	1	1	0	1	

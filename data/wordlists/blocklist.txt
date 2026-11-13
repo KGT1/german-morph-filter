@@ -1,0 +1,40 @@
+# Words that must never appear in a generated password, regardless of review decisions.
+# Safety net on top of the manual review in data/wordlists/curated/*.tsv.
+# One word per line, matched case-insensitively against lemma and all output forms.
+
+# Slurs and insults seen in the candidate data
+fidschi
+mongo
+neger
+nigger
+spasti
+kanake
+schwuchtel
+zigeuner
+
+# Sexual / vulgar
+ficken
+fickt
+geil
+muschi
+notgeil
+penis
+porno
+titte
+
+# Nazi-era and extremist terms
+arisch
+entartet
+gaskammer
+judenfrage
+lebensraum
+umvolkung
+
+# Violence and death
+mord
+morden
+mordet
+leiche
+selbstmord
+toeten
+toetet
