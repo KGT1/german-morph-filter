@@ -72,8 +72,9 @@ def is_blocked(row: Dict[str, str], forms: Iterable[str], blocklist: Set[str]) -
 
 
 def build_nouns(rows: List[Dict[str, str]], blocklist: Set[str], kids: bool) -> List[dict]:
-    """Select nouns: kept, gender confirmed, picturable, layout-safe, unique nominative"""
-    result, seen = [], set()
+    """Select nouns: kept, gender confirmed, picturable, layout-safe, unique nom and acc forms"""
+    result: List[dict] = []
+    seen: Dict[str, Set[str]] = {'nom': set(), 'acc': set()}
     for row in rows:
         if not (is_flagged(row, 'keep') and is_flagged(row, 'gender_ok')):
             continue
@@ -87,9 +88,13 @@ def build_nouns(rows: List[Dict[str, str]], blocklist: Set[str], kids: bool) -> 
         if not (NOUN_WORD.match(nom) and NOUN_WORD.match(acc)) or gender not in {'m', 'f', 'n'}:
             logger.warning(f"Skipping noun with unsafe form: {nom}/{acc}")
             continue
-        if is_blocked(row, [row['lemma'], nom, acc], blocklist) or nom in seen:
+        if is_blocked(row, [row['lemma'], nom, acc], blocklist):
             continue
-        seen.add(nom)
+        # Drache and Drachen (kite) share the accusative "Drachen"; keep the more frequent one
+        if nom in seen['nom'] or acc in seen['acc']:
+            continue
+        seen['nom'].add(nom)
+        seen['acc'].add(acc)
         result.append({'g': gender, 'nom': nom, 'acc': acc})
     return sorted(result, key=lambda n: n['nom'])
 
